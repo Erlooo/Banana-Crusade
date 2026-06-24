@@ -4,7 +4,15 @@ Bem-vindo(a) ao projeto colaborativo de tradução não oficial do **Trench Crus
 
 Este repositório foi criado para organizar, traduzir e revisar os arquivos de regras, compêndios e lore do jogo, com a ajuda da comunidade brasileira.
 
-## 🗂️ Arquivos Principais
+## 📖 Livro de Regras (Tradução Completa - Em Revisão)
+
+Acesse a versão compilada com todas as regras já traduzidas para começar a jogar ou nos ajudar com a revisão:
+- 📥 **[Baixar Rulebook em PDF (PT-BR)](./TrenchCrusade_Translation/PT-BR/Rulebook_PT-BR_full.pdf)**
+- 📄 **[Ler Rulebook em Markdown (PT-BR)](./TrenchCrusade_Translation/PT-BR/Rulebook_PT-BR_full.md)**
+
+---
+
+## 🗂️ Outros Arquivos Principais
 
 Aqui estão alguns dos arquivos de destaque no projeto:
 - **[GLOSSARIO_PT-BR.md](./GLOSSARIO_PT-BR.md)**: A peça central de termos técnicos, nomes de tropas e armas. Consulte sempre este arquivo antes de traduzir para mantermos a consistência!
