@@ -81,7 +81,7 @@ Referência canônica de tradução para criação de conteúdo homebrew. Todos 
 
 | Inglês | PT-BR | Símbolo | Regras |
 | :--- | :--- | :---: | :--- |
-| Blood Marker | Marcador de Sangue | ⚡ | Máx. 6. Cada um: +1 à Rolagem de Ferimento contra o modelo. 6 = Fora de Ação automático. |
+| Blood Marker | Marcador de Sangue | 🩸 | Máx. 6. Cada um: +1 à Rolagem de Ferimento contra o modelo. 6 = Fora de Ação automático. |
 | Blessing Marker | Marcador de Bênção | ✨ | Máx. 6. Gaste 1 para: +DADO em qualquer teste OU remover 1 Marcador de Sangue. |
 | Infection Marker | Marcador de Infecção | ☣ | Cada um: -1 em um atributo até o fim da batalha. Removido com Água Benta. |
 | Glory Points | Pontos de Glória | ☼ | Moeda secundária para mercenários e itens especiais de campanha. |
