@@ -1317,7 +1317,7 @@ Batalhas são frequentemente travadas para capturar cidades, vilas e aldeias loc
 
 **Peças de Terreno de Ruínas Decimadas**
 
-Os jogadores fazem um desempate, é o vencedor monta o terreno para a partida. As peças de terreno para uma partida ocorrendo em Ruínas Decimadas devem ser escolhidas da seguinte lista:
+Os jogadores fazem um desempate, e o vencedor monta o terreno para a partida. As peças de terreno para uma partida ocorrendo em Ruínas Decimadas devem ser escolhidas da seguinte lista:
 
 - Edifícios em Ruínas
 - Ruínas de Canto
@@ -1341,7 +1341,7 @@ Atrás da Terra de Ninguém se encontra um sistema de Linhas de Trincheira inter
 
 **Peças de Terreno de Linhas de Trincheira**
 
-Os jogadores fazem um desempate, é o vencedor monta o terreno para a partida. As peças de terreno para uma partida ocorrendo em Linhas de Trincheira devem ser escolhidas da seguinte lista:
+Os jogadores fazem um desempate, e o vencedor monta o terreno para a partida. As peças de terreno para uma partida ocorrendo em Linhas de Trincheira devem ser escolhidas da seguinte lista:
 
 - Trincheiras
 - Ruínas de Canto
@@ -1355,7 +1355,7 @@ Você precisará de Trincheiras suficientes para alcançar de uma borda do campo
 
 **Montagem do Terreno**
 
-Quaisquer trincheiras que serão usadas para a partida devem ser montadas primeiro. A primeira trincheira deve ser montada de forma que entre por uma borda do campo de batalha, e trincheiras subsequentes devem se conectar com uma trincheira existente. Uma vez que todas as trincheiras tenham sido montadas, elas devem se estender da borda do campo de batalha, de ondé a primeira trincheira foi colocada, até a borda oposta do campo de batalha, de forma que um modelo pudesse entrar por uma borda e sair pela outra sem nunca ter que sair de uma trincheira. Após todas as trincheiras terem sido montadas, qualquer outro terreno pode ser montado em qualquer lugar do campo de batalha que esteja a pelo menos 1" de quaisquer trincheiras e 3" de quaisquer outras peças de terreno.
+Quaisquer trincheiras que serão usadas para a partida devem ser montadas primeiro. A primeira trincheira deve ser montada de forma que entre por uma borda do campo de batalha, e trincheiras subsequentes devem se conectar com uma trincheira existente. Uma vez que todas as trincheiras tenham sido montadas, elas devem se estender da borda do campo de batalha, de onde a primeira trincheira foi colocada, até a borda oposta do campo de batalha, de forma que um modelo pudesse entrar por uma borda e sair pela outra sem nunca ter que sair de uma trincheira. Após todas as trincheiras terem sido montadas, qualquer outro terreno pode ser montado em qualquer lugar do campo de batalha que esteja a pelo menos 1" de quaisquer trincheiras e 3" de quaisquer outras peças de terreno.
 
 
 # Equipamento de Batalha
@@ -1386,15 +1386,15 @@ Cada peça de Equipamento de Batalha tem uma Descrição de Equipamento de Batal
     - *Outro:* Se o alcance está listado como "-", o Equipamento de Batalha não pode ser usado para fazer um ataque.
   - **Palavras-Chave:** Quaisquer Palavras-Chave que se apliquem à peça de Equipamento de Batalha.
     - *Palavras-Chave de Arma:* Palavras-Chave para Armas de 1 Mão ou 2 Mãos e Granadas se aplicam a ataques feitos pelo modelo que possui a arma (ignore-as em todos os outros momentos).
-    - *Palavras-Chave de Armadura e Escudo:* Palavras-Chave para Armadura e Escudos se aplicam às Testes de Ferimento para o modelo que possui a Armadura e/ou Escudo (ignore-as em todos os outros momentos).
-    - *Outras Palavras-Chave de Equipamento de Batalha:* Palavras-Chave para outro Equipamento de Batalha são adicionadas as Palavras-Chave encontradas no Perfil do modelo. Elas se aplicam o tempo todo, a menos que declarado especificamente de outra forma.
+    - *Palavras-Chave de Armadura e Escudo:* Palavras-Chave para Armadura e Escudos se aplicam aos Testes de Ferimento para o modelo que possui a Armadura e/ou Escudo (ignore-as em todos os outros momentos).
+    - *Outras Palavras-Chave de Equipamento de Batalha:* Palavras-Chave para outro Equipamento de Batalha são adicionadas às Palavras-Chave encontradas no Perfil do modelo. Elas se aplicam o tempo todo, a menos que declarado especificamente de outra forma.
 - **Regras Especiais:** Alguns Equipamentos de Batalha possuem regras especiais que se aplicam exclusivamente a eles. Regras especiais aparecem abaixo do Perfil de Equipamento de Batalha.
 
 ---
 
 ## Dado de Arma e Dado de Ferimento
 
-Note que se uma Arma tiver a Palavra-Chave +/-DADO, então a Palavra-Chave só se aplica os Testes de Sucesso para ataques feitos pela arma. Ela não se aplica a nenhum outro tipo de Teste de Sucesso, ou a Testes de Ferimento. Da mesma forma, se uma Arma tiver a Palavra-Chave +/-DADO DE FERIMENTO, então a Palavra-Chave só se aplica a Testes de Ferimento para ataques feitos pela arma. Ela não se aplica a nenhum outro tipo de Teste de Ferimento, ou a Testes de Sucesso.
+Note que se uma Arma tiver a Palavra-Chave +/-DADO, então a Palavra-Chave só se aplica aos Testes de Sucesso para ataques feitos pela arma. Ela não se aplica a nenhum outro tipo de Teste de Sucesso, ou a Testes de Ferimento. Da mesma forma, se uma Arma tiver a Palavra-Chave +/-DADO DE FERIMENTO, então a Palavra-Chave só se aplica a Testes de Ferimento para ataques feitos pela arma. Ela não se aplica a nenhum outro tipo de Teste de Ferimento, ou a Testes de Sucesso.
 
 ---
 
@@ -1538,7 +1538,7 @@ Uma arma primitiva de uma era passada, o mosquete é um rifle de cano liso que d
 
 ### Pistola
 
-Pistolas vem em uma variedade impressionante, desde revolveres até pistolas semiautomáticas. Forjas Heréticas produzem suas próprias, frequentemente armas laterais altamente elaboradas. Elas são extensivamente usadas em combate de curta distância.
+Pistolas vêm em uma variedade impressionante, desde revólveres até pistolas semiautomáticas. Forjas Heréticas produzem suas próprias, frequentemente armas laterais altamente elaboradas. Elas são extensivamente usadas em combate de curta distância.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
@@ -1554,7 +1554,7 @@ Rifles semiautomáticos são ditos ser uma invenção de Marbas, o Demônio que 
 
 ### Espingarda
 
-Espingarda de ação por bomba de cano curto, carregada com seis cartuchos contendo chumbo 00 endurecido com antimônio, a espingarda de combate é ideal para confrontos de curto alcance, limpeza de trincheiras e eliminação de infantaria levemente blindada. Frequentemente apresentando coronhas feitas de nogueira ou outras madeiras raras, e costume das tropas decorar essas armas com entalhes e inscrições.
+Espingarda de ação por bomba de cano curto, carregada com seis cartuchos contendo chumbo 00 endurecido com antimônio, a espingarda de combate é ideal para confrontos de curto alcance, limpeza de trincheiras e eliminação de infantaria levemente blindada. Frequentemente apresentando coronhas feitas de nogueira ou outras madeiras raras, é costume das tropas decorar essas armas com entalhes e inscrições.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
@@ -1616,7 +1616,7 @@ Baionetas são lâminas em forma de espigões ou adagas que podem ser fixadas na
 
 ### Mangual/Flagelo
 
-Os chicotes de metal da Igreja são supremamente bons tanto em incutir disciplina nas fileiras dos fiéis quanto em atormentar os heréticos. Muitos demônios também apreciam usar essas armas devido a dor excruciante que infligem. Essas armas são extremamente difíceis de esquivar.
+Os chicotes de metal da Igreja são supremamente bons tanto em incutir disciplina nas fileiras dos fiéis quanto em atormentar os heréticos. Muitos demônios também apreciam usar essas armas devido à dor excruciante que infligem. Essas armas são extremamente difíceis de esquivar.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
@@ -1642,7 +1642,7 @@ Claymores, Zweihanders e até enormes machados de batalha são usados nas trinch
 
 ### Misericórdia
 
-A adaga misericórdia e projetada para tirar inimigos de seu sofrimento encontrando brechas na armadura: fendas dos olhos, juntas do pescoco e toda outra costura vulnerável.
+A adaga misericórdia é projetada para tirar inimigos de seu sofrimento encontrando brechas na armadura: fendas dos olhos, juntas do pescoço e toda outra costura vulnerável.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
@@ -1660,7 +1660,7 @@ Piques de trincheira, podoes, lanças e outras armas de haste longas são excele
 
 ### Espada/Machado
 
-Devido as tradições marciais de muitas nações orgulhosas e aos avanços na tecnologia de armadura, espadas e machados são extremamente populares, especialmente entre unidades de elite e oficiais. São supremamente úteis para finalizar oponentes Derrubados e causar ferimentos que sangram profusamente.
+Devido às tradições marciais de muitas nações orgulhosas e aos avanços na tecnologia de armadura, espadas e machados são extremamente populares, especialmente entre unidades de elite e oficiais. São supremamente úteis para finalizar oponentes Derrubados e causar ferimentos que sangram profusamente.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
@@ -1686,7 +1686,7 @@ Virtualmente todos os soldados carregam uma faca de trincheira, adaga ou outro t
 
 ## Granadas
 
-Granadas tem um Alcance e podem ser usadas para realizar um Ataque a Distância mesmo não sendo especificamente uma Arma a Distância (ver Regras Centrais). Elas não contam para o número de Armas a Distância que um modelo pode ter, e assume-se que um modelo está carregando o suficiente para poder usá-las a cada Turno.
+Granadas têm um Alcance e podem ser usadas para realizar um Ataque a Distância mesmo não sendo especificamente uma Arma a Distância (ver Regras Centrais). Elas não contam para o número de Armas a Distância que um modelo pode ter, e assume-se que um modelo está carregando o suficiente para poder usá-las a cada Turno.
 
 ### Granadas de Fragmentação
 
@@ -1738,7 +1738,7 @@ Explosivos de campo projetados para destruir fortificações inimigas e romper a
 
 ## Escudos
 
-Palavras-Chave para Escudos só se aplicam às Testes de Ferimento para o modelo que está usando o Escudo (ignore-as em todos os outros momentos). O efeito de um Escudo pode ser combinado com o efeito de uma Armadura, a menos que anotado de outra forma. Um Escudo não bloqueia Linha de Visão para o modelo que o carrega.
+Palavras-Chave para Escudos só se aplicam aos Testes de Ferimento para o modelo que está usando o Escudo (ignore-as em todos os outros momentos). O efeito de um Escudo pode ser combinado com o efeito de uma Armadura, a menos que anotado de outra forma. Um Escudo não bloqueia Linha de Visão para o modelo que o carrega.
 
 ### Escudo de Trincheira
 
@@ -1752,7 +1752,7 @@ Escudos usados na guerra de trincheiras são feitos de aço reforçado com orich
 
 ## Armadura
 
-Palavras-Chave para Armadura só se aplicam às Testes de Ferimento para o modelo que está vestindo a Armadura (ignore-as em todos os outros momentos). Às vezes o MODIFICADOR DE FERIMENTO para Armadura ou um Escudo está listado na Tabela de Modificadores de Ferimento nas Regras Centrais e é repetido por completude no Perfil da Armadura ou Escudo também. Quando este for o caso, tenha cuidado para não aplicar o modificador mais de uma vez.
+Palavras-Chave para Armadura só se aplicam aos Testes de Ferimento para o modelo que está vestindo a Armadura (ignore-as em todos os outros momentos). Às vezes o MODIFICADOR DE FERIMENTO para Armadura ou um Escudo está listado na Tabela de Modificadores de Ferimento nas Regras Centrais e é repetido por completude no Perfil da Armadura ou Escudo também. Quando este for o caso, tenha cuidado para não aplicar o modificador mais de uma vez.
 
 ### Armadura Reforçada
 
@@ -1774,7 +1774,7 @@ Com os avanços em metalurgia e tecnologia, tanto exércitos Fiéis quanto Heré
 
 ## Equipamento
 
-A menos que anotado de outra forma, um modelo pode ter qualquer número de peças de Equipamento, mas não pode ter a mesma peça de Equipamento mais de uma vez. Por exemplo, um modelo poderia ter um Capirote de Ferro é um Kit Médico, mas não poderia ter dois Capirotes de Ferro ou dois Kits Médicos.
+A menos que anotado de outra forma, um modelo pode ter qualquer número de peças de Equipamento, mas não pode ter a mesma peça de Equipamento mais de uma vez. Por exemplo, um modelo poderia ter um Capirote de Ferro e um Kit Médico, mas não poderia ter dois Capirotes de Ferro ou dois Kits Médicos.
 
 ### Balas Perfurantes
 
@@ -1786,7 +1786,7 @@ A tecnologia avançada de armadura forçou as armarias da Grande Guerra a forjar
 
 ### Binóculos
 
-É bastante comum que oficiais carreguem binóculos de campo de batalha finamente trabalhados para examinar o terreno a frente, localizar tropas inimigas escondidas e observar qualquer sinal de movimento.
+É bastante comum que oficiais carreguem binóculos de campo de batalha finamente trabalhados para examinar o terreno à frente, localizar tropas inimigas escondidas e observar qualquer sinal de movimento.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
@@ -1806,7 +1806,7 @@ Pequenos ícones de santos, grandes anjos e guerreiros sagrados são uma visão 
 
 ### Capacete de Combate
 
-O simples capacete de combate provou seu valor no campo de batalha repetidàs vezes.
+O simples capacete de combate provou seu valor no campo de batalha repetidas vezes.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
@@ -1832,7 +1832,7 @@ Um Santuário de Campo é representado por uma peça de terreno que tenha pelo m
 
 *Local de Adoração:* Após posicionar um modelo que possua Santuário de Campo, você também pode posicionar seu Santuário de Campo em qualquer lugar inteiramente dentro de sua zona de posicionamento. Na Fase de Moral, cada Santuário de Campo amigo no campo de batalha adiciona 3 ao número de modelos que você tem em seu Bando que não estão Derrubados ou Fora de Ação, até um bônus máximo de 9 modelos extras. Uma vez posicionado, o modelo que tinha o Santuário de Campo não é considerado como estando carregando-o pelo resto da partida.
 
-*Derrube-o!:* Modelos podem atacar um Santuário de Campo como se fosse um modelo inimigo. Se for acertado por um ataque ou estiver no raio de explosão de um ataque feito com uma Arma que tenha a Palavra-Chave EXPLOSÃO, ele é removido do campo de batalha e removido da Ficha de Bando (nenhum Teste de Ferimento é necessária).
+*Derrube-o!:* Modelos podem atacar um Santuário de Campo como se fosse um modelo inimigo. Se for acertado por um ataque ou estiver no raio de explosão de um ataque feito com uma Arma que tenha a Palavra-Chave EXPLOSÃO, ele é removido do campo de batalha e removido da Ficha de Bando (nenhum Teste de Ferimento é necessário).
 
 ### Máscara de Gás
 
@@ -1844,7 +1844,7 @@ Gás mostarda, fosgeno, cloro, bem como fumos nocivos dos bolgias do Inferno, as
 
 ### Contrato de Alma Condenada
 
-Um contrato infernal assinado por um Herético é o demônio que vira coletar a alma condenada quando a morte estiver próxima. O signatario mortal explode em chamas Infernais quando gravemente ferido.
+Um contrato infernal assinado por um Herético e o demônio que vira coletar a alma condenada quando a morte estiver próxima. O signatário mortal explode em chamas Infernais quando gravemente ferido.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
@@ -1854,7 +1854,7 @@ Um contrato infernal assinado por um Herético é o demônio que vira coletar a 
 
 ### Relíquia Sagrada
 
-Devido a ameaça a toda a Criação, as igrejas, catedrais e basílicas esvaziaram seus relicários e distribuiram suas relíquias as tropas da linha de frente para ajuda-las em sua batalha contra os condenados.
+Devido à ameaça a toda a Criação, as igrejas, catedrais e basílicas esvaziaram seus relicários e distribuiram suas relíquias às tropas da linha de frente para ajudá-las em sua batalha contra os condenados.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
