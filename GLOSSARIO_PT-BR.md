@@ -72,6 +72,7 @@ Referência canônica de tradução para criação de conteúdo homebrew. Todos 
 | Out of Action | Fora de Ação | Rolagem de Ferimento 9+, ou 6 Marcadores de Sangue. | Removido do campo. Elites rolam Trauma. |
 | On Fire | Em Chamas | Armas com FOGO ou LANÇA-CHAMAS. | Rolagem de Ferimento automática no início de cada ativação. |
 | Gassed | Gaseado | Armas com GÁS. | Penalidade em todos os testes; Marcador de Sangue extra por turno. |
+| Shaken | Abalada | Falha no Teste de Moral (metade da Warband Abatida/Fora de Ação). | Todas as Rolagens de Sucesso viram Arriscadas. Falha no próximo Teste de Moral = derrota. |
 | Infected | Infectado | Armas com MARCADOR DE INFECÇÃO. | -1 permanente em atributo por marcador até o fim da batalha. |
 | Feared | Aterrorizado | Falha em teste de moral contra MEDO. | Não pode atacar o causador do medo neste turno. |
 

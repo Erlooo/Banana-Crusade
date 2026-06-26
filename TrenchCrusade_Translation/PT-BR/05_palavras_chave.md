@@ -185,7 +185,7 @@ Se um inimigo selecionar um modelo com esta Palavra-Chave como alvo de uma Carga
 Um modelo com esta Palavra-Chave tem a Palavra-Chave NEGAR PESADO. Além disso, ele pode equipar e usar uma Arma Corpo a Corpo de 2 Mãos como se fosse uma Arma Corpo a Corpo de 1 Mão.
 
 ### SULTANATO (Etiqueta)
-Este modelo faz parte da Facção do Sultanato da Muralha de Ferro.
+Este modelo faz parte da Facção do Sultanato de Ferro.
 
 ### A CORTE (Etiqueta)
 Este modelo faz parte da Facção da Corte da Serpente de Sete Cabeças.

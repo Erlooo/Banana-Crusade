@@ -347,7 +347,7 @@ Os seguintes modelos não podem ser Promovidos ao status ELITE:
 
 - **Principado de Nova Antioquia:** -
 - **Peregrinos das Trincheiras:** Prisioneiros Eclesiásticos, Santuário do Ancorita
-- **Sultanato da Muralha de Ferro:** -
+- **Sultanato de Ferro:** -
 - **Legiões Heréticas:** Besta de Assalto Lobo de Guerra, Miseráveis
 - **Culto do Graal Negro:** Escravos do Graal, Escravos da Mosca, Cães do Graal Negro, Amalgama
 - **Corte da Serpente de Sete Cabeças:** Miseráveis, Demônios de Jugo
@@ -426,7 +426,7 @@ Alguns modelos tem capacidade limitada de ganhar Experiência e aprender novas H
 
 - **Nova Antioquia:** -
 - **Peregrinos das Trincheiras:** Comunicante
-- **Sultanato da Muralha de Ferro:** Leão de Jabir, Touro de Bronze, Homunculi (Casa da Sabedoria)
+- **Sultanato de Ferro:** Leão de Jabir, Touro de Bronze, Homunculi (Casa da Sabedoria)
 - **Legiões Heréticas:** Bruxa de Artilharia
 - **Culto do Graal Negro:** -
 - **Corte da Serpente de Sete Cabeças:** Gafanhoto do Abismo, Santo Profanado
@@ -578,7 +578,7 @@ Itens de Glória são peças de Equipamento de Batalha que só podem ser comprad
 | Granada com Propulsão a Foguete | Consumivel, Limite: 1 | 2 ☼ |
 | Cão de Trincheira | Limite: 1 | 1-3 ☼ |
 
-### Sultanato da Muralha de Ferro
+### Sultanato de Ferro
 
 | Item de Glória | Restrição | Custo |
 |----------------|-----------|-------|
