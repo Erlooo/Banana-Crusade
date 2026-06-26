@@ -8,19 +8,32 @@ Este repositório foi criado para organizar, traduzir e revisar os arquivos de r
 ## 📖 Livro de Regras (Tradução Completa - Em Revisão)
 
 Acesse a versão compilada com todas as regras já traduzidas para começar a jogar ou nos ajudar com a revisão:
-- 📥 **[Baixar Rulebook em PDF (PT-BR)](./TrenchCrusade_Translation/PT-BR/Rulebook_PT-BR_full.pdf)**
-- 📄 **[Ler Rulebook em Markdown (PT-BR)](./TrenchCrusade_Translation/PT-BR/Rulebook_PT-BR_full.md)**
+- 📥 **[Baixar Rulebook em PDF (PT-BR)](./TrenchCrusade_Translation/PT-BR/Rulebook_PT-BR_v1.pdf)**
+- 📄 **[Ler Rulebook em Markdown (PT-BR)](./TrenchCrusade_Translation/PT-BR/Rulebook_PT-BR_v1.md)**
 
 ---
 
 ## 🗂️ Outros Arquivos Principais
 
-Aqui estão alguns dos arquivos de destaque no projeto:
-- **[GLOSSARIO_PT-BR.md](./GLOSSARIO_PT-BR.md)**: A peça central de termos técnicos, nomes de tropas e armas. Consulte sempre este arquivo antes de traduzir para mantermos a consistência!
+- **[GLOSSARIO_PT-BR.md](./GLOSSARIO_PT-BR.md)**: Glossário canônico de termos. Consulte sempre antes de traduzir!
 - **[CORE_RULES.md](./CORE_RULES.md)**: Regras base do jogo.
 - **[ADVANCED_RULES.md](./ADVANCED_RULES.md)**: Regras avançadas.
 - **[WARBANDS_COMPENDIUM.md](./WARBANDS_COMPENDIUM.md)**: Compêndio das facções e unidades.
 - **[CAMPAIGN_AND_SCENARIOS.md](./CAMPAIGN_AND_SCENARIOS.md)**: Regras de campanha e cenários.
+
+## 📂 Capítulos da Tradução (para revisão)
+
+| Capítulo | Arquivo |
+|----------|---------|
+| Introdução | [01_introducao.md](./TrenchCrusade_Translation/PT-BR/01_introducao.md) |
+| O Mundo em Chamas | [02_mundo_em_chamas.md](./TrenchCrusade_Translation/PT-BR/02_mundo_em_chamas.md) |
+| Regras Centrais | [03_regras_centrais.md](./TrenchCrusade_Translation/PT-BR/03_regras_centrais.md) |
+| Regras Completas | [04_regras_completas.md](./TrenchCrusade_Translation/PT-BR/04_regras_completas.md) |
+| Palavras-Chave | [05_palavras_chave.md](./TrenchCrusade_Translation/PT-BR/05_palavras_chave.md) |
+| Terreno | [06_terreno.md](./TrenchCrusade_Translation/PT-BR/06_terreno.md) |
+| Equipamento de Batalha | [07_equipamento_batalha.md](./TrenchCrusade_Translation/PT-BR/07_equipamento_batalha.md) |
+| Regras de Campanha | [08_regras_campanha.md](./TrenchCrusade_Translation/PT-BR/08_regras_campanha.md) |
+| Cenários | [09_cenarios.md](./TrenchCrusade_Translation/PT-BR/09_cenarios.md) |
 
 ## 🤝 Como contribuir
 
