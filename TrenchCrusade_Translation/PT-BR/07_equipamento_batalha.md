@@ -586,7 +586,7 @@ A maioria das bandos e unidades carrega estandartes, bandeiras, flâmulas, pend�
 
 ### Relíquia Profana
 
-Um artefato investido de poder profano. Exemplos incluem cabeças de nephilim, estilhaços profanados da Vera Cruz ou partes mumificadas de corpos de santos e bispos caidos.
+Um artefato investido de poder profano. Exemplos incluem cabeças de nephilim, estilhaços profanados da Vera Cruz ou partes mumificadas de corpos de santos e bispos caídos.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|

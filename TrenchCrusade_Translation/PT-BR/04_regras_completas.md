@@ -160,7 +160,7 @@ Todo modelo tem um Perfil que define sua eficacia no jogo. Além disso, Perfis d
 
 **Exemplo de Perfil: Azebs, Custo: 25 👑**
 
-Azebs são soldados recrutados da multidão de províncias do sultanato, onde uma casa em cada vinte e obrigada a equipar e fornecer um guerreiro para servir o principe Daqueles Que Creem. Eles são frequentemente usados por seus superiores como escaramucadores leves para assediar e prender o inimigo enquanto tropas mais pesadas se aproximam para o golpe final.
+Azebs são soldados recrutados da multidão de províncias do sultanato, onde uma casa em cada vinte e obrigada a equipar e fornecer um guerreiro para servir o principe Daqueles Que Creem. Eles são frequentemente usados por seus superiores como escaramuçadores leves para assediar e prender o inimigo enquanto tropas mais pesadas se aproximam para o golpe final.
 
 | Movimento | Distância | Corpo a Corpo | Armadura | Base |
 |-----------|-----------|---------------|----------|------|
@@ -168,7 +168,7 @@ Azebs são soldados recrutados da multidão de províncias do sultanato, onde um
 
 *Equipamento de Batalha:* Um Azeb pode ter qualquer Equipamento de Batalha das Tabelas de Armaria do Sultanato de Ferro.
 
-*Habilidades:* *Escaramucadores Leves*: Qualquer número de Azebs pode ter a Palavra-Chave ESCARAMUÇADOR a um custo de +5 👑 cada.
+*Habilidades:* *Escaramuçadores Leves*: Qualquer número de Azebs pode ter a Palavra-Chave ESCARAMUÇADOR a um custo de +5 👑 cada.
 
 *Palavras-Chave:* SULTANATO
 
@@ -239,7 +239,7 @@ Uma partida de Trench Crusade e dividida em Turnos. O cenário sendo usado para 
 Um Turno de Trench Crusade e dividido nas seguintes fases:
 
 1. **Fase de Iniciativa:** Determine qual jogador tem a Iniciativa e então realize quaisquer tarefas de "início de Turno".
-2. **Fase de Ativação:** Os jogadores alternam Ativando seus modelos, um de cada vez, até que todos os modelos em ambas as Bandos tenham sido Ativados uma vez cada.
+2. **Fase de Ativação:** Os jogadores alternam Ativando seus modelos, um de cada vez, até que todos os modelos em ambas os Bandos tenham sido Ativados uma vez cada.
 3. **Fase de Moral:** Um jogador deve fazer um Teste de Moral se pelo menos metade de seus modelos estiverem Abatidos ou Fora de Ação. Um jogador perde o jogo se falhar em um Teste de Moral dois Turnos seguidos. Em seguida, os jogadores realizam tarefas de fim de Turno e um novo Turno começa.
 
 ---
@@ -594,7 +594,7 @@ Todas as Rolagens de Sucesso feitas para modelos de um Bando Abalado são tratad
 
 ### Encerrando o Turno
 
-Desde que nenhuma das Bandos dos jogadores fuja, eles podem realizar quaisquer tarefas de fim de Turno. Um novo Turno pode então começar.
+Desde que nenhuma dos Bandos dos jogadores fuja, eles podem realizar quaisquer tarefas de fim de Turno. Um novo Turno pode então começar.
 
 **Tarefas de Fim de Turno**
 

@@ -4,7 +4,7 @@ Estas regras governam jogar uma série de partidas vinculadas com seus amigos. P
 
 ## Iniciando a Campanha
 
-No início de uma campanha, cada jogador deve primeiro recrutar um Bando inicial (ver Criando um Bando em Warbands of Trench Crusade). Uma vez que tenham recrutado seu Bando, devem escolher um Patrono para ela.
+No início de uma campanha, cada jogador deve primeiro recrutar um Bando inicial (ver Criando um Bando em Warbands of Trench Crusade). Uma vez que tenham recrutado seu Bando, devem escolher um Patrono para ele.
 
 ---
 
@@ -53,13 +53,13 @@ Ter um Santo Estudioso como seu Patrono permite que você adquira as seguintes H
 - **Conhecimento de Ciências:** O limite de um item de Equipamento de Batalha (excluindo Itens de Glória) é aumentado em 1 se um modelo com esta Habilidade fizer parte do Bando. Escolha o Equipamento de Batalha ao qual o bônus se aplicara e anote sua escolha em sua ficha. Um Bando só pode ter um modelo com esta Habilidade.
 - **Habilidades Logísticas:** Uma Bando que inclua um modelo com esta Habilidade pode aumentar quaisquer Limites no número de modelos que pode incluir em 1, desde que o modelo não tenha a Palavra-Chave ELITE, não esteja montado em uma base de 50mm ou maior, e não seja um Mercenário. Por exemplo, se a Entrada de Bando para um modelo no Bando tivesse um limite de 0-2, o limite seria aumentado para 0-3. Se o modelo com esta Habilidade for morto ou removido do Bando, modelos em excesso dos limites normais podem ser mantidos, mas novos modelos não podem ser adicionados a Bando em excesso dos limites normais. Um Bando só pode ter 1 modelo com esta Habilidade.
 - **Moedas do Céu:** Ao final de cada partida, seu Bando ganha D6x5 👑 adicionais para cada modelo com esta Habilidade que esteja no campo de batalha.
-- **Caminhar com Deus:** Escolha uma Habilidade de qualquer Tabela de Habilidades disponível para o modelo, incluindo qualquer Habilidade de Exploração, e de-a a este modelo.
+- **Caminhar com Deus:** Escolha uma Habilidade de qualquer Tabela de Habilidades disponível para o modelo, incluindo qualquer Habilidade de Exploração, e dê-a a este modelo.
 
 ---
 
 ### NOBRE INFERNAL
 
-*Somente Legiões Heréticas e Corte da Serpente de Sete Cabeças.* Seu Patrono é um dos Caidos, um poderoso nobre demônio como Baal, Balam, Zepar, Astaroth ou Gusion. Tais Patronos concedem poderes mágicos, recompensam atos maléficos e ampliam o poder dos pecados.
+*Somente Legiões Heréticas e Corte da Serpente de Sete Cabeças.* Seu Patrono é um dos Caídos, um poderoso nobre demônio como Baal, Balam, Zepar, Astaroth ou Gusion. Tais Patronos concedem poderes mágicos, recompensam atos maléficos e ampliam o poder dos pecados.
 
 Ter um Nobre Infernal como seu Patrono permite que você adquira as seguintes Habilidades:
 
@@ -79,7 +79,7 @@ Ter um Nobre Infernal como seu Patrono permite que você adquira as seguintes Ha
 Ter o Portal Sublime como seu Patrono permite que você adquira as seguintes Habilidades:
 
 - **Gures:** Adicione +1 DADO e +1 DADO DE FERIMENTO a Ataques Corpo a Corpo feitos por um modelo com esta Habilidade se o modelo alvo estiver Abatido. Além disso, você pode ignorar o modificador de -1 DADO em Rolagens de Sucesso para um modelo que esteja Abatido se o modelo tiver esta Habilidade.
-- **Mercadorias Importadas:** Você pode comprar 1 Arma ou 1 Armadura das Tabelas de Armaria de Nova Antioquia para um modelo com esta Habilidade na Etapa do Intendente seguinte. Escolha a Arma ou Armadura e anote sua escolha em sua Ficha de Bando. Se este item for perdido por qualquer razão durante a campanha, você pode recompra-lo.
+- **Mercadorias Importadas:** Você pode comprar 1 Arma ou 1 Armadura das Tabelas de Armaria de Nova Antioquia para um modelo com esta Habilidade na Etapa do Intendente seguinte. Escolha a Arma ou Armadura e anote sua escolha em sua Ficha de Bando. Se este item for perdido por qualquer razão durante a campanha, você pode recomprá-lo.
 - **Treinamento de Janíssaro:** Se a primeira AÇÃO que um modelo com esta Habilidade fizer durante sua Ativação for uma Carga, adicione +1 DADO a Ataques Corpo a Corpo feitos pelo modelo pelo resto da Ativação. Adicionalmente, um modelo com esta Habilidade tem a Palavra-Chave IGNORAR ARMA SECUNDÁRIA.
 - **Corretamente Guiado:** No início da partida, após o posicionamento, você pode escolher 1 AÇÃO além de Carregar, Atirar ou Lutar que exija que um modelo inimigo seja escolhido como alvo da AÇÃO ou seja escolhido para ser afetado pela AÇÃO. Pelo resto da partida, o modelo com esta Habilidade não pode ser escolhido como alvo daquela AÇÃO e não pode ser escolhido para ser afetado por aquela AÇÃO.
 - **Favor do Sultao:** Uma Bando que inclua um modelo com esta Habilidade pode aumentar quaisquer limites no número de modelos que pode incluir em 1, desde que o modelo não tenha a Palavra-Chave ELITE, não esteja montado em uma base de 50mm ou maior, e não seja um Mercenário. Um Bando só pode ter 1 modelo com esta Habilidade.

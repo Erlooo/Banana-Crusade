@@ -98,7 +98,7 @@ Para fazer uma mesa de jogo, basta comprar uma peça de MDF, aglomerado ou compe
 
 ## Arquétipos de Campo de Batalha
 
-Partidas de Trench Crusade são travadas em todos os tipos de terreno, das passagens de montanha mais altas as profundezas subterraneas sombrias, mas para os propósitos dos cenários neste livro de regras, nós focamos em três arquetipos de campo de batalha: Terra de Ninguem, Ruínas Decimadas e (claro) Linhas de Trincheira. O cenário que você está usando para a partida explicará claramente que tipo de arquetipo de campo de batalha deve ser usado. O terreno para o cenário pode então ser montado usando as instruções abaixo.
+Partidas de Trench Crusade são travadas em todos os tipos de terreno, das passagens de montanha mais altas as profundezas subterraneas sombrias, mas para os propósitos dos cenários neste livro de regras, nós focamos em três arquétipos de campo de batalha: Terra de Ninguem, Ruínas Decimadas e (claro) Linhas de Trincheira. O cenário que você está usando para a partida explicará claramente que tipo de arquétipo de campo de batalha deve ser usado. O terreno para o cenário pode então ser montado usando as instruções abaixo.
 
 ---
 
@@ -130,7 +130,7 @@ As peças de terreno devem ser montadas de forma que cada peça de terreno estej
 
 ### RUÍNAS DECIMADAS
 
-Batalhas são frequentemente travadas para capturar cidades, vilas e aldeias localizadas entre, ou logo atrás das, linhas de trincheira das Bandos adversárias. A guerra constante rapidamente reduz edifícios outrora orgulhosos a ruínas, entre as quais Bandos lutam entre si em brutais confrontos de curto alcance. O sucesso tático e estratégico pode ser medido por quem toma controle dos edifícios em ruínas, pilhas de entulho e veículos destruídos que espalham a paisagem estilhacada.
+Batalhas são frequentemente travadas para capturar cidades, vilas e aldeias localizadas entre, ou logo atrás das, linhas de trincheira dos Bandos adversários. A guerra constante rapidamente reduz edifícios outrora orgulhosos a ruínas, entre as quais Bandos lutam entre si em brutais confrontos de curto alcance. O sucesso tático e estratégico pode ser medido por quem toma controle dos edifícios em ruínas, pilhas de entulho e veículos destruídos que espalham a paisagem estilhacada.
 
 **Peças de Terreno de Ruínas Decimadas**
 
