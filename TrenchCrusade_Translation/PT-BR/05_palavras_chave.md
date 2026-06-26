@@ -113,7 +113,7 @@ Quando você faz um movimento, movimento de recuo ou movimento de carga com um m
 Após fazer a Rolagem de Ferimento para uma Arma com esta Palavra-Chave, coloque 1 MARCADOR DE SANGUE extra ao lado do modelo alvo, mesmo se o resultado for Sem Efeito.
 
 ### GOLEM (Efeito)
-Um modelo com esta Palavra-Chave trata um resultado Fora de Ação da Tabela de Rolagem de Ferimento como um resultado Abatido, a menos que o resultado tenha sido causado por uma Rolagem de Banho de Sangue. Além disso, você não pode remover MARCADORES DE SANGUE de um modelo amigo com esta Palavra-Chave (o jogador adversário pode usa-los normalmente). Finalmente, um modelo com esta Palavra-Chave tem as Palavras-Chave NEGAR MEDO e NEGAR GÁS, mas não pode ter a Palavra-Chave RESISTENTE.
+Um modelo com esta Palavra-Chave trata um resultado Fora de Ação da Tabela de Rolagem de Ferimento como um resultado Derrubado, a menos que o resultado tenha sido causado por uma Rolagem de Banho de Sangue. Além disso, você não pode remover MARCADORES DE SANGUE de um modelo amigo com esta Palavra-Chave (o jogador adversário pode usa-los normalmente). Finalmente, um modelo com esta Palavra-Chave tem as Palavras-Chave NEGAR MEDO e NEGAR GÁS, mas não pode ter a Palavra-Chave RESISTENTE.
 
 ### PESADO (Efeito)
 Um modelo não pode ser equipado com mais de uma peça de Equipamento de Batalha com esta Palavra-Chave e não recebe Bônus de Investida quando faz um movimento de carga. Além disso, se uma Arma a Distância ou Granada tiver esta Palavra-Chave, você não pode usar a Arma ou Granada para fazer um Ataque a Distância e realizar uma AÇÃO de Mover, Investir ou Recuar, ou Correr com o modelo atacante como parte da mesma Ativação.
@@ -143,10 +143,10 @@ O modelo está sob a influência de uma enfermidade sobrenatural ou química que
 Quando um modelo com esta Palavra-Chave e posicionado pela primeira vez em uma partida, ele pode ser montado em qualquer lugar do campo de batalha desde que esteja fora da Linha de Visão de todos os inimigos e esteja a pelo menos 8" de distância do inimigo mais próximo. INFILTRADORES são posicionados após modelos que não possuem esta Palavra-Chave. Quaisquer INFILTRADORES que não possam ser posicionados desta forma são posicionados normalmente em sua zona de posicionamento.
 
 ### MINADO (Efeito)
-Quando um modelo se move para contato com um Marcador ou peça de terreno com a Palavra-Chave MINADO, a mina detonará a menos que o modelo tenha a Palavra-Chave NEGAR MINADO. Faça uma Rolagem de Ferimento com a Palavra-Chave ESTILHAÇO para o modelo que detonou a mina, e então o Marcador ou peça de terreno perde a Palavra-Chave MINADO. Se o modelo que detonou a mina não foi colocado Abatido ou Fora de Ação, ele pode então continuar seu movimento. Modelos com a Palavra-Chave VOADOR só detonam uma mina se terminarem um movimento em contato com um Marcador ou peça de terreno MINADO (eles podem sobrevoar sem ativa-la).
+Quando um modelo se move para contato com um Marcador ou peça de terreno com a Palavra-Chave MINADO, a mina detonará a menos que o modelo tenha a Palavra-Chave NEGAR MINADO. Faça uma Rolagem de Ferimento com a Palavra-Chave ESTILHAÇO para o modelo que detonou a mina, e então o Marcador ou peça de terreno perde a Palavra-Chave MINADO. Se o modelo que detonou a mina não foi colocado Derrubado ou Fora de Ação, ele pode então continuar seu movimento. Modelos com a Palavra-Chave VOADOR só detonam uma mina se terminarem um movimento em contato com um Marcador ou peça de terreno MINADO (eles podem sobrevoar sem ativa-la).
 
 ### LÍDER (Efeito)
-Adicione +1 DADO a Testes de Moral se seu Bando tiver pelo menos 1 modelo com esta Palavra-Chave no campo de batalha que não esteja Abatido ou Fora de Ação.
+Adicione +1 DADO a Testes de Moral se seu Bando tiver pelo menos 1 modelo com esta Palavra-Chave no campo de batalha que não esteja Derrubado ou Fora de Ação.
 
 ### NOVA ANTIOQUIA (Etiqueta)
 Este modelo faz parte da Facção do Principado de Nova Antioquia.
@@ -191,4 +191,4 @@ Este modelo faz parte da Facção do Sultanato de Ferro.
 Este modelo faz parte da Facção da Corte da Serpente de Sete Cabeças.
 
 ### RESISTENTE (Efeito)
-A primeira vez que um modelo com esta Palavra-Chave sofre um resultado Fora de Ação na Tabela de Ferimento, ele é tratado como um resultado Abatido em vez disso.
+A primeira vez que um modelo com esta Palavra-Chave sofre um resultado Fora de Ação na Tabela de Ferimento, ele é tratado como um resultado Derrubado em vez disso.

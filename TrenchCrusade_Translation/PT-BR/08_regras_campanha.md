@@ -37,7 +37,7 @@ Ter um Santo Guerreiro como seu Patrono permite que você adquira as seguintes H
 - **Davi e Golias:** Adicione +1 DADO para um Ataque Corpo a Corpo feito por um modelo com esta Habilidade se o alvo estiver montado em uma base de 40mm ou maior.
 - **Matador de Dragões:** Quando você fizer uma Rolagem de Ferimento para um Ataque Corpo a Corpo feito por um modelo com esta Habilidade, você pode mudar o resultado de um dos D6s usados para a Rolagem de Ferimento para 6.
 - **Suportar o Sofrimento:** Um modelo com esta Habilidade pode sofrer 1 Cicatriz de Batalha extra antes de ficar inapto para o serviço.
-- **De Joelhos!:** Modelos inimigos que estejam Abatidos não podem se levantar se um modelo com esta Habilidade estiver dentro de 1" deles (mesmo se o modelo com esta Habilidade também estiver Abatido).
+- **De Joelhos!:** Modelos inimigos que estejam Derrubados não podem se levantar se um modelo com esta Habilidade estiver dentro de 1" deles (mesmo se o modelo com esta Habilidade também estiver Derrubado).
 - **Oração do Guerreiro AÇÃO:** Um modelo com esta Habilidade pode realizar uma AÇÃO de Oração do Guerreiro. Se fizer isso, faça uma Rolagem de Sucesso Arriscada para o modelo. Se a rolagem for uma Falha, nada acontece e a Ativação do modelo termina. Se a rolagem for um Sucesso ou Sucesso Crítico, o modelo tem a Palavra-Chave MEDO até o final do Turno, e você pode remover até 1 MARCADOR DE SANGUE do modelo.
 
 ---
@@ -68,7 +68,7 @@ Ter um Nobre Infernal como seu Patrono permite que você adquira as seguintes Ha
 - **Sacrifício de Sangue AÇÃO:** Um modelo com esta Habilidade pode realizar uma AÇÃO de Sacrifício de Sangue. Se fizer isso, faça uma Rolagem de Sucesso para o modelo. Em um Sucesso ou Sucesso Crítico, você pode remover 1 MARCADOR DE SANGUE do modelo e colocá-lo ao lado de qualquer outro modelo que esteja dentro de 6" do modelo realizando a AÇÃO de Sacrifício de Sangue, em sua Linha de Visão, e que não tenha as Palavras-Chave ARTIFICIAL, GRAAL NEGRO ou DEMONÍACO.
 - **Fogo Infernal AÇÃO:** Um modelo com esta Habilidade pode realizar uma AÇÃO de Fogo Infernal. Se fizer isso, faça uma Rolagem de Sucesso Arriscada para o modelo. Se a rolagem for uma Falha, nada acontece e a Ativação do modelo termina. Se a rolagem for um Sucesso ou Sucesso Crítico, escolha um modelo amigo que esteja dentro de 18" do modelo realizando a AÇÃO de Fogo Infernal e em sua Linha de Visão. Em seguida, trace uma linha reta de 1mm de largura entre os pontos mais próximos das bases dos dois modelos, e faça uma Rolagem de Ferimento com a Palavra-Chave FOGO para cada modelo (amigo ou inimigo) que seja cruzado ou alcançado pela linha, incluindo o modelo amigo que você escolheu, mas não incluindo o modelo realizando a AÇÃO de Fogo Infernal.
 - **Chicote do Aqueronte AÇÃO:** Um modelo com esta Habilidade pode realizar uma AÇÃO de Chicote do Aqueronte. Se fizer isso, faça uma Rolagem de Sucesso Arriscada para o modelo. Se a rolagem for uma Falha, nada acontece e a Ativação do modelo termina. Se a rolagem for um Sucesso ou Sucesso Crítico, você pode fazer uma Rolagem de Ferimento com a Palavra-Chave IGNORAR ARMADURA para 1 modelo inimigo que esteja dentro de 6" do modelo realizando a AÇÃO de Chicote do Aqueronte e em sua Linha de Visão.
-- **Sádico:** Adicione +1 DADO e +1 DADO DE FERIMENTO a Ataques Corpo a Corpo feitos por um modelo com esta Habilidade se o modelo alvo estiver Abatido.
+- **Sádico:** Adicione +1 DADO e +1 DADO DE FERIMENTO a Ataques Corpo a Corpo feitos por um modelo com esta Habilidade se o modelo alvo estiver Derrubado.
 
 ---
 
@@ -78,7 +78,7 @@ Ter um Nobre Infernal como seu Patrono permite que você adquira as seguintes Ha
 
 Ter o Portal Sublime como seu Patrono permite que você adquira as seguintes Habilidades:
 
-- **Gures:** Adicione +1 DADO e +1 DADO DE FERIMENTO a Ataques Corpo a Corpo feitos por um modelo com esta Habilidade se o modelo alvo estiver Abatido. Além disso, você pode ignorar o modificador de -1 DADO em Rolagens de Sucesso para um modelo que esteja Abatido se o modelo tiver esta Habilidade.
+- **Gures:** Adicione +1 DADO e +1 DADO DE FERIMENTO a Ataques Corpo a Corpo feitos por um modelo com esta Habilidade se o modelo alvo estiver Derrubado. Além disso, você pode ignorar o modificador de -1 DADO em Rolagens de Sucesso para um modelo que esteja Derrubado se o modelo tiver esta Habilidade.
 - **Mercadorias Importadas:** Você pode comprar 1 Arma ou 1 Armadura das Tabelas de Armaria de Nova Antioquia para um modelo com esta Habilidade na Etapa do Intendente seguinte. Escolha a Arma ou Armadura e anote sua escolha em sua Ficha de Bando. Se este item for perdido por qualquer razão durante a campanha, você pode recomprá-lo.
 - **Treinamento de Janíssaro:** Se a primeira AÇÃO que um modelo com esta Habilidade fizer durante sua Ativação for uma Carga, adicione +1 DADO a Ataques Corpo a Corpo feitos pelo modelo pelo resto da Ativação. Adicionalmente, um modelo com esta Habilidade tem a Palavra-Chave IGNORAR ARMA SECUNDÁRIA.
 - **Corretamente Guiado:** No início da partida, após o posicionamento, você pode escolher 1 AÇÃO além de Carregar, Atirar ou Lutar que exija que um modelo inimigo seja escolhido como alvo da AÇÃO ou seja escolhido para ser afetado pela AÇÃO. Pelo resto da partida, o modelo com esta Habilidade não pode ser escolhido como alvo daquela AÇÃO e não pode ser escolhido para ser afetado por aquela AÇÃO.
@@ -361,13 +361,13 @@ Os seguintes modelos não podem ser Promovidos ao status ELITE:
 | 2D6 | Habilidade |
 |-----|------------|
 | 2 | **Habilidade de Patrono:** Escolha uma das Habilidades oferecidas por seu Patrono. |
-| 3 | **Firme:** A primeira vez que um modelo com esta Habilidade sofrer um resultado Abatido na Tabela de Ferimento, ele é tratado como um resultado de Golpe Menor em vez disso. |
+| 3 | **Firme:** A primeira vez que um modelo com esta Habilidade sofrer um resultado Derrubado na Tabela de Ferimento, ele é tratado como um resultado de Golpe Menor em vez disso. |
 | 4 | **Aparar:** Adicione -1 DADO a Rolagens de Sucesso para Ataques Corpo a Corpo que tenham como alvo um modelo com esta Habilidade. |
 | 5 | **Combate em Espaços Fechados:** Adicione +1 DADO e +1 DADO DE FERIMENTO a rolagens para Ataques Corpo a Corpo feitos por um modelo com esta Habilidade se ele estiver em contato com uma peça de terreno. |
 | 6 | **Carga Implacavel:** Adicione +1 DADO a rolagens para Ataques Corpo a Corpo feitos por um modelo com esta Habilidade se ele tiver carregado com sucesso anteriormente na mesma Ativação. |
 | 7 | **Proficiência Corpo a Corpo:** Adicione +1 DADO a Característica de Corpo a Corpo de um modelo com esta Habilidade. |
 | 8 | **Força de Sansão:** Adicione +1 DADO DE FERIMENTO a rolagens para Ataques Corpo a Corpo usando uma Arma Corpo a Corpo feitos por um modelo com esta Habilidade. Além disso, um modelo com esta Habilidade tem a Palavra-Chave FORTE. |
-| 9 | **Duro de Matar:** A primeira vez que um modelo com esta Habilidade sofrer um resultado Abatido na Tabela de Ferimento, ele é tratado como um resultado Sem Efeito em vez disso. |
+| 9 | **Duro de Matar:** A primeira vez que um modelo com esta Habilidade sofrer um resultado Derrubado na Tabela de Ferimento, ele é tratado como um resultado Sem Efeito em vez disso. |
 | 10 | **Golpe Cirúrgico:** Uma vez por Ativação, antes de fazer uma Rolagem de Ferimento para um Ataque Corpo a Corpo feito por um modelo com esta Habilidade, você pode dizer que a rolagem tem a Palavra-Chave IGNORAR ARMADURA. |
 | 11 | **Campeão:** Armas Corpo a Corpo que não possuam a Palavra-Chave GOLPE VARRENTE usadas por um modelo com esta Habilidade ganham a Palavra-Chave GOLPE VARRENTE 2. Além disso, adicione -1 DADO a Rolagem de Sucesso para o segundo Ataque Corpo a Corpo feito com cada Arma Corpo a Corpo que ganhe a Palavra-Chave GOLPE VARRENTE. |
 | 12 | **Habilidade de Patrono:** Escolha uma das Habilidades oferecidas por seu Patrono. |
@@ -393,7 +393,7 @@ Os seguintes modelos não podem ser Promovidos ao status ELITE:
 | 2D6 | Habilidade |
 |-----|------------|
 | 2 | **Habilidade de Patrono.** |
-| 3 | **Sexto Sentido:** Se um modelo com esta Habilidade sofrer um resultado Abatido na Tabela de Ferimento, ele é tratado como Golpe Menor se o modelo não tiver nenhum MARCADOR DE SANGUE. Se o modelo também tiver a Palavra-Chave RESISTENTE, uma vez por partida pode usar a Palavra-Chave para mudar um resultado Fora de Ação para Abatido, e então usar esta Habilidade para mudar o resultado Abatido para Sem Efeito. |
+| 3 | **Sexto Sentido:** Se um modelo com esta Habilidade sofrer um resultado Derrubado na Tabela de Ferimento, ele é tratado como Golpe Menor se o modelo não tiver nenhum MARCADOR DE SANGUE. Se o modelo também tiver a Palavra-Chave RESISTENTE, uma vez por partida pode usar a Palavra-Chave para mudar um resultado Fora de Ação para Derrubado, e então usar esta Habilidade para mudar o resultado Derrubado para Sem Efeito. |
 | 4 | **Assassinar:** Adicione +1 DADO a rolagens para ataques feitos por um modelo com esta Habilidade se o alvo ainda não tiver sido Ativado neste Turno. |
 | 5 | **Caminhante das Sombras:** Adicione -2 DADOS em vez de -1 DADO a rolagens para Ataques a Distância que tenham como alvo um modelo com esta Habilidade em Longo Alcance. |
 | 6 | **Atlético:** Adicione +1 DADO a Rolagens de Sucesso Arriscadas para um modelo com esta Habilidade quando Escalar, Saltar ou fazer uma Carga Mergulhante, e adicione -1 DADO DE FERIMENTO a Rolagens de Ferimento se Cair. |

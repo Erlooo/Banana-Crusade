@@ -240,7 +240,7 @@ Um Turno de Trench Crusade e dividido nas seguintes fases:
 
 1. **Fase de Iniciativa:** Determine qual jogador tem a Iniciativa e então realize quaisquer tarefas de "início de Turno".
 2. **Fase de Ativação:** Os jogadores alternam Ativando seus modelos, um de cada vez, até que todos os modelos em ambas os Bandos tenham sido Ativados uma vez cada.
-3. **Fase de Moral:** Um jogador deve fazer um Teste de Moral se pelo menos metade de seus modelos estiverem Abatidos ou Fora de Ação. Um jogador perde o jogo se falhar em um Teste de Moral dois Turnos seguidos. Em seguida, os jogadores realizam tarefas de fim de Turno e um novo Turno começa.
+3. **Fase de Moral:** Um jogador deve fazer um Teste de Moral se pelo menos metade de seus modelos estiverem Derrubados ou Fora de Ação. Um jogador perde o jogo se falhar em um Teste de Moral dois Turnos seguidos. Em seguida, os jogadores realizam tarefas de fim de Turno e um novo Turno começa.
 
 ---
 
@@ -250,7 +250,7 @@ No início de cada Turno, você deve determinar qual jogador tem a Iniciativa pa
 
 **Determinando a Iniciativa**
 
-Para determinar qual jogador tem a Iniciativa, conte o número de modelos em cado Bando que estão atualmente no campo de batalha. Não conte modelos que estão Abatidos ou Fora de Ação ao determinar qual jogador tem menos modelos. O jogador com o menor número de modelos tem a Iniciativa pelo resto do Turno. Se ambos os jogadores tiverem o mesmo número de modelos, eles fazem um desempate e o vencedor tem a Iniciativa pelo resto do Turno.
+Para determinar qual jogador tem a Iniciativa, conte o número de modelos em cado Bando que estão atualmente no campo de batalha. Não conte modelos que estão Derrubados ou Fora de Ação ao determinar qual jogador tem menos modelos. O jogador com o menor número de modelos tem a Iniciativa pelo resto do Turno. Se ambos os jogadores tiverem o mesmo número de modelos, eles fazem um desempate e o vencedor tem a Iniciativa pelo resto do Turno.
 
 **Tarefas de Início de Turno**
 
@@ -318,7 +318,7 @@ Para mover um modelo, pegue-o e mova-o ao longo de um caminho pelo campo de bata
 
 ### CARGA
 
-Realizar uma AÇÃO de Investir com um modelo permite que você faça um tipo especial de movimento, chamado carga, que é usado para trazer um modelo para dentro de 1" de um modelo inimigo. Você só pode se mover para dentro de 1" de um modelo inimigo (medido a partir da base de cada modelo) realizando uma AÇÃO de Investir. Isso se aplica a todos os modelos inimigos, incluindo aqueles que estão Abatidos ou modelos inimigos que já estão dentro de 1" de um modelo amigo diferente.
+Realizar uma AÇÃO de Investir com um modelo permite que você faça um tipo especial de movimento, chamado carga, que é usado para trazer um modelo para dentro de 1" de um modelo inimigo. Você só pode se mover para dentro de 1" de um modelo inimigo (medido a partir da base de cada modelo) realizando uma AÇÃO de Investir. Isso se aplica a todos os modelos inimigos, incluindo aqueles que estão Derrubados ou modelos inimigos que já estão dentro de 1" de um modelo amigo diferente.
 
 **Declarar Carga**
 
@@ -348,7 +348,7 @@ Note que completar uma investida não permite automaticamente que você Lute: pa
 
 ### RECUO
 
-Realizar uma AÇÃO de Recuar com um modelo permite que você faça um tipo especial de movimento, chamado recuo, que é usado quando um modelo está dentro de 1" de um modelo inimigo e deseja se afastar. Antes de você fazer, ou ser forçado a fazer, um movimento de recuo com um modelo, seu oponente pode realizar uma AÇÃO de Lutar com cada modelo inimigo que esteja dentro de 1" do modelo recuando. Quando um modelo ataca um modelo inimigo recuando, ele só pode fazer 1 ataque corpo a corpo com 1 arma (não pode usar a regra de Multiplos Ataques Corpo a Corpo, mas se a arma atacante tiver a Palavra-Chave GOLPE VARRENTE(X), ela ainda se aplicara). Após realizar o(s) ataque(s), você pode mover o modelo recuando desde que ele não tenha sofrido um resultado Abatido ou Fora de Ação (ver Rolagens de Ferimento). Um modelo recuando deve terminar seu movimento de recuo a mais de 1" de todos os modelos inimigos. Se isso for impossível, ele não pode se mover. Note que reposicionar um modelo não conta como um movimento de recuo.
+Realizar uma AÇÃO de Recuar com um modelo permite que você faça um tipo especial de movimento, chamado recuo, que é usado quando um modelo está dentro de 1" de um modelo inimigo e deseja se afastar. Antes de você fazer, ou ser forçado a fazer, um movimento de recuo com um modelo, seu oponente pode realizar uma AÇÃO de Lutar com cada modelo inimigo que esteja dentro de 1" do modelo recuando. Quando um modelo ataca um modelo inimigo recuando, ele só pode fazer 1 ataque corpo a corpo com 1 arma (não pode usar a regra de Multiplos Ataques Corpo a Corpo, mas se a arma atacante tiver a Palavra-Chave GOLPE VARRENTE(X), ela ainda se aplicara). Após realizar o(s) ataque(s), você pode mover o modelo recuando desde que ele não tenha sofrido um resultado Derrubado ou Fora de Ação (ver Rolagens de Ferimento). Um modelo recuando deve terminar seu movimento de recuo a mais de 1" de todos os modelos inimigos. Se isso for impossível, ele não pode se mover. Note que reposicionar um modelo não conta como um movimento de recuo.
 
 ---
 
@@ -504,7 +504,7 @@ Um modelo que tenha duas Armas Corpo a Corpo pode usar uma única AÇÃO de Luta
 
 ### CARGA MERGULHANTE
 
-Você pode converter uma investida de um modelo amigo em uma Carga Mergulhante se ele Pular Para Baixo pelo menos 3" e aterrissar dentro de 1" de um alvo. Se fizer isso, faça uma Rolagem de Sucesso Arriscada para o modelo após ele Pular Para Baixo. Se a rolagem for uma Falha, o modelo fica Abatido, e uma Rolagem de Ferimento por Queda deve então ser feita para o modelo (ver Queda). Se a rolagem for um Sucesso, você não precisa fazer uma Rolagem de Ferimento por Queda para o modelo, e pode adicionar +1 DADO a Rolagem de Sucesso para o próximo Ataque Corpo a Corpo que o modelo fizer.
+Você pode converter uma investida de um modelo amigo em uma Carga Mergulhante se ele Pular Para Baixo pelo menos 3" e aterrissar dentro de 1" de um alvo. Se fizer isso, faça uma Rolagem de Sucesso Arriscada para o modelo após ele Pular Para Baixo. Se a rolagem for uma Falha, o modelo fica Derrubado, e uma Rolagem de Ferimento por Queda deve então ser feita para o modelo (ver Queda). Se a rolagem for um Sucesso, você não precisa fazer uma Rolagem de Ferimento por Queda para o modelo, e pode adicionar +1 DADO a Rolagem de Sucesso para o próximo Ataque Corpo a Corpo que o modelo fizer.
 
 ---
 
@@ -520,13 +520,13 @@ Uma Rolagem de Ferimento e feita de forma semelhante a uma Rolagem de Sucesso, p
 
 **MODIFICADOR DE FERIMENTO:** +/-MODIFICADORES DE FERIMENTO são aplicados a Rolagem de Ferimento. Faça a Rolagem de Ferimento, adicionando quaisquer +/-DADOS DE FERIMENTO, e então adicione ou subtraia quaisquer MODIFICADORES DE FERIMENTO da rolagem. O máximo de -MODIFICADOR DE FERIMENTO não pode ser mais que -3 no total.
 
-Por exemplo, uma Rolagem de Ferimento tem um modificador de +1 DADO DE FERIMENTO e um -1 MODIFICADOR DE FERIMENTO. 3 dados são rolados, resultando em 2, 4 e 5. Os dois dados mais altos são usados, dando uma rolagem de 9. Então o -1 MODIFICADOR DE FERIMENTO e aplicado, subtraindo 1 da rolagem e mudando-a para 8. A rolagem e consultada na Tabela de Ferimento, que da um resultado Abatido para a Rolagem de Ferimento.
+Por exemplo, uma Rolagem de Ferimento tem um modificador de +1 DADO DE FERIMENTO e um -1 MODIFICADOR DE FERIMENTO. 3 dados são rolados, resultando em 2, 4 e 5. Os dois dados mais altos são usados, dando uma rolagem de 9. Então o -1 MODIFICADOR DE FERIMENTO e aplicado, subtraindo 1 da rolagem e mudando-a para 8. A rolagem e consultada na Tabela de Ferimento, que da um resultado Derrubado para a Rolagem de Ferimento.
 
-Note que se uma regra disser que um modelo fica Abatido ou Fora de Ação, aplique o Resultado apropriado da Tabela de Rolagem de Ferimento por completo (o que significa que um modelo que fica Abatido terá um MARCADOR DE SANGUE colocado ao lado dele).
+Note que se uma regra disser que um modelo fica Derrubado ou Fora de Ação, aplique o Resultado apropriado da Tabela de Rolagem de Ferimento por completo (o que significa que um modelo que fica Derrubado terá um MARCADOR DE SANGUE colocado ao lado dele).
 
 ### Rolagens de Banho de Sangue
 
-Quando você fizer uma Rolagem de Ferimento para um modelo inimigo, você pode gastar 6 MARCADORES DE SANGUE (ou 3 MARCADORES DE SANGUE se o alvo estiver Abatido) para converter a Rolagem de Ferimento em uma Rolagem de Banho de Sangue. Para fazer uma Rolagem de Banho de Sangue, role 3D6 e some todos os 3 dados. Adicione +/-DADOS DE FERIMENTO e +/-MODIFICADORES DE FERIMENTO da mesma forma que faria em uma Rolagem de Ferimento, exceto que você escolhe os 3 dados mais altos ou mais baixos na rolagem em vez dos 2 mais altos ou mais baixos. Se a Rolagem de Ferimento tiver a Palavra-Chave LETAL, em vez disso role 4D6 e some todos os 4 dados.
+Quando você fizer uma Rolagem de Ferimento para um modelo inimigo, você pode gastar 6 MARCADORES DE SANGUE (ou 3 MARCADORES DE SANGUE se o alvo estiver Derrubado) para converter a Rolagem de Ferimento em uma Rolagem de Banho de Sangue. Para fazer uma Rolagem de Banho de Sangue, role 3D6 e some todos os 3 dados. Adicione +/-DADOS DE FERIMENTO e +/-MODIFICADORES DE FERIMENTO da mesma forma que faria em uma Rolagem de Ferimento, exceto que você escolhe os 3 dados mais altos ou mais baixos na rolagem em vez dos 2 mais altos ou mais baixos. Se a Rolagem de Ferimento tiver a Palavra-Chave LETAL, em vez disso role 4D6 e some todos os 4 dados.
 
 ### Fazendo uma Rolagem de Ferimento
 
@@ -546,7 +546,7 @@ Para fazer uma Rolagem de Ferimento para um modelo, siga os seguintes passos:
 |---------|-----------|
 | 1 ou menos | Sem Efeito. O modelo não é ferido e o ferimento não tem efeito. |
 | 2-6 | Golpe Menor. Coloque 1 MARCADOR DE SANGUE ao lado do modelo. |
-| 7-8 | Abatido. Coloque 1 MARCADOR DE SANGUE ao lado do modelo e marque-o como estando Abatido. Se o modelo já estiver Abatido, coloque 2 MARCADORES DE SANGUE ao lado do modelo em vez de 1. |
+| 7-8 | Derrubado. Coloque 1 MARCADOR DE SANGUE ao lado do modelo e marque-o como estando Derrubado. Se o modelo já estiver Derrubado, coloque 2 MARCADORES DE SANGUE ao lado do modelo em vez de 1. |
 | 9+ | Fora de Ação. O modelo foi gravemente ferido ou morto e e removido do campo de batalha. |
 
 **Modificadores Comuns de Rolagem de Ferimento**
@@ -556,27 +556,27 @@ Os seguintes modificadores são cumulativos. O máximo de -MODIFICADOR DE FERIME
 - **Marcadores de Bênção:** Adicione -1 DADO DE FERIMENTO para cada MARCADOR DE BÊNÇÃO gasto.
 - **Marcadores de Sangue:** Adicione +1 DADO DE FERIMENTO para cada MARCADOR DE SANGUE gasto.
 - **Sucesso Crítico:** Adicione +1 DADO DE FERIMENTO.
-- **Abatido:** Adicione +1 DADO DE FERIMENTO para um Ataque Corpo a Corpo se o alvo estiver Abatido.
+- **Derrubado:** Adicione +1 DADO DE FERIMENTO para um Ataque Corpo a Corpo se o alvo estiver Derrubado.
 - **Habilidades ou Palavras-Chave:** Adicione quaisquer +/-DADOS DE FERIMENTO e/ou quaisquer +/-MODIFICADORES DE FERIMENTO para habilidades ou Palavras-Chave que se apliquem a Rolagem de Ferimento.
 - **Característica de Armadura:** Adicione o -MODIFICADOR DE FERIMENTO da Característica de Armadura do modelo (se houver).
 - **Equipamento de Batalha:** Adicione o -MODIFICADOR DE FERIMENTO do Equipamento de Batalha do modelo (ex: Armadura, Escudo, etc.).
 
-*Exemplo de jogo: Um Soldado Herético faz um Ataque a Distância que acerta um Castigador Peregrino das Trincheiras que tem 2 MARCADORES DE SANGUE e Armadura Padrão. O jogador Herético decide usar ambos os MARCADORES DE SANGUE para tornar o tiro mais provável de ferir. O jogador Herético pega 4D6 (2D6 +2 DADOS DE FERIMENTO dos MARCADORES DE SANGUE) e rola 2, 5, 4 e 1. Como dois +DADOS DE FERIMENTO foram adicionados a rolagem, os dois números mais altos são usados para a Rolagem de Ferimento, dando um total de 9. A armadura do Castigador adiciona -1 MODIFICADOR DE FERIMENTO, então o total é reduzido em 1, para dar uma rolagem modificada de 8. O jogador Herético consulta a Tabela de Ferimento e descobre que o Peregrino está Abatido!*
+*Exemplo de jogo: Um Soldado Herético faz um Ataque a Distância que acerta um Castigador Peregrino das Trincheiras que tem 2 MARCADORES DE SANGUE e Armadura Padrão. O jogador Herético decide usar ambos os MARCADORES DE SANGUE para tornar o tiro mais provável de ferir. O jogador Herético pega 4D6 (2D6 +2 DADOS DE FERIMENTO dos MARCADORES DE SANGUE) e rola 2, 5, 4 e 1. Como dois +DADOS DE FERIMENTO foram adicionados a rolagem, os dois números mais altos são usados para a Rolagem de Ferimento, dando um total de 9. A armadura do Castigador adiciona -1 MODIFICADOR DE FERIMENTO, então o total é reduzido em 1, para dar uma rolagem modificada de 8. O jogador Herético consulta a Tabela de Ferimento e descobre que o Peregrino está Derrubado!*
 
 ---
 
-### Resultados Abatido
+### Resultados Derrubado
 
-As seguintes regras se aplicam a um modelo que está Abatido:
+As seguintes regras se aplicam a um modelo que está Derrubado:
 
-- Se um modelo for colocado Abatido durante sua Ativação, sua Ativação termina imediatamente.
-- Adicione -1 DADO a quaisquer Rolagens de Sucesso que você fizer para um modelo que esteja Abatido.
-- Adicione +1 DADO DE FERIMENTO para um Ataque Corpo a Corpo se o alvo estiver Abatido.
+- Se um modelo for colocado Derrubado durante sua Ativação, sua Ativação termina imediatamente.
+- Adicione -1 DADO a quaisquer Rolagens de Sucesso que você fizer para um modelo que esteja Derrubado.
+- Adicione +1 DADO DE FERIMENTO para um Ataque Corpo a Corpo se o alvo estiver Derrubado.
 - Até que o modelo se levante, ele não pode ser movido por nenhuma razão, a menos que caia.
-- Um modelo que está Abatido se levanta quando for Ativado novamente. No entanto, sua Característica de Movimento e reduzida a metade pelo resto da Ativação (incluindo qualquer Bônus de Investida que receba).
-- Um modelo que esteja dentro de 1" de uma borda quando for colocado Abatido pode Cair da borda. Faça uma Rolagem de Sucesso para o modelo antes que ele seja colocado Abatido. Se a rolagem for um Sucesso, o modelo fica Abatido mas não Cai da borda. Se a rolagem for uma Falha, o modelo Cai da borda mais próxima e então fica Abatido (ver Queda).
+- Um modelo que está Derrubado se levanta quando for Ativado novamente. No entanto, sua Característica de Movimento e reduzida a metade pelo resto da Ativação (incluindo qualquer Bônus de Investida que receba).
+- Um modelo que esteja dentro de 1" de uma borda quando for colocado Derrubado pode Cair da borda. Faça uma Rolagem de Sucesso para o modelo antes que ele seja colocado Derrubado. Se a rolagem for um Sucesso, o modelo fica Derrubado mas não Cai da borda. Se a rolagem for uma Falha, o modelo Cai da borda mais próxima e então fica Derrubado (ver Queda).
 
-Você pode mostrar que um modelo está Abatido colocando um marcador ao lado do modelo (como um cubo de madeira) ou deitando o modelo de lado. Se você escolher deitar o modelo de lado, deite-o de forma que o centro do modelo fique sobre o ponto onde o centro de sua base estava localizado. Ao medir o alcance para ou de um modelo que está Abatido, você pode medir de qualquer parte do modelo, não apenas de sua base.
+Você pode mostrar que um modelo está Derrubado colocando um marcador ao lado do modelo (como um cubo de madeira) ou deitando o modelo de lado. Se você escolher deitar o modelo de lado, deite-o de forma que o centro do modelo fique sobre o ponto onde o centro de sua base estava localizado. Ao medir o alcance para ou de um modelo que está Derrubado, você pode medir de qualquer parte do modelo, não apenas de sua base.
 
 Nota: Um modelo deitado de lado será mais difícil de ver, mas de resto os dois métodos são idênticos, e você pode decidir qual usar para seus modelos.
 
@@ -584,13 +584,13 @@ Nota: Um modelo deitado de lado será mais difícil de ver, mas de resto os dois
 
 ## 3. Fase de Moral
 
-Sua Bando pode abandonar a batalha se sofrer muitas baixas. Na Fase de Moral, se metade dos modelos em seu Bando estiverem Abatidos ou Fora de Ação (arredondado para cima), você deve fazer um tipo especial de Rolagem de Sucesso chamado Teste de Moral. Um Teste de Moral e feito da mesma forma que uma Rolagem de Sucesso para um modelo. Se o Teste de Moral for um Sucesso, seu Bando continua normalmente. Se o Teste de Moral for uma Falha, seu Bando fica Abalado.
+Sua Bando pode abandonar a batalha se sofrer muitas baixas. Na Fase de Moral, se metade dos modelos em seu Bando estiverem Derrubados ou Fora de Ação (arredondado para cima), você deve fazer um tipo especial de Rolagem de Sucesso chamado Teste de Moral. Um Teste de Moral e feito da mesma forma que uma Rolagem de Sucesso para um modelo. Se o Teste de Moral for um Sucesso, seu Bando continua normalmente. Se o Teste de Moral for uma Falha, seu Bando fica Abalado.
 
-Nota: Lembre-se de que ao contar modelos, quaisquer frações são arredondadas para cima. Por exemplo, um Bando que tenha 5 modelos não precisará fazer um Teste de Moral até que 3 de seus modelos estejam Abatidos ou Fora de Ação (metade de 5 e 2,5, que arredonda para 3).
+Nota: Lembre-se de que ao contar modelos, quaisquer frações são arredondadas para cima. Por exemplo, um Bando que tenha 5 modelos não precisará fazer um Teste de Moral até que 3 de seus modelos estejam Derrubados ou Fora de Ação (metade de 5 e 2,5, que arredonda para 3).
 
 ### Bandos Abalados
 
-Todas as Rolagens de Sucesso feitas para modelos de um Bando Abalado são tratadas como Rolagens de Sucesso Arriscadas (a menos que já sejam Rolagens de Sucesso Arriscadas). Além disso, na Fase de Moral ao final do próximo Turno, você deve fazer outro Teste de Moral para seu Bando, mesmo que menos de metade de seus modelos estejam Abatidos ou Fora de Ação. Se o Teste de Moral for um Sucesso, seu Bando não está mais Abalado (embora possa ficar novamente se você falhar em um Teste de Moral em um Turno futuro). No entanto, se o Teste de Moral for uma Falha, seu Bando foge e você imediatamente perde o jogo!
+Todas as Rolagens de Sucesso feitas para modelos de um Bando Abalado são tratadas como Rolagens de Sucesso Arriscadas (a menos que já sejam Rolagens de Sucesso Arriscadas). Além disso, na Fase de Moral ao final do próximo Turno, você deve fazer outro Teste de Moral para seu Bando, mesmo que menos de metade de seus modelos estejam Derrubados ou Fora de Ação. Se o Teste de Moral for um Sucesso, seu Bando não está mais Abalado (embora possa ficar novamente se você falhar em um Teste de Moral em um Turno futuro). No entanto, se o Teste de Moral for uma Falha, seu Bando foge e você imediatamente perde o jogo!
 
 ### Encerrando o Turno
 

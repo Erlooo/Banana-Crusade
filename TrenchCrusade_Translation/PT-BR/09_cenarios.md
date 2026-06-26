@@ -112,7 +112,7 @@ Cada cenário tem um conjunto único de Feitos Gloriosos que, quando completados
 - **Derrube-os:** Um modelo amigo faz um modelo inimigo Cair de uma altura de pelo menos 3".
 - **Mantenha a Posição:** Uma Bando e a primeira a passar em um Teste de Moral nesta partida.
 - **Senhor da Guerra:** Um modelo amigo coloca dois modelos inimigos Fora de Ação com Ataques Corpo a Corpo em um único Turno.
-- **Resistir e Morder:** Um modelo amigo que iniciou sua Ativação Abatido coloca um modelo inimigo Fora de Ação na mesma Ativação.
+- **Resistir e Morder:** Um modelo amigo que iniciou sua Ativação Derrubado coloca um modelo inimigo Fora de Ação na mesma Ativação.
 - **Franco-Atirador:** Um modelo amigo coloca um modelo ELITE inimigo Fora de Ação com um Ataque a Distância que tenha os modificadores de Longo Alcance e Cobertura.
 - **Bravura Suicida:** Um modelo amigo carrega com sucesso dois modelos com o mesmo movimento de carga.
 
@@ -180,7 +180,7 @@ Cada cenário tem um conjunto único de Feitos Gloriosos que, quando completados
 - **Derrube-os:** Modelo amigo faz inimigo Cair de pelo menos 3".
 - **Proteja a Relíquia:** Modelo amigo coloca inimigo dentro de 1" de um Relicário Fora de Ação.
 - **Caçador de Relíquias:** Modelo amigo reclama dois Relicários diferentes durante a partida.
-- **Resistir e Morder:** Modelo amigo Abatido coloca inimigo Fora de Ação na mesma Ativação.
+- **Resistir e Morder:** Modelo amigo Derrubado coloca inimigo Fora de Ação na mesma Ativação.
 - **Franco-Atirador:** Modelo amigo coloca ELITE inimigo Fora de Ação com Ataque a Distância com modificadores de Longo Alcance e Cobertura.
 
 ---
@@ -255,7 +255,7 @@ Cada cenário tem um conjunto único de Feitos Gloriosos que, quando completados
 
 **Modelos Neutros:** O Dragão e os Camponeses são modelos neutros (tratados como inimigos por ambos os lados). Após cada Ativação de um modelo do jogador, role D6: em 1-4 Ative um Campones; em 5-6 Ative o Dragão ou um Campones.
 
-**O Dragão:** Movimento 10", +3 DADO em Distância e Corpo a Corpo, -3 Armadura, base 120-300mm. Palavra-Chave MEDO. Habilidades: Sopro de Fogo (Alcance 10", EXPLOSÃO 3", FOGO, IGNORAR ARMADURA, DISPERSÃO), Dentes e Garras Mortais (+1 DADO, +1 DADO DE FERIMENTO, IGNORAR ARMADURA), Chicotada de Cauda (+1 MODIFICADOR DE FERIMENTO), Campo de Batalha Vivo (modelos podem subir nele), Arma de Cerco (move sobre terreno), Esmagar (move sobre modelos), Resistente, Imorredouro (3 primeiros resultados Fora de Ação tratados como Abatido), e Desafiador.
+**O Dragão:** Movimento 10", +3 DADO em Distância e Corpo a Corpo, -3 Armadura, base 120-300mm. Palavra-Chave MEDO. Habilidades: Sopro de Fogo (Alcance 10", EXPLOSÃO 3", FOGO, IGNORAR ARMADURA, DISPERSÃO), Dentes e Garras Mortais (+1 DADO, +1 DADO DE FERIMENTO, IGNORAR ARMADURA), Chicotada de Cauda (+1 MODIFICADOR DE FERIMENTO), Campo de Batalha Vivo (modelos podem subir nele), Arma de Cerco (move sobre terreno), Esmagar (move sobre modelos), Resistente, Imorredouro (3 primeiros resultados Fora de Ação tratados como Derrubado), e Desafiador.
 
 **Os Camponeses:** Movimento 5", só podem Mover ou Recuar em direção a borda mais próxima. Habilidade Debil: +2 DADOS e +2 DADOS DE FERIMENTO contra eles.
 
@@ -318,7 +318,7 @@ Cada cenário tem um conjunto único de Feitos Gloriosos que, quando completados
 **Frascos de Icor:** Cada modelo tem 3 Frascos vazios. Ações especiais: Encher Frasco, Trocar Frascos, Roubar Frascos, Extrair Frascos (na borda do campo em uma Zona de Posicionamento).
 
 **Projéteis de Artilharia:** Atacar com Sucesso faz explodir. Cada explosão pode despertar a Besta:
-- 1a explosão: tremor, D6 por modelo (6 = Abatido).
+- 1a explosão: tremor, D6 por modelo (6 = Derrubado).
 - 2a explosão: D6, em 4-6 a Besta desperta.
 - 3a explosão: D6, em 3-6 a Besta desperta.
 - 4a explosão: a Besta desperta automaticamente.

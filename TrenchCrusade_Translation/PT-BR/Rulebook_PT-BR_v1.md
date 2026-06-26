@@ -203,7 +203,7 @@ O modelo Ativado pode realizar as seguintes AÇÕES uma vez cada, em qualquer or
 
 - **Investir:** Escolha um modelo inimigo que seja visível ao seu modelo e esteja a 12" ou menos dele como alvo da investida. Em seguida, role um dado, adicione o resultado à Característica de Movimento do seu modelo e mova-o em direção ao alvo. Se seu modelo terminar seu movimento a 1" ou menos do alvo, ele pode Lutar (ver Lutar).
 
-- **Recuar:** Você só pode mover um modelo que esteja a 1" de um inimigo realizando uma AÇÃO de Recuar. Um modelo que recua move um número de polegadas igual a sua Característica de Movimento em qualquer direção, mas deve terminar seu movimento a mais de 1" de todos os modelos inimigos. Seu oponente pode realizar uma AÇÃO de Lutar com 1 Arma Corpo a Corpo antes que o modelo que está recuando seja afastado. Se isso coloca seu modelo como Abatido ou Fora de Ação, ele não é movido.
+- **Recuar:** Você só pode mover um modelo que esteja a 1" de um inimigo realizando uma AÇÃO de Recuar. Um modelo que recua move um número de polegadas igual a sua Característica de Movimento em qualquer direção, mas deve terminar seu movimento a mais de 1" de todos os modelos inimigos. Seu oponente pode realizar uma AÇÃO de Lutar com 1 Arma Corpo a Corpo antes que o modelo que está recuando seja afastado. Se isso coloca seu modelo como Derrubado ou Fora de Ação, ele não é movido.
 
 **Correr:** Uma AÇÃO de Correr pode ser realizada em adição a uma AÇÃO de Mover, Investir ou Recuar. Você pode mover seu modelo um número de polegadas igual a sua Característica de Movimento em qualquer direção, mas deve fazer uma Rolagem de Sucesso Arriscada para o modelo primeiro. Se você tiver sucesso, seu modelo pode mover-se (não pode Investir ou Recuar). Se falhar, a Ativação do modelo termina.
 
@@ -278,7 +278,7 @@ Os seguintes modificadores são cumulativos:
 - **Múltiplas Armas Corpo a Corpo:** Se seu modelo estiver armado com duas Armas Corpo a Corpo, pode atacar com ambas, uma após a outra na ordem de sua escolha. Adicione -1 DADO para o segundo ataque.
 - **MEDO:** Adicione -1 DADO se seu oponente tiver a Palavra-Chave MEDO. Se ambos os modelos causarem MEDO, o efeito se cancela.
 - **Obstáculo Defendido:** Adicione -1 DADO se o alvo estiver em cobertura. Um modelo está em cobertura se estiver em contato com uma peça de terreno que tenha pelo menos 1/2" de altura e seja tão larga quanto sua base, e a peça de terreno esteja entre ele e o modelo atacante.
-- **Carga Mergulhante:** Um modelo pode tentar uma Carga Mergulhante contra modelos inimigos que estejam pelo menos 3" abaixo dele. Faça uma Rolagem de Sucesso Arriscada para o modelo. Se a rolagem for uma Falha, o modelo fica Abatido e uma Rolagem de Ferimento por Queda deve ser realizada para o modelo (ver Queda). Se a rolagem for um Sucesso, você não precisa fazer uma Rolagem de Ferimento por Queda para o modelo, e pode adicionar +1 DADO ao próximo Ataque Corpo a Corpo que o modelo realizar.
+- **Carga Mergulhante:** Um modelo pode tentar uma Carga Mergulhante contra modelos inimigos que estejam pelo menos 3" abaixo dele. Faça uma Rolagem de Sucesso Arriscada para o modelo. Se a rolagem for uma Falha, o modelo fica Derrubado e uma Rolagem de Ferimento por Queda deve ser realizada para o modelo (ver Queda). Se a rolagem for um Sucesso, você não precisa fazer uma Rolagem de Ferimento por Queda para o modelo, e pode adicionar +1 DADO ao próximo Ataque Corpo a Corpo que o modelo realizar.
 
 **Queda**
 
@@ -296,7 +296,7 @@ Para fazer uma Rolagem de Ferimento, role dois dados e adicione quaisquer +DADOS
 |-----------|--------|
 | 1 ou menos | Sem Efeito. O modelo não é ferido e o ferimento não tem efeito. |
 | 2 a 6 | Golpe Menor. Coloque 1 MARCADOR DE SANGUE ao lado do modelo. |
-| 7 a 8 | Abatido. Coloque 1 MARCADOR DE SANGUE ao lado do modelo e marque-o como estando Abatido (ver abaixo). Se o modelo já estiver Abatido, coloque 2 MARCADORES DE SANGUE ao lado do modelo em vez de 1. |
+| 7 a 8 | Derrubado. Coloque 1 MARCADOR DE SANGUE ao lado do modelo e marque-o como estando Derrubado (ver abaixo). Se o modelo já estiver Derrubado, coloque 2 MARCADORES DE SANGUE ao lado do modelo em vez de 1. |
 | 9+ | Fora de Ação. O modelo foi gravemente ferido ou morto e é removido do jogo. |
 
 **Modificadores de Resultado da Rolagem de Ferimento**
@@ -306,7 +306,7 @@ Os seguintes modificadores são cumulativos. O máximo de -MODIFICADOR DE FERIME
 - **Marcadores de Bênção:** Adicione -1 DADO DE FERIMENTO para cada MARCADOR DE BÊNÇÃO gasto.
 - **Marcadores de Sangue:** Adicione +1 DADO DE FERIMENTO para cada MARCADOR DE SANGUE gasto.
 - **Sucesso Crítico:** Adicione +1 DADO DE FERIMENTO.
-- **Abatido:** Adicione +1 DADO DE FERIMENTO para um Ataque Corpo a Corpo se o alvo estiver Abatido.
+- **Derrubado:** Adicione +1 DADO DE FERIMENTO para um Ataque Corpo a Corpo se o alvo estiver Derrubado.
 - **Habilidades ou Palavras-Chave:** Adicione quaisquer +/-DADOS DE FERIMENTO e/ou +/-MODIFICADORES DE FERIMENTO para habilidades ou Palavras-Chave que se apliquem a Rolagem de Ferimento.
 - **Característica de Armadura:** Adicione o -MODIFICADOR DE FERIMENTO da Característica de Armadura do modelo (se houver).
 - **Equipamento:** Adicione o -MODIFICADOR DE FERIMENTO do Equipamento do modelo (ex: Armadura, Escudo, etc.).
@@ -324,7 +324,7 @@ Cada vez que um de seus modelos sofrer um ferimento, coloque um MARCADOR DE SANG
 
 ### Rolagem de Banho de Sangue
 
-Quando você fizer uma Rolagem de Ferimento para um modelo inimigo, você pode gastar 6 MARCADORES DE SANGUE (ou 3 MARCADORES DE SANGUE se o alvo estiver Abatido) para converter a Rolagem de Ferimento em uma Rolagem de Banho de Sangue. Para fazer uma Rolagem de Banho de Sangue, role 3 dados, some todos os três e consulte o resultado na Tabela de Ferimento.
+Quando você fizer uma Rolagem de Ferimento para um modelo inimigo, você pode gastar 6 MARCADORES DE SANGUE (ou 3 MARCADORES DE SANGUE se o alvo estiver Derrubado) para converter a Rolagem de Ferimento em uma Rolagem de Banho de Sangue. Para fazer uma Rolagem de Banho de Sangue, role 3 dados, some todos os três e consulte o resultado na Tabela de Ferimento.
 
 ---
 
@@ -334,15 +334,15 @@ MARCADORES DE BÊNÇÃO são semelhantes aos MARCADORES DE SANGUE, mas especific
 
 ---
 
-## Resultados Abatido
+## Resultados Derrubado
 
-Você pode indicar que um modelo está Abatido colocando o modelo de lado. As seguintes regras se aplicam a um modelo que está Abatido:
+Você pode indicar que um modelo está Derrubado colocando o modelo de lado. As seguintes regras se aplicam a um modelo que está Derrubado:
 
-- Se um modelo for colocado Abatido durante sua Ativação, sua Ativação termina imediatamente.
-- Adicione -1 DADO a quaisquer rolagens feitas para um modelo que esteja Abatido.
-- Adicione +1 DADO DE FERIMENTO para um Ataque Corpo a Corpo se o alvo estiver Abatido.
-- Até que um modelo que esteja Abatido se levante, ele não pode ser movido por nenhuma razão, a menos que caia (ver Queda).
-- Um modelo que esteja Abatido se levanta quando for Ativado novamente. No entanto, sua Característica de Movimento é reduzida a metade pelo resto da Ativação (incluindo o bônus de carga).
+- Se um modelo for colocado Derrubado durante sua Ativação, sua Ativação termina imediatamente.
+- Adicione -1 DADO a quaisquer rolagens feitas para um modelo que esteja Derrubado.
+- Adicione +1 DADO DE FERIMENTO para um Ataque Corpo a Corpo se o alvo estiver Derrubado.
+- Até que um modelo que esteja Derrubado se levante, ele não pode ser movido por nenhuma razão, a menos que caia (ver Queda).
+- Um modelo que esteja Derrubado se levanta quando for Ativado novamente. No entanto, sua Característica de Movimento é reduzida a metade pelo resto da Ativação (incluindo o bônus de carga).
 
 ---
 
@@ -354,11 +354,11 @@ Uma vez que você tenha realizado todas as AÇÕES que deseja, ou tenha falhado 
 
 ## Fase de Moral
 
-Na Fase de Moral, se metade dos modelos em seu Bando estiverem Abatidos ou Fora de Ação (arredondado para cima), você deve fazer uma Rolagem de Sucesso. Se a rolagem for um Sucesso, seu Bando continua normalmente. Se a rolagem for uma Falha, seu Bando fica Abalado.
+Na Fase de Moral, se metade dos modelos em seu Bando estiverem Derrubados ou Fora de Ação (arredondado para cima), você deve fazer uma Rolagem de Sucesso. Se a rolagem for um Sucesso, seu Bando continua normalmente. Se a rolagem for uma Falha, seu Bando fica Abalado.
 
 ### Bandos Abalados
 
-Todas as Rolagens de Sucesso feitas para um Bando Abalado são tratadas como Rolagens de Sucesso Arriscadas. Na Fase de Moral ao final do próximo Turno, você deve fazer outra Rolagem de Sucesso para seu Bando, mesmo que menos de metade de seus modelos estejam Abatidos ou Fora de Ação. Se você tiver sucesso, seu Bando não está mais Abalado (embora possa ficar novamente se você falhar em um Teste de Moral em um turno futuro). No entanto, se você falhar, seu Bando foge e você imediatamente perde o jogo!
+Todas as Rolagens de Sucesso feitas para um Bando Abalado são tratadas como Rolagens de Sucesso Arriscadas. Na Fase de Moral ao final do próximo Turno, você deve fazer outra Rolagem de Sucesso para seu Bando, mesmo que menos de metade de seus modelos estejam Derrubados ou Fora de Ação. Se você tiver sucesso, seu Bando não está mais Abalado (embora possa ficar novamente se você falhar em um Teste de Moral em um turno futuro). No entanto, se você falhar, seu Bando foge e você imediatamente perde o jogo!
 
 ---
 
@@ -610,7 +610,7 @@ Um Turno de Trench Crusade é dividido nas seguintes fases:
 
 1. **Fase de Iniciativa:** Determine qual jogador tem a Iniciativa e então realize quaisquer tarefas de "início de Turno".
 2. **Fase de Ativação:** Os jogadores alternam Ativando seus modelos, um de cada vez, até que todos os modelos em ambas os Bandos tenham sido Ativados uma vez cada.
-3. **Fase de Moral:** Um jogador deve fazer um Teste de Moral se pelo menos metade de seus modelos estiverem Abatidos ou Fora de Ação. Um jogador perde o jogo se falhar em um Teste de Moral dois Turnos seguidos. Em seguida, os jogadores realizam tarefas de fim de Turno e um novo Turno começa.
+3. **Fase de Moral:** Um jogador deve fazer um Teste de Moral se pelo menos metade de seus modelos estiverem Derrubados ou Fora de Ação. Um jogador perde o jogo se falhar em um Teste de Moral dois Turnos seguidos. Em seguida, os jogadores realizam tarefas de fim de Turno e um novo Turno começa.
 
 ---
 
@@ -620,7 +620,7 @@ No início de cada Turno, você deve determinar qual jogador tem a Iniciativa pa
 
 **Determinando a Iniciativa**
 
-Para determinar qual jogador tem a Iniciativa, conte o número de modelos em cado Bando que estão atualmente no campo de batalha. Não conte modelos que estão Abatidos ou Fora de Ação ao determinar qual jogador tem menos modelos. O jogador com o menor número de modelos tem a Iniciativa pelo resto do Turno. Se ambos os jogadores tiverem o mesmo número de modelos, eles fazem um desempate é o vencedor tem a Iniciativa pelo resto do Turno.
+Para determinar qual jogador tem a Iniciativa, conte o número de modelos em cado Bando que estão atualmente no campo de batalha. Não conte modelos que estão Derrubados ou Fora de Ação ao determinar qual jogador tem menos modelos. O jogador com o menor número de modelos tem a Iniciativa pelo resto do Turno. Se ambos os jogadores tiverem o mesmo número de modelos, eles fazem um desempate é o vencedor tem a Iniciativa pelo resto do Turno.
 
 **Tarefas de Início de Turno**
 
@@ -688,7 +688,7 @@ Para mover um modelo, pegue-o e mova-o ao longo de um caminho pelo campo de bata
 
 ### CARGA
 
-Realizar uma AÇÃO de Investir com um modelo permite que você faça um tipo especial de movimento, chamado carga, que é usado para trazer um modelo para dentro de 1" de um modelo inimigo. Você só pode se mover para dentro de 1" de um modelo inimigo (medido a partir da base de cada modelo) realizando uma AÇÃO de Investir. Isso se aplica a todos os modelos inimigos, incluindo aqueles que estão Abatidos ou modelos inimigos que já estão dentro de 1" de um modelo amigo diferente.
+Realizar uma AÇÃO de Investir com um modelo permite que você faça um tipo especial de movimento, chamado carga, que é usado para trazer um modelo para dentro de 1" de um modelo inimigo. Você só pode se mover para dentro de 1" de um modelo inimigo (medido a partir da base de cada modelo) realizando uma AÇÃO de Investir. Isso se aplica a todos os modelos inimigos, incluindo aqueles que estão Derrubados ou modelos inimigos que já estão dentro de 1" de um modelo amigo diferente.
 
 **Declarar Carga**
 
@@ -718,7 +718,7 @@ Note que completar uma investida não permite automaticamente que você Lute: pa
 
 ### RECUO
 
-Realizar uma AÇÃO de Recuar com um modelo permite que você faça um tipo especial de movimento, chamado recuo, que é usado quando um modelo está dentro de 1" de um modelo inimigo e deseja se afastar. Antes de você fazer, ou ser forçado a fazer, um movimento de recuo com um modelo, seu oponente pode realizar uma AÇÃO de Lutar com cada modelo inimigo que esteja dentro de 1" do modelo recuando. Quando um modelo ataca um modelo inimigo recuando, ele só pode fazer 1 ataque corpo a corpo com 1 arma (não pode usar a regra de Multiplos Ataques Corpo a Corpo, mas se a arma atacante tiver a Palavra-Chave GOLPE VARRENTE(X), ela ainda se aplicará). Após realizar o(s) ataque(s), você pode mover o modelo recuando desde que ele não tenha sofrido um resultado Abatido ou Fora de Ação (ver Rolagens de Ferimento). Um modelo recuando deve terminar seu movimento de recuo a mais de 1" de todos os modelos inimigos. Se isso for impossível, ele não pode se mover. Note que reposicionar um modelo não conta como um movimento de recuo.
+Realizar uma AÇÃO de Recuar com um modelo permite que você faça um tipo especial de movimento, chamado recuo, que é usado quando um modelo está dentro de 1" de um modelo inimigo e deseja se afastar. Antes de você fazer, ou ser forçado a fazer, um movimento de recuo com um modelo, seu oponente pode realizar uma AÇÃO de Lutar com cada modelo inimigo que esteja dentro de 1" do modelo recuando. Quando um modelo ataca um modelo inimigo recuando, ele só pode fazer 1 ataque corpo a corpo com 1 arma (não pode usar a regra de Multiplos Ataques Corpo a Corpo, mas se a arma atacante tiver a Palavra-Chave GOLPE VARRENTE(X), ela ainda se aplicará). Após realizar o(s) ataque(s), você pode mover o modelo recuando desde que ele não tenha sofrido um resultado Derrubado ou Fora de Ação (ver Rolagens de Ferimento). Um modelo recuando deve terminar seu movimento de recuo a mais de 1" de todos os modelos inimigos. Se isso for impossível, ele não pode se mover. Note que reposicionar um modelo não conta como um movimento de recuo.
 
 ---
 
@@ -874,7 +874,7 @@ Um modelo que tenha duas Armas Corpo a Corpo pode usar uma única AÇÃO de Luta
 
 ### CARGA MERGULHANTE
 
-Você pode converter uma investida de um modelo amigo em uma Carga Mergulhante se ele Pular Para Baixo pelo menos 3" e aterrissar dentro de 1" de um alvo. Se fizer isso, faça uma Rolagem de Sucesso Arriscada para o modelo após ele Pular Para Baixo. Se a rolagem for uma Falha, o modelo fica Abatido, e uma Rolagem de Ferimento por Queda deve então ser feita para o modelo (ver Queda). Se a rolagem for um Sucesso, você não precisa fazer uma Rolagem de Ferimento por Queda para o modelo, e pode adicionar +1 DADO à Rolagem de Sucesso para o próximo Ataque Corpo a Corpo que o modelo fizer.
+Você pode converter uma investida de um modelo amigo em uma Carga Mergulhante se ele Pular Para Baixo pelo menos 3" e aterrissar dentro de 1" de um alvo. Se fizer isso, faça uma Rolagem de Sucesso Arriscada para o modelo após ele Pular Para Baixo. Se a rolagem for uma Falha, o modelo fica Derrubado, e uma Rolagem de Ferimento por Queda deve então ser feita para o modelo (ver Queda). Se a rolagem for um Sucesso, você não precisa fazer uma Rolagem de Ferimento por Queda para o modelo, e pode adicionar +1 DADO à Rolagem de Sucesso para o próximo Ataque Corpo a Corpo que o modelo fizer.
 
 ---
 
@@ -890,13 +890,13 @@ Uma Rolagem de Ferimento é feita de forma semelhante a uma Rolagem de Sucesso, 
 
 **MODIFICADOR DE FERIMENTO:** +/-MODIFICADORES DE FERIMENTO são aplicados à Rolagem de Ferimento. Faça a Rolagem de Ferimento, adicionando quaisquer +/-DADOS DE FERIMENTO, e então adicione ou subtraia quaisquer MODIFICADORES DE FERIMENTO da rolagem. O máximo de -MODIFICADOR DE FERIMENTO não pode ser mais que -3 no total.
 
-Por exemplo, uma Rolagem de Ferimento tem um modificador de +1 DADO DE FERIMENTO e um -1 MODIFICADOR DE FERIMENTO. 3 dados são rolados, resultando em 2, 4 e 5. Os dois dados mais altos são usados, dando uma rolagem de 9. Então o -1 MODIFICADOR DE FERIMENTO é aplicado, subtraindo 1 da rolagem e mudando-a para 8. A rolagem é consultada na Tabela de Ferimento, que dá um resultado Abatido para a Rolagem de Ferimento.
+Por exemplo, uma Rolagem de Ferimento tem um modificador de +1 DADO DE FERIMENTO e um -1 MODIFICADOR DE FERIMENTO. 3 dados são rolados, resultando em 2, 4 e 5. Os dois dados mais altos são usados, dando uma rolagem de 9. Então o -1 MODIFICADOR DE FERIMENTO é aplicado, subtraindo 1 da rolagem e mudando-a para 8. A rolagem é consultada na Tabela de Ferimento, que dá um resultado Derrubado para a Rolagem de Ferimento.
 
-Note que se uma regra disser que um modelo fica Abatido ou Fora de Ação, aplique o Resultado apropriado da Tabela de Rolagem de Ferimento por completo (o que significa que um modelo que fica Abatido terá um MARCADOR DE SANGUE colocado ao lado dele).
+Note que se uma regra disser que um modelo fica Derrubado ou Fora de Ação, aplique o Resultado apropriado da Tabela de Rolagem de Ferimento por completo (o que significa que um modelo que fica Derrubado terá um MARCADOR DE SANGUE colocado ao lado dele).
 
 ### Rolagens de Banho de Sangue
 
-Quando você fizer uma Rolagem de Ferimento para um modelo inimigo, você pode gastar 6 MARCADORES DE SANGUE (ou 3 MARCADORES DE SANGUE se o alvo estiver Abatido) para converter a Rolagem de Ferimento em uma Rolagem de Banho de Sangue. Para fazer uma Rolagem de Banho de Sangue, role 3D6 e some todos os 3 dados. Adicione +/-DADOS DE FERIMENTO e +/-MODIFICADORES DE FERIMENTO da mesma forma que faria em uma Rolagem de Ferimento, exceto que você escolhe os 3 dados mais altos ou mais baixos na rolagem em vez dos 2 mais altos ou mais baixos. Se a Rolagem de Ferimento tiver a Palavra-Chave LETAL, em vez disso role 4D6 e some todos os 4 dados.
+Quando você fizer uma Rolagem de Ferimento para um modelo inimigo, você pode gastar 6 MARCADORES DE SANGUE (ou 3 MARCADORES DE SANGUE se o alvo estiver Derrubado) para converter a Rolagem de Ferimento em uma Rolagem de Banho de Sangue. Para fazer uma Rolagem de Banho de Sangue, role 3D6 e some todos os 3 dados. Adicione +/-DADOS DE FERIMENTO e +/-MODIFICADORES DE FERIMENTO da mesma forma que faria em uma Rolagem de Ferimento, exceto que você escolhe os 3 dados mais altos ou mais baixos na rolagem em vez dos 2 mais altos ou mais baixos. Se a Rolagem de Ferimento tiver a Palavra-Chave LETAL, em vez disso role 4D6 e some todos os 4 dados.
 
 ### Fazendo uma Rolagem de Ferimento
 
@@ -916,7 +916,7 @@ Para fazer uma Rolagem de Ferimento para um modelo, siga os seguintes passos:
 |---------|-----------|
 | 1 ou menos | Sem Efeito. O modelo não é ferido e o ferimento não tem efeito. |
 | 2-6 | Golpe Menor. Coloque 1 MARCADOR DE SANGUE ao lado do modelo. |
-| 7-8 | Abatido. Coloque 1 MARCADOR DE SANGUE ao lado do modelo e marque-o como estando Abatido. Se o modelo já estiver Abatido, coloque 2 MARCADORES DE SANGUE ao lado do modelo em vez de 1. |
+| 7-8 | Derrubado. Coloque 1 MARCADOR DE SANGUE ao lado do modelo e marque-o como estando Derrubado. Se o modelo já estiver Derrubado, coloque 2 MARCADORES DE SANGUE ao lado do modelo em vez de 1. |
 | 9+ | Fora de Ação. O modelo foi gravemente ferido ou morto e é removido do campo de batalha. |
 
 **Modificadores Comuns de Rolagem de Ferimento**
@@ -926,27 +926,27 @@ Os seguintes modificadores são cumulativos. O máximo de -MODIFICADOR DE FERIME
 - **Marcadores de Bênção:** Adicione -1 DADO DE FERIMENTO para cada MARCADOR DE BÊNÇÃO gasto.
 - **Marcadores de Sangue:** Adicione +1 DADO DE FERIMENTO para cada MARCADOR DE SANGUE gasto.
 - **Sucesso Crítico:** Adicione +1 DADO DE FERIMENTO.
-- **Abatido:** Adicione +1 DADO DE FERIMENTO para um Ataque Corpo a Corpo se o alvo estiver Abatido.
+- **Derrubado:** Adicione +1 DADO DE FERIMENTO para um Ataque Corpo a Corpo se o alvo estiver Derrubado.
 - **Habilidades ou Palavras-Chave:** Adicione quaisquer +/-DADOS DE FERIMENTO e/ou quaisquer +/-MODIFICADORES DE FERIMENTO para habilidades ou Palavras-Chave que se apliquem a Rolagem de Ferimento.
 - **Característica de Armadura:** Adicione o -MODIFICADOR DE FERIMENTO da Característica de Armadura do modelo (se houver).
 - **Equipamento de Batalha:** Adicione o -MODIFICADOR DE FERIMENTO do Equipamento de Batalha do modelo (ex: Armadura, Escudo, etc.).
 
-*Exemplo de jogo: Um Soldado Herético faz um Ataque a Distância que acerta um Castigador Peregrino das Trincheiras que tem 2 MARCADORES DE SANGUE e Armadura Padrão. O jogador Herético decide usar ambos os MARCADORES DE SANGUE para tornar o tiro mais provável de ferir. O jogador Herético pega 4D6 (2D6 +2 DADOS DE FERIMENTO dos MARCADORES DE SANGUE) e rola 2, 5, 4 e 1. Como dois +DADOS DE FERIMENTO foram adicionados à rolagem, os dois números mais altos são usados para a Rolagem de Ferimento, dando um total de 9. A armadura do Castigador adiciona -1 MODIFICADOR DE FERIMENTO, então o total é reduzido em 1, para dar uma rolagem modificada de 8. O jogador Herético consulta a Tabela de Ferimento e descobre que o Peregrino está Abatido!*
+*Exemplo de jogo: Um Soldado Herético faz um Ataque a Distância que acerta um Castigador Peregrino das Trincheiras que tem 2 MARCADORES DE SANGUE e Armadura Padrão. O jogador Herético decide usar ambos os MARCADORES DE SANGUE para tornar o tiro mais provável de ferir. O jogador Herético pega 4D6 (2D6 +2 DADOS DE FERIMENTO dos MARCADORES DE SANGUE) e rola 2, 5, 4 e 1. Como dois +DADOS DE FERIMENTO foram adicionados à rolagem, os dois números mais altos são usados para a Rolagem de Ferimento, dando um total de 9. A armadura do Castigador adiciona -1 MODIFICADOR DE FERIMENTO, então o total é reduzido em 1, para dar uma rolagem modificada de 8. O jogador Herético consulta a Tabela de Ferimento e descobre que o Peregrino está Derrubado!*
 
 ---
 
-### Resultados Abatido
+### Resultados Derrubado
 
-As seguintes regras se aplicam a um modelo que está Abatido:
+As seguintes regras se aplicam a um modelo que está Derrubado:
 
-- Se um modelo for colocado Abatido durante sua Ativação, sua Ativação termina imediatamente.
-- Adicione -1 DADO a quaisquer Rolagens de Sucesso que você fizer para um modelo que esteja Abatido.
-- Adicione +1 DADO DE FERIMENTO para um Ataque Corpo a Corpo se o alvo estiver Abatido.
+- Se um modelo for colocado Derrubado durante sua Ativação, sua Ativação termina imediatamente.
+- Adicione -1 DADO a quaisquer Rolagens de Sucesso que você fizer para um modelo que esteja Derrubado.
+- Adicione +1 DADO DE FERIMENTO para um Ataque Corpo a Corpo se o alvo estiver Derrubado.
 - Até que o modelo se levante, ele não pode ser movido por nenhuma razão, a menos que caia.
-- Um modelo que está Abatido se levanta quando for Ativado novamente. No entanto, sua Característica de Movimento é reduzida a metade pelo resto da Ativação (incluindo qualquer Bônus de Investida que receba).
-- Um modelo que esteja dentro de 1" de uma borda quando for colocado Abatido pode Cair da borda. Faça uma Rolagem de Sucesso para o modelo antes que ele seja colocado Abatido. Se a rolagem for um Sucesso, o modelo fica Abatido mas não Cai da borda. Se a rolagem for uma Falha, o modelo Cai da borda mais próxima e então fica Abatido (ver Queda).
+- Um modelo que está Derrubado se levanta quando for Ativado novamente. No entanto, sua Característica de Movimento é reduzida a metade pelo resto da Ativação (incluindo qualquer Bônus de Investida que receba).
+- Um modelo que esteja dentro de 1" de uma borda quando for colocado Derrubado pode Cair da borda. Faça uma Rolagem de Sucesso para o modelo antes que ele seja colocado Derrubado. Se a rolagem for um Sucesso, o modelo fica Derrubado mas não Cai da borda. Se a rolagem for uma Falha, o modelo Cai da borda mais próxima e então fica Derrubado (ver Queda).
 
-Você pode mostrar que um modelo está Abatido colocando um marcador ao lado do modelo (como um cubo de madeira) ou deitando o modelo de lado. Se você escolher deitar o modelo de lado, deite-o de forma que o centro do modelo fique sobre o ponto onde o centro de sua base estava localizado. Ao medir o alcance para ou de um modelo que está Abatido, você pode medir de qualquer parte do modelo, não apenas de sua base.
+Você pode mostrar que um modelo está Derrubado colocando um marcador ao lado do modelo (como um cubo de madeira) ou deitando o modelo de lado. Se você escolher deitar o modelo de lado, deite-o de forma que o centro do modelo fique sobre o ponto onde o centro de sua base estava localizado. Ao medir o alcance para ou de um modelo que está Derrubado, você pode medir de qualquer parte do modelo, não apenas de sua base.
 
 Nota: Um modelo deitado de lado será mais difícil de ver, mas de resto os dois métodos são idênticos, e você pode decidir qual usar para seus modelos.
 
@@ -954,13 +954,13 @@ Nota: Um modelo deitado de lado será mais difícil de ver, mas de resto os dois
 
 ## 3. Fase de Moral
 
-Suo Bando pode abandonar a batalha se sofrer muitas baixas. Na Fase de Moral, se metade dos modelos em seu Bando estiverem Abatidos ou Fora de Ação (arredondado para cima), você deve fazer um tipo especial de Rolagem de Sucesso chamado Teste de Moral. Um Teste de Moral é feito da mesma forma que uma Rolagem de Sucesso para um modelo. Se o Teste de Moral for um Sucesso, seu Bando continua normalmente. Se o Teste de Moral for uma Falha, seu Bando fica Abalado.
+Suo Bando pode abandonar a batalha se sofrer muitas baixas. Na Fase de Moral, se metade dos modelos em seu Bando estiverem Derrubados ou Fora de Ação (arredondado para cima), você deve fazer um tipo especial de Rolagem de Sucesso chamado Teste de Moral. Um Teste de Moral é feito da mesma forma que uma Rolagem de Sucesso para um modelo. Se o Teste de Moral for um Sucesso, seu Bando continua normalmente. Se o Teste de Moral for uma Falha, seu Bando fica Abalado.
 
-Nota: Lembre-se de que ao contar modelos, quaisquer frações são arredondadas para cima. Por exemplo, um Bando que tenha 5 modelos não precisará fazer um Teste de Moral até que 3 de seus modelos estejam Abatidos ou Fora de Ação (metade de 5 e 2,5, que arredonda para 3).
+Nota: Lembre-se de que ao contar modelos, quaisquer frações são arredondadas para cima. Por exemplo, um Bando que tenha 5 modelos não precisará fazer um Teste de Moral até que 3 de seus modelos estejam Derrubados ou Fora de Ação (metade de 5 e 2,5, que arredonda para 3).
 
 ### Bandos Abalados
 
-Todas as Rolagens de Sucesso feitas para modelos de um Bando Abalado são tratadas como Rolagens de Sucesso Arriscadas (a menos que já sejam Rolagens de Sucesso Arriscadas). Além disso, na Fase de Moral ao final do próximo Turno, você deve fazer outro Teste de Moral para seu Bando, mesmo que menos de metade de seus modelos estejam Abatidos ou Fora de Ação. Se o Teste de Moral for um Sucesso, seu Bando não está mais Abalado (embora possa ficar novamente se você falhar em um Teste de Moral em um Turno futuro). No entanto, se o Teste de Moral for uma Falha, seu Bando foge e você imediatamente perde o jogo!
+Todas as Rolagens de Sucesso feitas para modelos de um Bando Abalado são tratadas como Rolagens de Sucesso Arriscadas (a menos que já sejam Rolagens de Sucesso Arriscadas). Além disso, na Fase de Moral ao final do próximo Turno, você deve fazer outro Teste de Moral para seu Bando, mesmo que menos de metade de seus modelos estejam Derrubados ou Fora de Ação. Se o Teste de Moral for um Sucesso, seu Bando não está mais Abalado (embora possa ficar novamente se você falhar em um Teste de Moral em um Turno futuro). No entanto, se o Teste de Moral for uma Falha, seu Bando foge e você imediatamente perde o jogo!
 
 ### Encerrando o Turno
 
@@ -1096,7 +1096,7 @@ Quando você faz um movimento, movimento de recuo ou movimento de carga com um m
 Após fazer a Rolagem de Ferimento para uma Arma com esta Palavra-Chave, coloque 1 MARCADOR DE SANGUE extra ao lado do modelo alvo, mesmo se o resultado for Sem Efeito.
 
 ### GOLEM (Efeito)
-Um modelo com esta Palavra-Chave trata um resultado Fora de Ação da Tabela de Rolagem de Ferimento como um resultado Abatido, a menos que o resultado tenha sido causado por uma Rolagem de Banho de Sangue. Além disso, você não pode remover MARCADORES DE SANGUE de um modelo amigo com esta Palavra-Chave (o jogador adversário pode usá-los normalmente). Finalmente, um modelo com esta Palavra-Chave tem as Palavras-Chave NEGAR MEDO e NEGAR GÁS, mas não pode ter a Palavra-Chave RESISTENTE.
+Um modelo com esta Palavra-Chave trata um resultado Fora de Ação da Tabela de Rolagem de Ferimento como um resultado Derrubado, a menos que o resultado tenha sido causado por uma Rolagem de Banho de Sangue. Além disso, você não pode remover MARCADORES DE SANGUE de um modelo amigo com esta Palavra-Chave (o jogador adversário pode usá-los normalmente). Finalmente, um modelo com esta Palavra-Chave tem as Palavras-Chave NEGAR MEDO e NEGAR GÁS, mas não pode ter a Palavra-Chave RESISTENTE.
 
 ### PESADO (Efeito)
 Um modelo não pode ser equipado com mais de uma peça de Equipamento de Batalha com esta Palavra-Chave e não recebe Bônus de Investida quando faz um movimento de carga. Além disso, se uma Arma a Distância ou Granada tiver esta Palavra-Chave, você não pode usar a Arma ou Granada para fazer um Ataque a Distância e realizar uma AÇÃO de Mover, Investir ou Recuar, ou Correr com o modelo atacante como parte da mesma Ativação.
@@ -1126,10 +1126,10 @@ O modelo está sob a influência de uma enfermidade sobrenatural ou química que
 Quando um modelo com esta Palavra-Chave é posicionado pela primeira vez em uma partida, ele pode ser montado em qualquer lugar do campo de batalha desde que esteja fora da Linha de Visão de todos os inimigos e esteja a pelo menos 8" de distância do inimigo mais próximo. INFILTRADORES são posicionados após modelos que não possuem esta Palavra-Chave. Quaisquer INFILTRADORES que não possam ser posicionados desta forma são posicionados normalmente em sua zona de posicionamento.
 
 ### MINADO (Efeito)
-Quando um modelo se move para contato com um Marcador ou peça de terreno com a Palavra-Chave MINADO, a mina detonará a menos que o modelo tenha a Palavra-Chave NEGAR MINADO. Faça uma Rolagem de Ferimento com a Palavra-Chave ESTILHAÇO para o modelo que detonou a mina, e então o Marcador ou peça de terreno perde a Palavra-Chave MINADO. Se o modelo que detonou a mina não foi colocado Abatido ou Fora de Ação, ele pode então continuar seu movimento. Modelos com a Palavra-Chave VOADOR só detonam uma mina se terminarem um movimento em contato com um Marcador ou peça de terreno MINADO (eles podem sobrevoar sem ativá-la).
+Quando um modelo se move para contato com um Marcador ou peça de terreno com a Palavra-Chave MINADO, a mina detonará a menos que o modelo tenha a Palavra-Chave NEGAR MINADO. Faça uma Rolagem de Ferimento com a Palavra-Chave ESTILHAÇO para o modelo que detonou a mina, e então o Marcador ou peça de terreno perde a Palavra-Chave MINADO. Se o modelo que detonou a mina não foi colocado Derrubado ou Fora de Ação, ele pode então continuar seu movimento. Modelos com a Palavra-Chave VOADOR só detonam uma mina se terminarem um movimento em contato com um Marcador ou peça de terreno MINADO (eles podem sobrevoar sem ativá-la).
 
 ### LÍDER (Efeito)
-Adicione +1 DADO a Testes de Moral se seu Bando tiver pelo menos 1 modelo com esta Palavra-Chave no campo de batalha que não esteja Abatido ou Fora de Ação.
+Adicione +1 DADO a Testes de Moral se seu Bando tiver pelo menos 1 modelo com esta Palavra-Chave no campo de batalha que não esteja Derrubado ou Fora de Ação.
 
 ### NOVA ANTIOQUIA (Etiqueta)
 Este modelo faz parte da Facção do Principado de Nova Antioquia.
@@ -1174,7 +1174,7 @@ Este modelo faz parte da Facção do Sultanato de Ferro.
 Este modelo faz parte da Facção da Corte da Serpente de Sete Cabeças.
 
 ### RESISTENTE (Efeito)
-A primeira vez que um modelo com esta Palavra-Chave sofre um resultado Fora de Ação na Tabela de Ferimento, ele é tratado como um resultado Abatido em vez disso.
+A primeira vez que um modelo com esta Palavra-Chave sofre um resultado Fora de Ação na Tabela de Ferimento, ele é tratado como um resultado Derrubado em vez disso.
 
 
 # Terreno de Trench Crusade
@@ -1644,7 +1644,7 @@ A adaga misericórdia e projetada para tirar inimigos de seu sofrimento encontra
 |------|---------|----------------|
 | 1 Mão | Corpo a Corpo | - |
 
-*Execução:* Esta arma tem a Palavra-Chave IGNORAR ARMADURA se o alvo estiver Abatido.
+*Execução:* Esta arma tem a Palavra-Chave IGNORAR ARMADURA se o alvo estiver Derrubado.
 
 ### Arma de Haste
 
@@ -1656,7 +1656,7 @@ Piques de trincheira, podoes, lanças e outras armas de haste longas são excele
 
 ### Espada/Machado
 
-Devido as tradições marciais de muitas nações orgulhosas e aos avanços na tecnologia de armadura, espadas e machados são extremamente populares, especialmente entre unidades de elite e oficiais. São supremamente úteis para finalizar oponentes Abatidos e causar ferimentos que sangram profusamente.
+Devido as tradições marciais de muitas nações orgulhosas e aos avanços na tecnologia de armadura, espadas e machados são extremamente populares, especialmente entre unidades de elite e oficiais. São supremamente úteis para finalizar oponentes Derrubados e causar ferimentos que sangram profusamente.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
@@ -1826,7 +1826,7 @@ Relicários sagrados, artefatos abençoados e cruzes sagradas são frequentement
 
 Um Santuário de Campo é representado por uma peça de terreno que tenha pelo menos 1/2" de altura e que esteja montada em uma base de 40mm. É Terreno Intransponível.
 
-*Local de Adoração:* Após posicionar um modelo que possua Santuário de Campo, você também pode posicionar seu Santuário de Campo em qualquer lugar inteiramente dentro de sua zona de posicionamento. Na Fase de Moral, cada Santuário de Campo amigo no campo de batalha adiciona 3 ao número de modelos que você tem em seu Bando que não estão Abatidos ou Fora de Ação, até um bônus máximo de 9 modelos extras. Uma vez posicionado, o modelo que tinha o Santuário de Campo não é considerado como estando carregando-o pelo resto da partida.
+*Local de Adoração:* Após posicionar um modelo que possua Santuário de Campo, você também pode posicionar seu Santuário de Campo em qualquer lugar inteiramente dentro de sua zona de posicionamento. Na Fase de Moral, cada Santuário de Campo amigo no campo de batalha adiciona 3 ao número de modelos que você tem em seu Bando que não estão Derrubados ou Fora de Ação, até um bônus máximo de 9 modelos extras. Uma vez posicionado, o modelo que tinha o Santuário de Campo não é considerado como estando carregando-o pelo resto da partida.
 
 *Derrube-o!:* Modelos podem atacar um Santuário de Campo como se fosse um modelo inimigo. Se for acertado por um ataque ou estiver no raio de explosão de um ataque feito com uma Arma que tenha a Palavra-Chave EXPLOSÃO, ele é removido do campo de batalha e removido da Ficha de Bando (nenhuma Rolagem de Ferimento é necessária).
 
@@ -1892,7 +1892,7 @@ Primeiros socorros no campo de batalha trouxeram muitos soldados de volta da bei
 
 *Tratar AÇÃO:* Um modelo com esta Palavra-Chave pode realizar uma AÇÃO de Tratar. Se fizer isso, faça uma Rolagem de Sucesso Arriscada para o modelo. Se a rolagem for uma Falha, a Ativação do modelo termina imediatamente. Se for um Sucesso ou Sucesso Crítico, você pode fazer uma das seguintes coisas:
 - Remover 1 MARCADOR DE SANGUE do modelo ou de um modelo amigo dentro de 1" do modelo.
-- Levantar um modelo amigo que esteja Abatido e dentro de 1" do modelo.
+- Levantar um modelo amigo que esteja Derrubado e dentro de 1" do modelo.
 
 ### Kit de Montanhismo
 
@@ -1998,7 +1998,7 @@ Ter um Santo Guerreiro como seu Patrono permite que você adquira as seguintes H
 - **Davi e Golias:** Adicione +1 DADO para um Ataque Corpo a Corpo feito por um modelo com esta Habilidade se o alvo estiver montado em uma base de 40mm ou maior.
 - **Matador de Dragões:** Quando você fizer uma Rolagem de Ferimento para um Ataque Corpo a Corpo feito por um modelo com esta Habilidade, você pode mudar o resultado de um dos D6s usados para a Rolagem de Ferimento para 6.
 - **Suportar o Sofrimento:** Um modelo com esta Habilidade pode sofrer 1 Cicatriz de Batalha extra antes de ficar inapto para o serviço.
-- **De Joelhos!:** Modelos inimigos que estejam Abatidos não podem se levantar se um modelo com esta Habilidade estiver dentro de 1" deles (mesmo se o modelo com esta Habilidade também estiver Abatido).
+- **De Joelhos!:** Modelos inimigos que estejam Derrubados não podem se levantar se um modelo com esta Habilidade estiver dentro de 1" deles (mesmo se o modelo com esta Habilidade também estiver Derrubado).
 - **Oração do Guerreiro AÇÃO:** Um modelo com esta Habilidade pode realizar uma AÇÃO de Oração do Guerreiro. Se fizer isso, faça uma Rolagem de Sucesso Arriscada para o modelo. Se a rolagem for uma Falha, nada acontece e a Ativação do modelo termina. Se a rolagem for um Sucesso ou Sucesso Crítico, o modelo tem a Palavra-Chave MEDO até o final do Turno, e você pode remover até 1 MARCADOR DE SANGUE do modelo.
 
 ---
@@ -2029,7 +2029,7 @@ Ter um Nobre Infernal como seu Patrono permite que você adquira as seguintes Ha
 - **Sacrifício de Sangue AÇÃO:** Um modelo com esta Habilidade pode realizar uma AÇÃO de Sacrifício de Sangue. Se fizer isso, faça uma Rolagem de Sucesso para o modelo. Em um Sucesso ou Sucesso Crítico, você pode remover 1 MARCADOR DE SANGUE do modelo e colocá-lo ao lado de qualquer outro modelo que esteja dentro de 6" do modelo realizando a AÇÃO de Sacrifício de Sangue, em sua Linha de Visão, e que não tenha as Palavras-Chave ARTIFICIAL, GRAAL NEGRO ou DEMONÍACO.
 - **Fogo Infernal AÇÃO:** Um modelo com esta Habilidade pode realizar uma AÇÃO de Fogo Infernal. Se fizer isso, faça uma Rolagem de Sucesso Arriscada para o modelo. Se a rolagem for uma Falha, nada acontece e a Ativação do modelo termina. Se a rolagem for um Sucesso ou Sucesso Crítico, escolha um modelo amigo que esteja dentro de 18" do modelo realizando a AÇÃO de Fogo Infernal e em sua Linha de Visão. Em seguida, trace uma linha reta de 1mm de largura entre os pontos mais próximos das bases dos dois modelos, e faça uma Rolagem de Ferimento com a Palavra-Chave FOGO para cada modelo (amigo ou inimigo) que seja cruzado ou alcançado pela linha, incluindo o modelo amigo que você escolheu, mas não incluindo o modelo realizando a AÇÃO de Fogo Infernal.
 - **Chicote do Aqueronte AÇÃO:** Um modelo com esta Habilidade pode realizar uma AÇÃO de Chicote do Aqueronte. Se fizer isso, faça uma Rolagem de Sucesso Arriscada para o modelo. Se a rolagem for uma Falha, nada acontece e a Ativação do modelo termina. Se a rolagem for um Sucesso ou Sucesso Crítico, você pode fazer uma Rolagem de Ferimento com a Palavra-Chave IGNORAR ARMADURA para 1 modelo inimigo que esteja dentro de 6" do modelo realizando a AÇÃO de Chicote do Aqueronte e em sua Linha de Visão.
-- **Sádico:** Adicione +1 DADO e +1 DADO DE FERIMENTO a Ataques Corpo a Corpo feitos por um modelo com esta Habilidade se o modelo alvo estiver Abatido.
+- **Sádico:** Adicione +1 DADO e +1 DADO DE FERIMENTO a Ataques Corpo a Corpo feitos por um modelo com esta Habilidade se o modelo alvo estiver Derrubado.
 
 ---
 
@@ -2039,7 +2039,7 @@ Ter um Nobre Infernal como seu Patrono permite que você adquira as seguintes Ha
 
 Ter o Portal Sublime como seu Patrono permite que você adquira as seguintes Habilidades:
 
-- **Gures:** Adicione +1 DADO e +1 DADO DE FERIMENTO a Ataques Corpo a Corpo feitos por um modelo com esta Habilidade se o modelo alvo estiver Abatido. Além disso, você pode ignorar o modificador de -1 DADO em Rolagens de Sucesso para um modelo que esteja Abatido se o modelo tiver esta Habilidade.
+- **Gures:** Adicione +1 DADO e +1 DADO DE FERIMENTO a Ataques Corpo a Corpo feitos por um modelo com esta Habilidade se o modelo alvo estiver Derrubado. Além disso, você pode ignorar o modificador de -1 DADO em Rolagens de Sucesso para um modelo que esteja Derrubado se o modelo tiver esta Habilidade.
 - **Mercadorias Importadas:** Você pode comprar 1 Arma ou 1 Armadura das Tabelas de Armaria de Nova Antioquia para um modelo com esta Habilidade na Etapa do Intendente seguinte. Escolha a Arma ou Armadura e anote sua escolha em sua Ficha de Bando. Se este item for perdido por qualquer razão durante a campanha, você pode recomprá-lo.
 - **Treinamento de Janíssaro:** Se a primeira AÇÃO que um modelo com esta Habilidade fizer durante sua Ativação for uma Carga, adicione +1 DADO a Ataques Corpo a Corpo feitos pelo modelo pelo resto da Ativação. Adicionalmente, um modelo com esta Habilidade tem a Palavra-Chave IGNORAR ARMA SECUNDÁRIA.
 - **Corretamente Guiado:** No início da partida, após o posicionamento, você pode escolher 1 AÇÃO além de Carregar, Atirar ou Lutar que exija que um modelo inimigo seja escolhido como alvo da AÇÃO ou seja escolhido para ser afetado pela AÇÃO. Pelo resto da partida, o modelo com esta Habilidade não pode ser escolhido como alvo daquela AÇÃO e não pode ser escolhido para ser afetado por aquela AÇÃO.
@@ -2322,13 +2322,13 @@ Os seguintes modelos não podem ser Promovidos ao status ELITE:
 | 2D6 | Habilidade |
 |-----|------------|
 | 2 | **Habilidade de Patrono:** Escolha uma das Habilidades oferecidas por seu Patrono. |
-| 3 | **Firme:** A primeira vez que um modelo com esta Habilidade sofrer um resultado Abatido na Tabela de Ferimento, ele é tratado como um resultado de Golpe Menor em vez disso. |
+| 3 | **Firme:** A primeira vez que um modelo com esta Habilidade sofrer um resultado Derrubado na Tabela de Ferimento, ele é tratado como um resultado de Golpe Menor em vez disso. |
 | 4 | **Aparar:** Adicione -1 DADO a Rolagens de Sucesso para Ataques Corpo a Corpo que tenham como alvo um modelo com esta Habilidade. |
 | 5 | **Combate em Espaços Fechados:** Adicione +1 DADO e +1 DADO DE FERIMENTO a rolagens para Ataques Corpo a Corpo feitos por um modelo com esta Habilidade se ele estiver em contato com uma peça de terreno. |
 | 6 | **Carga Implacável:** Adicione +1 DADO a rolagens para Ataques Corpo a Corpo feitos por um modelo com esta Habilidade se ele tiver carregado com sucesso anteriormente na mesma Ativação. |
 | 7 | **Proficiência Corpo a Corpo:** Adicione +1 DADO a Característica de Corpo a Corpo de um modelo com esta Habilidade. |
 | 8 | **Força de Sansão:** Adicione +1 DADO DE FERIMENTO a rolagens para Ataques Corpo a Corpo usando uma Arma Corpo a Corpo feitos por um modelo com esta Habilidade. Além disso, um modelo com esta Habilidade tem a Palavra-Chave FORTE. |
-| 9 | **Duro de Matar:** A primeira vez que um modelo com esta Habilidade sofrer um resultado Abatido na Tabela de Ferimento, ele é tratado como um resultado Sem Efeito em vez disso. |
+| 9 | **Duro de Matar:** A primeira vez que um modelo com esta Habilidade sofrer um resultado Derrubado na Tabela de Ferimento, ele é tratado como um resultado Sem Efeito em vez disso. |
 | 10 | **Golpe Cirúrgico:** Uma vez por Ativação, antes de fazer uma Rolagem de Ferimento para um Ataque Corpo a Corpo feito por um modelo com esta Habilidade, você pode dizer que a rolagem tem a Palavra-Chave IGNORAR ARMADURA. |
 | 11 | **Campeão:** Armas Corpo a Corpo que não possuam a Palavra-Chave GOLPE VARRENTE usadas por um modelo com esta Habilidade ganham a Palavra-Chave GOLPE VARRENTE 2. Além disso, adicione -1 DADO à Rolagem de Sucesso para o segundo Ataque Corpo a Corpo feito com cada Arma Corpo a Corpo que ganhe a Palavra-Chave GOLPE VARRENTE. |
 | 12 | **Habilidade de Patrono:** Escolha uma das Habilidades oferecidas por seu Patrono. |
@@ -2354,7 +2354,7 @@ Os seguintes modelos não podem ser Promovidos ao status ELITE:
 | 2D6 | Habilidade |
 |-----|------------|
 | 2 | **Habilidade de Patrono.** |
-| 3 | **Sexto Sentido:** Se um modelo com esta Habilidade sofrer um resultado Abatido na Tabela de Ferimento, ele é tratado como Golpe Menor se o modelo não tiver nenhum MARCADOR DE SANGUE. Se o modelo também tiver a Palavra-Chave RESISTENTE, uma vez por partida pode usar a Palavra-Chave para mudar um resultado Fora de Ação para Abatido, e então usar esta Habilidade para mudar o resultado Abatido para Sem Efeito. |
+| 3 | **Sexto Sentido:** Se um modelo com esta Habilidade sofrer um resultado Derrubado na Tabela de Ferimento, ele é tratado como Golpe Menor se o modelo não tiver nenhum MARCADOR DE SANGUE. Se o modelo também tiver a Palavra-Chave RESISTENTE, uma vez por partida pode usar a Palavra-Chave para mudar um resultado Fora de Ação para Derrubado, e então usar esta Habilidade para mudar o resultado Derrubado para Sem Efeito. |
 | 4 | **Assassinar:** Adicione +1 DADO a rolagens para ataques feitos por um modelo com esta Habilidade se o alvo ainda não tiver sido Ativado neste Turno. |
 | 5 | **Caminhante das Sombras:** Adicione -2 DADOS em vez de -1 DADO a rolagens para Ataques a Distância que tenham como alvo um modelo com esta Habilidade em Longo Alcance. |
 | 6 | **Atlético:** Adicione +1 DADO a Rolagens de Sucesso Arriscadas para um modelo com esta Habilidade quando Escalar, Saltar ou fazer uma Carga Mergulhante, e adicione -1 DADO DE FERIMENTO a Rolagens de Ferimento se Cair. |
@@ -2717,7 +2717,7 @@ Cada cenário tem um conjunto único de Feitos Gloriosos que, quando completados
 - **Derrube-os:** Um modelo amigo faz um modelo inimigo Cair de uma altura de pelo menos 3".
 - **Mantenha a Posição:** Um Bando é o primeiro a passar em um Teste de Moral nesta partida.
 - **Senhor da Guerra:** Um modelo amigo coloca dois modelos inimigos Fora de Ação com Ataques Corpo a Corpo em um único Turno.
-- **Resistir e Morder:** Um modelo amigo que iniciou sua Ativação Abatido coloca um modelo inimigo Fora de Ação na mesma Ativação.
+- **Resistir e Morder:** Um modelo amigo que iniciou sua Ativação Derrubado coloca um modelo inimigo Fora de Ação na mesma Ativação.
 - **Franco-Atirador:** Um modelo amigo coloca um modelo ELITE inimigo Fora de Ação com um Ataque a Distância que tenha os modificadores de Longo Alcance e Cobertura.
 - **Bravura Suicida:** Um modelo amigo carrega com sucesso dois modelos com o mesmo movimento de carga.
 
@@ -2785,7 +2785,7 @@ Cada cenário tem um conjunto único de Feitos Gloriosos que, quando completados
 - **Derrube-os:** Modelo amigo faz inimigo Cair de pelo menos 3".
 - **Proteja a Relíquia:** Modelo amigo coloca inimigo dentro de 1" de um Relicário Fora de Ação.
 - **Caçador de Relíquias:** Modelo amigo reclama dois Relicários diferentes durante a partida.
-- **Resistir e Morder:** Modelo amigo Abatido coloca inimigo Fora de Ação na mesma Ativação.
+- **Resistir e Morder:** Modelo amigo Derrubado coloca inimigo Fora de Ação na mesma Ativação.
 - **Franco-Atirador:** Modelo amigo coloca ELITE inimigo Fora de Ação com Ataque a Distância com modificadores de Longo Alcance e Cobertura.
 
 ---
@@ -2860,7 +2860,7 @@ Cada cenário tem um conjunto único de Feitos Gloriosos que, quando completados
 
 **Modelos Neutros:** O Dragão e os Camponeses são modelos neutros (tratados como inimigos por ambos os lados). Após cada Ativação de um modelo do jogador, role D6: em 1-4 Ative um Campones; em 5-6 Ative o Dragão ou um Campones.
 
-**O Dragão:** Movimento 10", +3 DADOS em Distância e Corpo a Corpo, -3 Armadura, base 120-300mm. Palavra-Chave MEDO. Habilidades: Sopro de Fogo (Alcance 10", EXPLOSÃO 3", FOGO, IGNORAR ARMADURA, DISPERSÃO), Dentes e Garras Mortais (+1 DADO, +1 DADO DE FERIMENTO, IGNORAR ARMADURA), Chicotada de Cauda (+1 MODIFICADOR DE FERIMENTO), Campo de Batalha Vivo (modelos podem subir nele), Arma de Cerco (move sobre terreno), Esmagar (move sobre modelos), Resistente, Imorredouro (3 primeiros resultados Fora de Ação tratados como Abatido), e Desafiador.
+**O Dragão:** Movimento 10", +3 DADOS em Distância e Corpo a Corpo, -3 Armadura, base 120-300mm. Palavra-Chave MEDO. Habilidades: Sopro de Fogo (Alcance 10", EXPLOSÃO 3", FOGO, IGNORAR ARMADURA, DISPERSÃO), Dentes e Garras Mortais (+1 DADO, +1 DADO DE FERIMENTO, IGNORAR ARMADURA), Chicotada de Cauda (+1 MODIFICADOR DE FERIMENTO), Campo de Batalha Vivo (modelos podem subir nele), Arma de Cerco (move sobre terreno), Esmagar (move sobre modelos), Resistente, Imorredouro (3 primeiros resultados Fora de Ação tratados como Derrubado), e Desafiador.
 
 **Os Camponeses:** Movimento 5", só podem Mover ou Recuar em direção a borda mais próxima. Habilidade Debil: +2 DADOS e +2 DADOS DE FERIMENTO contra eles.
 
@@ -2923,7 +2923,7 @@ Cada cenário tem um conjunto único de Feitos Gloriosos que, quando completados
 **Frascos de Icor:** Cada modelo tem 3 Frascos vazios. Ações especiais: Encher Frasco, Trocar Frascos, Roubar Frascos, Extrair Frascos (na borda do campo em uma Zona de Posicionamento).
 
 **Projéteis de Artilharia:** Atacar com Sucesso faz explodir. Cada explosão pode despertar a Besta:
-- 1a explosão: tremor, D6 por modelo (6 = Abatido).
+- 1a explosão: tremor, D6 por modelo (6 = Derrubado).
 - 2a explosão: D6, em 4-6 a Besta desperta.
 - 3a explosão: D6, em 3-6 a Besta desperta.
 - 4a explosão: a Besta desperta automaticamente.

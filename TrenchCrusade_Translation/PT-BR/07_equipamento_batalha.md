@@ -288,7 +288,7 @@ A adaga misericórdia e projetada para tirar inimigos de seu sofrimento encontra
 |------|---------|----------------|
 | 1 Mão | Corpo a Corpo | - |
 
-*Execução:* Esta arma tem a Palavra-Chave IGNORAR ARMADURA se o alvo estiver Abatido.
+*Execução:* Esta arma tem a Palavra-Chave IGNORAR ARMADURA se o alvo estiver Derrubado.
 
 ### Arma de Haste
 
@@ -300,7 +300,7 @@ Piques de trincheira, podoes, lanças e outras armas de haste longas são excele
 
 ### Espada/Machado
 
-Devido as tradicoes marciais de muitas nacoes orgulhosas e aos avanços na tecnologia de armadura, espadas e machados são extremamente populares, especialmente entre unidades de elite e oficiais. São supremamente uteis para finalizar oponentes Abatidos e causar ferimentos que sangram profusamente.
+Devido as tradicoes marciais de muitas nacoes orgulhosas e aos avanços na tecnologia de armadura, espadas e machados são extremamente populares, especialmente entre unidades de elite e oficiais. São supremamente uteis para finalizar oponentes Derrubados e causar ferimentos que sangram profusamente.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
@@ -470,7 +470,7 @@ Relicários sagrados, artefatos abençoados e cruzes sagradas são frequentement
 
 Um Santuário de Campo é representado por uma peça de terreno que tenha pelo menos 1/2" de altura e que esteja montada em uma base de 40mm. É Terreno Intransponível.
 
-*Local de Adoração:* Após posicionar um modelo que possua Santuário de Campo, você também pode posicionar seu Santuário de Campo em qualquer lugar inteiramente dentro de sua zona de posicionamento. Na Fase de Moral, cada Santuário de Campo amigo no campo de batalha adiciona 3 ao número de modelos que você tem em seu Bando que não estão Abatidos ou Fora de Ação, até um bônus máximo de 9 modelos extras. Uma vez posicionado, o modelo que tinha o Santuário de Campo não é considerado como estando carregando-o pelo resto da partida.
+*Local de Adoração:* Após posicionar um modelo que possua Santuário de Campo, você também pode posicionar seu Santuário de Campo em qualquer lugar inteiramente dentro de sua zona de posicionamento. Na Fase de Moral, cada Santuário de Campo amigo no campo de batalha adiciona 3 ao número de modelos que você tem em seu Bando que não estão Derrubados ou Fora de Ação, até um bônus máximo de 9 modelos extras. Uma vez posicionado, o modelo que tinha o Santuário de Campo não é considerado como estando carregando-o pelo resto da partida.
 
 *Derrube-o!:* Modelos podem atacar um Santuário de Campo como se fosse um modelo inimigo. Se for acertado por um ataque ou estiver no raio de explosão de um ataque feito com uma Arma que tenha a Palavra-Chave EXPLOSÃO, ele é removido do campo de batalha e removido da Ficha de Bando (nenhuma Rolagem de Ferimento é necessária).
 
@@ -536,7 +536,7 @@ Primeiros socorros no campo de batalha trouxeram muitos soldados de volta da bei
 
 *Tratar AÇÃO:* Um modelo com esta Palavra-Chave pode realizar uma AÇÃO de Tratar. Se fizer isso, faça uma Rolagem de Sucesso Arriscada para o modelo. Se a rolagem for uma Falha, a Ativação do modelo termina imediatamente. Se for um Sucesso ou Sucesso Crítico, você pode fazer uma das seguintes coisas:
 - Remover 1 MARCADOR DE SANGUE do modelo ou de um modelo amigo dentro de 1" do modelo.
-- Levantar um modelo amigo que esteja Abatido e dentro de 1" do modelo.
+- Levantar um modelo amigo que esteja Derrubado e dentro de 1" do modelo.
 
 ### Kit de Montanhismo
 

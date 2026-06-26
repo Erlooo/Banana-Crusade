@@ -59,7 +59,7 @@
 
 | Inglês | PT-BR |
 |--------|-------|
-| Down | Abatido |
+| Down | Derrubado |
 | Out of Action | Fora de Ação |
 | On Fire | Em Chamas |
 | Gassed | Gaseado |

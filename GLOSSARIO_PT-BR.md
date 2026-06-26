@@ -24,7 +24,7 @@ Referência canônica de tradução para criação de conteúdo homebrew. Todos 
 | LEADER | LÍDER | Único por bando. Bônus de moral para aliados próximos. |
 | ELITE | ELITE | Ganha XP, pode ser promovido, tem Rolagem de Trauma. |
 | FOLLOWER | SEGUIDOR | Infantaria básica. Sem XP, sem Rolagem de Trauma. |
-| TOUGH | RESISTENTE | Ao receber Abatido, role novamente: em 4+ trata como Marcador de Sangue. |
+| TOUGH | RESISTENTE | Ao receber Derrubado, role novamente: em 4+ trata como Marcador de Sangue. |
 | STRONG | FORTE | Usa armas e itens com PESADO sem penalidade. |
 | FEAR | MEDO | Inimigos que queiram atacar este modelo fazem teste de moral primeiro. |
 | FLYING | VOADOR | Ignora terreno ao mover. Não pode ser carregado por modelos sem VOADOR. |
@@ -55,7 +55,7 @@ Referência canônica de tradução para criação de conteúdo homebrew. Todos 
 | IGNORE ARMOUR | IGNORAR ARMADURA | A Armadura do alvo não é aplicada à Rolagem de Ferimento. |
 | CRITICAL | CRÍTICO | Em Sucesso Crítico, role +2 dados na Rolagem de Ferimento em vez de +1. |
 | RISKY | ARRISCADO | Em falha, o atirador também sofre uma Rolagem de Ferimento. |
-| DESPATCH | EXECUÇÃO | Se o alvo estiver Abatido, ignora a Armadura automaticamente. |
+| DESPATCH | EXECUÇÃO | Se o alvo estiver Derrubado, ignora a Armadura automaticamente. |
 | INFECTION MARKER | MARCADOR DE INFECÇÃO | Ao ferir, coloca marcador que reduz atributos até o fim da batalha. |
 | CLEAVE(X) | GOLPE VARRENTE(X) | Se o ataque remove um modelo, X de dano excedente atinge outro adjacente. |
 | OTHISMOS | ARREMESSO | Empurra o alvo D6" na direção do ataque após acerto bem-sucedido. |
@@ -68,7 +68,7 @@ Referência canônica de tradução para criação de conteúdo homebrew. Todos 
 
 | Inglês | PT-BR | Como é Adquirido | Efeito |
 | :--- | :--- | :--- | :--- |
-| Down | Abatido | Rolagem de Ferimento 7–8. | Não pode agir. Aliados podem levantar (1 ação). Inimigos podem executar. |
+| Down | Derrubado | Rolagem de Ferimento 7–8. | Não pode agir. Aliados podem levantar (1 ação). Inimigos podem executar. |
 | Out of Action | Fora de Ação | Rolagem de Ferimento 9+, ou 6 Marcadores de Sangue. | Removido do campo. Elites rolam Trauma. |
 | On Fire | Em Chamas | Armas com FOGO ou LANÇA-CHAMAS. | Rolagem de Ferimento automática no início de cada ativação. |
 | Gassed | Gaseado | Armas com GÁS. | Penalidade em todos os testes; Marcador de Sangue extra por turno. |
@@ -94,8 +94,8 @@ Referência canônica de tradução para criação de conteúdo homebrew. Todos 
 | Inglês | PT-BR | Descrição |
 | :--- | :--- | :--- |
 | Success Roll | Rolagem de Sucesso | 2D6: 2–6 Falha / 7–11 Sucesso / 12+ Crítico. |
-| Injury Roll | Rolagem de Ferimento | 2D6: 1 Sem Efeito / 2–6 Marcador de Sangue / 7–8 Abatido / 9+ Fora de Ação. |
-| Bloodbath Roll | Rolagem de Banho de Sangue | 3D6 em Rolagem de Ferimento ao gastar 6 Marcadores de Sangue (ou 3 se Abatido). |
+| Injury Roll | Rolagem de Ferimento | 2D6: 1 Sem Efeito / 2–6 Marcador de Sangue / 7–8 Derrubado / 9+ Fora de Ação. |
+| Bloodbath Roll | Rolagem de Banho de Sangue | 3D6 em Rolagem de Ferimento ao gastar 6 Marcadores de Sangue (ou 3 se Derrubado). |
 | Trauma Roll | Rolagem de Trauma | D66 pós-batalha para cada ELITE colocado Fora de Ação. |
 | Advancement Roll | Rolagem de Avanço | Rolagem 2D6 em tabela de habilidades ao atingir marco de XP. |
 | Success Dice (+DICE) | +DADO | Role dados extras; escolha os 2 melhores resultados. |
@@ -349,5 +349,5 @@ Referência canônica de tradução para criação de conteúdo homebrew. Todos 
 3. **Custo em 👑 (Ducados) ou ☼ (Pontos de Glória)** — nunca "pts" ou "pontos".
 4. **Habilidades com nome em itálico** — *Nome da Habilidade*: efeito.
 5. **Tipos de modelo**: ELITE/LÍDER, ELITE, Seguidor — sem outros.
-6. **Condições** sempre pelo nome PT-BR: Abatido, Fora de Ação, Em Chamas, Gaseado.
+6. **Condições** sempre pelo nome PT-BR: Derrubado, Fora de Ação, Em Chamas, Gaseado.
 7. **Em caso de dúvida**, consulte a coluna PT-BR deste glossário antes de criar um novo termo.
