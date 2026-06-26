@@ -70,8 +70,8 @@
 
 | Inglês | PT-BR |
 |--------|-------|
-| Success Roll | Rolagem de Sucesso |
-| Risky Success Roll | Rolagem de Sucesso Arriscada |
+| Success Roll | Teste de Sucesso |
+| Risky Success Roll | Teste de Sucesso Arriscado |
 | Injury Roll | Rolagem de Ferimento |
 | Bloodbath Roll | Rolagem de Banho de Sangue |
 | Trauma Roll | Rolagem de Trauma |

@@ -60,19 +60,19 @@ Algumas palavras nas regras são escritas em LETRAS MAIÚSCULAS, como AÇÃO ou 
 
 ### ROLAGENS DE SUCESSO
 
-Durante uma partida de Trench Crusade, você frequentemente terá que fazer uma Rolagem de Sucesso para um modelo e consultar o resultado na tabela de Rolagem de Sucesso para ver se o modelo realizou uma tarefa com sucesso. Por exemplo, se você quiser que um modelo faça um Ataque a Distância, deve fazer uma Rolagem de Sucesso para o modelo para ver se o ataque acerta o alvo, e assim por diante. As regras dizem quando você precisa fazer uma Rolagem de Sucesso e o que o resultado da Rolagem de Sucesso significa. Por exemplo, se a Rolagem de Sucesso para um Ataque a Distância for uma Falha, o ataque erra o alvo. Se for um Sucesso, o ataque acerta e você faz uma Rolagem de Ferimento para o alvo. Se for um Sucesso Crítico, o ataque acerta e você faz uma Rolagem de Ferimento para o alvo com +1 DADO DE FERIMENTO.
+Durante uma partida de Trench Crusade, você frequentemente terá que fazer um Teste de Sucesso para um modelo e consultar o resultado na tabela de Teste de Sucesso para ver se o modelo realizou uma tarefa com sucesso. Por exemplo, se você quiser que um modelo faça um Ataque a Distância, deve fazer um Teste de Sucesso para o modelo para ver se o ataque acerta o alvo, e assim por diante. As regras dizem quando você precisa fazer um Teste de Sucesso e o que o resultado do Teste de Sucesso significa. Por exemplo, se o Teste de Sucesso para um Ataque a Distância for uma Falha, o ataque erra o alvo. Se for um Sucesso, o ataque acerta e você faz uma Rolagem de Ferimento para o alvo. Se for um Sucesso Crítico, o ataque acerta e você faz uma Rolagem de Ferimento para o alvo com +1 DADO DE FERIMENTO.
 
-**Procedimento da Rolagem de Sucesso**
+**Procedimento do Teste de Sucesso**
 
-Para fazer uma Rolagem de Sucesso para um modelo, siga os seguintes passos:
+Para fazer um Teste de Sucesso para um modelo, siga os seguintes passos:
 
 1. Pegue 2 D6.
 2. Adicione quaisquer +DADOS ou -DADOS (ver "Combinando +DADOS e -DADOS").
 3. Role todos os dados.
 4. Escolha os 2 dados mais altos se algum +DADO foi adicionado a rolagem, ou os 2 mais baixos se algum -DADO foi adicionado a rolagem.
-5. Some os 2 dados e consulte o resultado na Tabela de Rolagem de Sucesso.
+5. Some os 2 dados e consulte o resultado na Tabela de Teste de Sucesso.
 
-**Tabela de Rolagem de Sucesso**
+**Tabela de Teste de Sucesso**
 
 | Rolagem | Resultado |
 |---------|-----------|
@@ -80,9 +80,9 @@ Para fazer uma Rolagem de Sucesso para um modelo, siga os seguintes passos:
 | 7-11 | Sucesso. A rolagem e um Sucesso. |
 | 12+ | Sucesso Crítico. A rolagem e um Sucesso Crítico. |
 
-**Rolagens de Sucesso Arriscadas**
+**Testes de Sucesso Arriscados**
 
-Às vezes você será chamado a fazer uma Rolagem de Sucesso Arriscada para um modelo. Uma Rolagem de Sucesso Arriscada e feita exatamente da mesma forma que uma Rolagem de Sucesso normal. No entanto, se a rolagem falhar, a Ativação do modelo termina imediatamente (ver Fase de Ativação). Se uma regra se aplica a uma Rolagem de Sucesso, então ela se aplica da mesma forma a uma Rolagem de Sucesso Arriscada. Se um modelo fizer uma Rolagem de Sucesso Arriscada como parte de uma AÇÃO fora da Ativação daquele modelo e a rolagem for uma Falha, aquela AÇÃO termina imediatamente.
+Às vezes você será chamado a fazer um Teste de Sucesso Arriscado para um modelo. Umo Teste de Sucesso Arriscado e feita exatamente da mesma forma que um Teste de Sucesso normal. No entanto, se a rolagem falhar, a Ativação do modelo termina imediatamente (ver Fase de Ativação). Se uma regra se aplica a um Teste de Sucesso, então ela se aplica da mesma forma a um Teste de Sucesso Arriscado. Se um modelo fizer um Teste de Sucesso Arriscado como parte de uma AÇÃO fora da Ativação daquele modelo e a rolagem for uma Falha, aquela AÇÃO termina imediatamente.
 
 ---
 
@@ -90,27 +90,27 @@ Para fazer uma Rolagem de Sucesso para um modelo, siga os seguintes passos:
 
 As regras frequentemente exigem que você adicione dados extras a uma rolagem. Estes são mostrados no formato "+1 DADO" ou "-1 DADO" (por exemplo, atirar de posições elevadas adiciona +1 DADO a Ataques a Distância contra inimigos).
 
-**+DADO:** Para cada +DADO, adicione 1 dado a Rolagem de Sucesso. Em seguida, role todos os dados e escolha os 2 resultados mais altos. Por exemplo, +1 DADO significa que você rola 3 dados e escolhe os 2 mais altos. Se +2 DADOS forem adicionados, você rolaria 4 dados e escolheria os 2 mais altos, e assim por diante.
+**+DADO:** Para cada +DADO, adicione 1 dado o Teste de Sucesso. Em seguida, role todos os dados e escolha os 2 resultados mais altos. Por exemplo, +1 DADO significa que você rola 3 dados e escolhe os 2 mais altos. Se +2 DADOS forem adicionados, você rolaria 4 dados e escolheria os 2 mais altos, e assim por diante.
 
-**-DADO:** O -DADO funciona de forma inversa, então para cada -1 DADO, adicione 1 dado a Rolagem de Sucesso e escolha os 2 resultados mais baixos. Por exemplo, -1 DADO significa que você rola 3 dados e escolhe os 2 mais baixos. Se -2 DADOS forem adicionados, você rolaria 4 dados e escolheria os 2 mais baixos, e assim por diante.
+**-DADO:** O -DADO funciona de forma inversa, então para cada -1 DADO, adicione 1 dado o Teste de Sucesso e escolha os 2 resultados mais baixos. Por exemplo, -1 DADO significa que você rola 3 dados e escolhe os 2 mais baixos. Se -2 DADOS forem adicionados, você rolaria 4 dados e escolheria os 2 mais baixos, e assim por diante.
 
 **Combinando +DADO e -DADO**
 
-Se tanto +DADO quanto -DADO forem adicionados a mesma Rolagem de Sucesso, remova pares de +DADO e -DADO até que apenas um tipo reste. Por exemplo, se dois +DADOS e um -DADO forem adicionados a mesma Rolagem de Sucesso, um +DADO cancelaria o -DADO, deixando um único +DADO para modificar a rolagem.
+Se tanto +DADO quanto -DADO forem adicionados a mesmo Teste de Sucesso, remova pares de +DADO e -DADO até que apenas um tipo reste. Por exemplo, se dois +DADOS e um -DADO forem adicionados a mesmo Teste de Sucesso, um +DADO cancelaria o -DADO, deixando um único +DADO para modificar a rolagem.
 
 **Dados de Ferimento**
 
-As regras às vezes se referem a +/-DADOS DE FERIMENTO. Estes funcionam da mesma forma que +/-DADOS, exceto que adicionam dados a uma Rolagem de Ferimento em vez de uma Rolagem de Sucesso (ver Rolagens de Ferimento).
+As regras às vezes se referem a +/-DADOS DE FERIMENTO. Estes funcionam da mesma forma que +/-DADOS, exceto que adicionam dados a uma Rolagem de Ferimento em vez de um Teste de Sucesso (ver Rolagens de Ferimento).
 
 **Dado e Dado de Ferimento**
 
-Note que se um modelo ou peça de Equipamento de Batalha tiver a Palavra-Chave +/-DADO, então a Palavra-Chave só se aplica a Rolagens de Sucesso, não a Rolagens de Ferimento. Da mesma forma, se um modelo ou peça de Equipamento de Batalha tiver a Palavra-Chave +/-DADO DE FERIMENTO, então a Palavra-Chave só se aplica a Rolagens de Ferimento e não a Rolagens de Sucesso.
+Note que se um modelo ou peça de Equipamento de Batalha tiver a Palavra-Chave +/-DADO, então a Palavra-Chave só se aplica a Testes de Sucesso, não a Rolagens de Ferimento. Da mesma forma, se um modelo ou peça de Equipamento de Batalha tiver a Palavra-Chave +/-DADO DE FERIMENTO, então a Palavra-Chave só se aplica a Rolagens de Ferimento e não a Testes de Sucesso.
 
 ---
 
 ### Exemplo de jogo
 
-Uma Rolagem de Sucesso e feita por um Peregrino das Trincheiras para ver se um Ataque a Distância que está fazendo com seu Rifle de Ferrolho acerta um modelo Herético. O Herético está em Cobertura, o que adiciona -1 DADO as Rolagens de Sucesso para o Ataque a Distância do Peregrino das Trincheiras. Nenhum outro modificador se aplica ao ataque. 3 dados são rolados para o ataque e resultam em 5, 5 e 1. Os dois resultados mais baixos são escolhidos (um 5 e o 1), dando uma Rolagem de Sucesso de 6. A Rolagem de Sucesso falhou e portanto o tiro do Peregrino das Trincheiras erra!
+Umo Teste de Sucesso e feita por um Peregrino das Trincheiras para ver se um Ataque a Distância que está fazendo com seu Rifle de Ferrolho acerta um modelo Herético. O Herético está em Cobertura, o que adiciona -1 DADO os Testes de Sucesso para o Ataque a Distância do Peregrino das Trincheiras. Nenhum outro modificador se aplica ao ataque. 3 dados são rolados para o ataque e resultam em 5, 5 e 1. Os dois resultados mais baixos são escolhidos (um 5 e o 1), dando um Teste de Sucesso de 6. A Teste de Sucesso falhou e portanto o tiro do Peregrino das Trincheiras erra!
 
 Um modelo de Soldado Herético com bônus de +1 DADO para Ataque a Distância atira em um modelo de Peregrino em cobertura. A penalidade de -1 DADO e o bônus de +1 DADO se cancelam, então o jogador Herético simplesmente rola 2 dados. O resultado e 4 e 3, para um total de 7. O tiro acerta!
 
@@ -128,7 +128,7 @@ Cada vez que um de seus modelos sofrer um ferimento, coloque um MARCADOR DE SANG
 
 **Gastando Marcadores de Sangue**
 
-Toda vez que você fizer uma Rolagem de Sucesso para um modelo amigo que tenha MARCADORES DE SANGUE, seu oponente pode declarar que está gastando um ou mais deles, removendo os MARCADORES DE SANGUE do modelo conforme são gastos. Para cada MARCADOR DE SANGUE gasto, adicione -1 DADO a Rolagem de Sucesso. Por exemplo, se você estivesse fazendo uma Rolagem de Sucesso para um modelo que tivesse 3 MARCADORES DE SANGUE, então o jogador adversário poderia escolher gastar 1, 2 ou todos os 3 MARCADORES DE SANGUE para adicionar -1, -2 ou -3 DADOS a Rolagem de Sucesso.
+Toda vez que você fizer um Teste de Sucesso para um modelo amigo que tenha MARCADORES DE SANGUE, seu oponente pode declarar que está gastando um ou mais deles, removendo os MARCADORES DE SANGUE do modelo conforme são gastos. Para cada MARCADOR DE SANGUE gasto, adicione -1 DADO o Teste de Sucesso. Por exemplo, se você estivesse fazendo um Teste de Sucesso para um modelo que tivesse 3 MARCADORES DE SANGUE, então o jogador adversário poderia escolher gastar 1, 2 ou todos os 3 MARCADORES DE SANGUE para adicionar -1, -2 ou -3 DADOS o Teste de Sucesso.
 
 Alternativamente, quando seu oponente fizer uma Rolagem de Ferimento para um modelo da seu Bando que tenha MARCADORES DE SANGUE, ele pode declarar que está gastando um ou mais deles, removendo os MARCADORES DE SANGUE do modelo conforme são gastos. Para cada MARCADOR DE SANGUE gasto, adicione +1 DADO DE FERIMENTO a Rolagem de Ferimento, tornando um ferimento grave muito mais provável (ver Rolagens de Ferimento).
 
@@ -144,7 +144,7 @@ Cada vez que um de seus modelos receber uma bênção, coloque um MARCADOR DE B�
 
 **Gastando Marcadores de Bênção**
 
-Toda vez que você fizer uma Rolagem de Sucesso para um modelo amigo que tenha MARCADORES DE BÊNÇÃO, você pode declarar que está gastando um ou mais deles, removendo os MARCADORES DE BÊNÇÃO do modelo conforme são gastos. Para cada MARCADOR DE BÊNÇÃO gasto, adicione +1 DADO a Rolagem de Sucesso.
+Toda vez que você fizer um Teste de Sucesso para um modelo amigo que tenha MARCADORES DE BÊNÇÃO, você pode declarar que está gastando um ou mais deles, removendo os MARCADORES DE BÊNÇÃO do modelo conforme são gastos. Para cada MARCADOR DE BÊNÇÃO gasto, adicione +1 DADO o Teste de Sucesso.
 
 Alternativamente, quando seu oponente fizer uma Rolagem de Ferimento para um modelo da seu Bando que tenha MARCADORES DE BÊNÇÃO, você pode declarar que está gastando um ou mais deles, removendo os MARCADORES DE BÊNÇÃO do modelo conforme são gastos. Para cada MARCADOR DE BÊNÇÃO gasto, adicione -1 DADO DE FERIMENTO a Rolagem de Ferimento, tornando um ferimento grave muito menos provável.
 
@@ -288,7 +288,7 @@ AÇÕES comuns que todos os modelos podem realizar estão listadas abaixo. Além
 
 - **Recuar:** Um Recuo e um tipo especial de movimento que é usado quando um modelo está dentro de 1" de um modelo inimigo e deseja se afastar (ver Recuo).
 
-**Correr:** Você pode mover seu modelo um número de polegadas até sua Característica de Movimento em qualquer direção (ver Movimentos), mas deve fazer uma Rolagem de Sucesso Arriscada para o modelo primeiro. Se tiver sucesso, você pode mover-se com o modelo (ele não pode carregar ou recuar); se falhar, a Ativação do modelo termina. Correr pode ser realizado em adicao a, e antes ou depois de, uma AÇÃO de Mover, Investir ou Recuar. Por exemplo, um modelo poderia Correr, depois Atirar e então Mover.
+**Correr:** Você pode mover seu modelo um número de polegadas até sua Característica de Movimento em qualquer direção (ver Movimentos), mas deve fazer um Teste de Sucesso Arriscado para o modelo primeiro. Se tiver sucesso, você pode mover-se com o modelo (ele não pode carregar ou recuar); se falhar, a Ativação do modelo termina. Correr pode ser realizado em adicao a, e antes ou depois de, uma AÇÃO de Mover, Investir ou Recuar. Por exemplo, um modelo poderia Correr, depois Atirar e então Mover.
 
 **Atirar:** Está AÇÃO permite que você faça um Ataque a Distância com o modelo (ver Ataques a Distância).
 
@@ -298,7 +298,7 @@ AÇÕES comuns que todos os modelos podem realizar estão listadas abaixo. Além
 
 ## Movimento
 
-Uma AÇÃO de Mover, Carregar, Recuar ou Correr permite que você pegue um de seus modelos e o mova pelo campo de batalha. O movimento e realizado da mesma forma para uma AÇÃO de Mover ou Correr, exceto que você deve fazer uma Rolagem de Sucesso Arriscada antes de mover o modelo quando realizar uma AÇÃO de Correr. Movimentos de Carga e Recuo são realizados de forma semelhante a um movimento normal, mas em ambos os casos regras adicionais se aplicam a forma como o movimento e realizado.
+Uma AÇÃO de Mover, Carregar, Recuar ou Correr permite que você pegue um de seus modelos e o mova pelo campo de batalha. O movimento e realizado da mesma forma para uma AÇÃO de Mover ou Correr, exceto que você deve fazer um Teste de Sucesso Arriscado antes de mover o modelo quando realizar uma AÇÃO de Correr. Movimentos de Carga e Recuo são realizados de forma semelhante a um movimento normal, mas em ambos os casos regras adicionais se aplicam a forma como o movimento e realizado.
 
 **Mover e mover**
 
@@ -384,13 +384,13 @@ Terreno de até 1" de altura, Muros de Trincheira de até 3" de altura, e escada
 
 **Escalando Superfícies Abruptas**
 
-Se um de seus modelos se mover para dentro de 1" de uma superfície abrupta como um muro, você pode dizer que ele tentará Escalar para cima ou para baixo. Para fazer isso, o modelo deve ter movimento suficiente para transpor toda a superfície que está escalando (ou seja, ele não pode terminar o movimento no meio de um muro). Você deve fazer uma Rolagem de Sucesso Arriscada para o modelo quando ele alcançar a superfície abrupta. Se a Rolagem de Sucesso Arriscada for um Sucesso, você pode mover o modelo diretamente para cima ou para baixo de forma que ele fique de pe no topo ou na base da superfície abrupta, e pode continuar com seu movimento se tiver algum movimento restante. Se a rolagem for uma Falha, você não pode mover o modelo mais e sua Ativação termina.
+Se um de seus modelos se mover para dentro de 1" de uma superfície abrupta como um muro, você pode dizer que ele tentará Escalar para cima ou para baixo. Para fazer isso, o modelo deve ter movimento suficiente para transpor toda a superfície que está escalando (ou seja, ele não pode terminar o movimento no meio de um muro). Você deve fazer um Teste de Sucesso Arriscado para o modelo quando ele alcançar a superfície abrupta. Se o Teste de Sucesso Arriscado for um Sucesso, você pode mover o modelo diretamente para cima ou para baixo de forma que ele fique de pe no topo ou na base da superfície abrupta, e pode continuar com seu movimento se tiver algum movimento restante. Se a rolagem for uma Falha, você não pode mover o modelo mais e sua Ativação termina.
 
 **Saltando Sobre Lacunas**
 
-Você pode declarar que um modelo vai tentar Saltar como parte de seu movimento, o que permite que ele cruze uma lacuna que não seja mais larga que metade de sua Característica de Movimento, desde que o movimento até a lacuna e a distância a ser Saltada não exceda a distância que o modelo pode se mover. Por exemplo, um modelo com Característica de Movimento de 6" poderia se mover 3" e então tentar Saltar sobre uma lacuna de até 3" de largura. Mova o modelo até a lacuna e então faça uma Rolagem de Sucesso Arriscada para o modelo. Se a rolagem for um Sucesso, você pode mover o modelo para o outro lado da lacuna e continuar com seu movimento se tiver algum movimento restante. Se a rolagem for uma Falha, o modelo Cai conforme descrito abaixo, e sua Ativação termina (seu oponente pode escolher de qual lado da lacuna ele Cai).
+Você pode declarar que um modelo vai tentar Saltar como parte de seu movimento, o que permite que ele cruze uma lacuna que não seja mais larga que metade de sua Característica de Movimento, desde que o movimento até a lacuna e a distância a ser Saltada não exceda a distância que o modelo pode se mover. Por exemplo, um modelo com Característica de Movimento de 6" poderia se mover 3" e então tentar Saltar sobre uma lacuna de até 3" de largura. Mova o modelo até a lacuna e então faça um Teste de Sucesso Arriscado para o modelo. Se a rolagem for um Sucesso, você pode mover o modelo para o outro lado da lacuna e continuar com seu movimento se tiver algum movimento restante. Se a rolagem for uma Falha, o modelo Cai conforme descrito abaixo, e sua Ativação termina (seu oponente pode escolher de qual lado da lacuna ele Cai).
 
-*Neste exemplo, o modelo de Peregrino das Trincheiras primeiro se move normalmente 2", depois faz uma Rolagem de Sucesso Arriscada para escalar 3" via uma escada quebrada, depois faz outra Rolagem de Sucesso Arriscada para Correr, e segue com mais um movimento e faz mais uma Rolagem de Sucesso Arriscada para saltar sobre uma lacuna!*
+*Neste exemplo, o modelo de Peregrino das Trincheiras primeiro se move normalmente 2", depois faz um Teste de Sucesso Arriscado para escalar 3" via uma escada quebrada, depois faz outro Teste de Sucesso Arriscado para Correr, e segue com mais um movimento e faz mais um Teste de Sucesso Arriscado para saltar sobre uma lacuna!*
 
 **Saltando Entre Bordas de Alturas Desiguais**
 
@@ -425,7 +425,7 @@ Um Ataque a Distância e feito usando a seguinte sequencia:
 3. Verificar Linha de Visão.
 4. Verificar Alcance.
 5. Determinar Modificadores.
-6. Fazer Rolagem de Sucesso para o modelo atacante.
+6. Fazer Teste de Sucesso para o modelo atacante.
 
 **Escolhendo a Arma**
 
@@ -437,7 +437,7 @@ Quando um modelo faz um Ataque a Distância, você deve escolher um modelo inimi
 
 **Atirando para Dentro do Corpo a Corpo**
 
-Se você quiser atirar em um modelo inimigo que esteja dentro de 1" de qualquer um de seus modelos, deve rolar um D6 para determinar quem e o alvo: em 1-3 você deve atacar um de seus próprios modelos, em 4-6 você pode atacar um modelo inimigo. Note que, a menos que declarado de outra forma, a única vez que você decide aleatoriamente qual modelo e afetado por algo e quando você faz um Ataque a Distância com um modelo e o alvo está dentro de 1" de outro modelo de seu Bando. Por exemplo, se um modelo amigo fizesse um Ataque a Distância com uma Arma que tivesse a Palavra-Chave EXPLOSÃO, e o alvo estivesse dentro de 1" de um modelo de seu Bando, então você escolheria aleatoriamente o alvo antes de fazer a Rolagem de Sucesso para ver se o ataque acerta, mas você não aleatorizaria as Rolagens de Ferimento para quaisquer modelos que fossem pegos no raio de explosão da Arma após o acerto ter sido marcado. Da mesma forma, se uma regra permitisse que você colocasse um MARCADOR DE SANGUE ao lado de um modelo inimigo, você não escolheria aleatoriamente ao lado de qual modelo colocar o marcador se o modelo inimigo estivesse dentro de 1" de um modelo amigo, e assim por diante.
+Se você quiser atirar em um modelo inimigo que esteja dentro de 1" de qualquer um de seus modelos, deve rolar um D6 para determinar quem e o alvo: em 1-3 você deve atacar um de seus próprios modelos, em 4-6 você pode atacar um modelo inimigo. Note que, a menos que declarado de outra forma, a única vez que você decide aleatoriamente qual modelo e afetado por algo e quando você faz um Ataque a Distância com um modelo e o alvo está dentro de 1" de outro modelo de seu Bando. Por exemplo, se um modelo amigo fizesse um Ataque a Distância com uma Arma que tivesse a Palavra-Chave EXPLOSÃO, e o alvo estivesse dentro de 1" de um modelo de seu Bando, então você escolheria aleatoriamente o alvo antes de fazer o Teste de Sucesso para ver se o ataque acerta, mas você não aleatorizaria as Rolagens de Ferimento para quaisquer modelos que fossem pegos no raio de explosão da Arma após o acerto ter sido marcado. Da mesma forma, se uma regra permitisse que você colocasse um MARCADOR DE SANGUE ao lado de um modelo inimigo, você não escolheria aleatoriamente ao lado de qual modelo colocar o marcador se o modelo inimigo estivesse dentro de 1" de um modelo amigo, e assim por diante.
 
 **Medindo o Alcance**
 
@@ -449,7 +449,7 @@ Se a distância entre um modelo atacante e o alvo for menor ou igual a metade do
 
 **Determinar Modificadores de Ataque a Distância**
 
-Em seguida, você deve determinar se há modificadores que afetarão o ataque. Modificadores adicionam +/-DADOS a Rolagem de Sucesso.
+Em seguida, você deve determinar se há modificadores que afetarão o ataque. Modificadores adicionam +/-DADOS o Teste de Sucesso.
 
 - **Posição elevada (+1 DADO):** Adicione +1 DADO a rolagem se o modelo atacante estiver em uma posição pelo menos 3" mais alta que o alvo. Use as bases dos modelos ao determinar a diferença em suas alturas.
 - **Cobertura (-1 DADO):** Adicione -1 DADO a rolagem se o alvo estiver em cobertura do modelo atacante (ver Cobertura).
@@ -457,9 +457,9 @@ Em seguida, você deve determinar se há modificadores que afetarão o ataque. M
 
 *Um Peregrino das Trincheiras está atirando em um Soldado Herético com um mosquete. O Herético está em cobertura, o que adiciona -1 DADO a quaisquer Ataques a Distância. O Peregrino rola 3D6 e obtém 5, 5 e 1. Os dois dados mais baixos são escolhidos para uma rolagem de 6. Como o Peregrino precisava de 7 para acertar, o tiro errou!*
 
-**Rolagem de Sucesso de Ataque a Distância**
+**Teste de Sucesso de Ataque a Distância**
 
-Finalmente, faça uma Rolagem de Sucesso para o modelo atacante. Se a rolagem for uma Falha, o ataque erra e nada mais acontece. Se a rolagem for um Sucesso, o alvo e acertado e você deve fazer uma Rolagem de Ferimento (ver Rolagens de Ferimento). Se a rolagem for um Sucesso Crítico, o alvo e acertado e +1 DADO e adicionado a Rolagem de Ferimento.
+Finalmente, faça um Teste de Sucesso para o modelo atacante. Se a rolagem for uma Falha, o ataque erra e nada mais acontece. Se a rolagem for um Sucesso, o alvo e acertado e você deve fazer uma Rolagem de Ferimento (ver Rolagens de Ferimento). Se a rolagem for um Sucesso Crítico, o alvo e acertado e +1 DADO e adicionado a Rolagem de Ferimento.
 
 ---
 
@@ -474,7 +474,7 @@ Um Ataque Corpo a Corpo e feito usando a seguinte sequencia:
 1. Escolher Arma.
 2. Escolher Alvo.
 3. Determinar Modificadores.
-4. Fazer Rolagem de Sucesso para o modelo atacante.
+4. Fazer Teste de Sucesso para o modelo atacante.
 
 **Escolhendo a Arma**
 
@@ -486,15 +486,15 @@ Quando um modelo faz um Ataque Corpo a Corpo, você deve escolher um modelo inim
 
 **Determinar Modificadores de Ataque Corpo a Corpo**
 
-Em seguida, você deve determinar se há modificadores que afetarão o ataque. Modificadores adicionam +/-DADOS a Rolagem de Sucesso para o modelo atacante.
+Em seguida, você deve determinar se há modificadores que afetarão o ataque. Modificadores adicionam +/-DADOS o Teste de Sucesso para o modelo atacante.
 
 - **Carga Mergulhante (+1 DADO):** Adicione +1 DADO a rolagem se o atacante estiver fazendo uma Carga Mergulhante (ver Carga Mergulhante).
 - **Obstáculo Defendido (-1 DADO):** Adicione -1 DADO a rolagem se o alvo estiver em cobertura e a peça de terreno fornecendo a cobertura estiver entre ele e o modelo atacante.
 - **Arma Secundária (-1 DADO):** Adicione -1 DADO a rolagem se o modelo atacante estiver fazendo o ataque com uma Arma Secundária (ver Múltiplas Armas Corpo a Corpo).
 
-**Rolagem de Sucesso de Ataque Corpo a Corpo**
+**Teste de Sucesso de Ataque Corpo a Corpo**
 
-Finalmente, faça uma Rolagem de Sucesso para o modelo atacante. Se a rolagem for uma Falha, o ataque erra e nada mais acontece. Se a rolagem for um Sucesso, o alvo e acertado e você deve fazer uma Rolagem de Ferimento para ver que efeito o ataque teve no modelo alvo (ver Ferimentos). Se a rolagem for um Sucesso Crítico, o alvo e acertado e +1 DADO e adicionado a Rolagem de Ferimento.
+Finalmente, faça um Teste de Sucesso para o modelo atacante. Se a rolagem for uma Falha, o ataque erra e nada mais acontece. Se a rolagem for um Sucesso, o alvo e acertado e você deve fazer uma Rolagem de Ferimento para ver que efeito o ataque teve no modelo alvo (ver Ferimentos). Se a rolagem for um Sucesso Crítico, o alvo e acertado e +1 DADO e adicionado a Rolagem de Ferimento.
 
 **Múltiplas Armas Corpo a Corpo**
 
@@ -504,7 +504,7 @@ Um modelo que tenha duas Armas Corpo a Corpo pode usar uma única AÇÃO de Luta
 
 ### CARGA MERGULHANTE
 
-Você pode converter uma investida de um modelo amigo em uma Carga Mergulhante se ele Pular Para Baixo pelo menos 3" e aterrissar dentro de 1" de um alvo. Se fizer isso, faça uma Rolagem de Sucesso Arriscada para o modelo após ele Pular Para Baixo. Se a rolagem for uma Falha, o modelo fica Derrubado, e uma Rolagem de Ferimento por Queda deve então ser feita para o modelo (ver Queda). Se a rolagem for um Sucesso, você não precisa fazer uma Rolagem de Ferimento por Queda para o modelo, e pode adicionar +1 DADO a Rolagem de Sucesso para o próximo Ataque Corpo a Corpo que o modelo fizer.
+Você pode converter uma investida de um modelo amigo em uma Carga Mergulhante se ele Pular Para Baixo pelo menos 3" e aterrissar dentro de 1" de um alvo. Se fizer isso, faça um Teste de Sucesso Arriscado para o modelo após ele Pular Para Baixo. Se a rolagem for uma Falha, o modelo fica Derrubado, e uma Rolagem de Ferimento por Queda deve então ser feita para o modelo (ver Queda). Se a rolagem for um Sucesso, você não precisa fazer uma Rolagem de Ferimento por Queda para o modelo, e pode adicionar +1 DADO o Teste de Sucesso para o próximo Ataque Corpo a Corpo que o modelo fizer.
 
 ---
 
@@ -514,9 +514,9 @@ Durante partidas de Trench Crusade, modelos podem ser feridos por ataques, queda
 
 ### Rolagens de Ferimento
 
-Uma Rolagem de Ferimento e feita de forma semelhante a uma Rolagem de Sucesso, pegando 2D6, adicionando dados extras a rolagem e então escolhendo os dois dados mais altos ou mais baixos e somando-os. No entanto, quando você faz uma Rolagem de Ferimento, DADOS DE FERIMENTO e MODIFICADORES DE FERIMENTO podem ser adicionados a rolagem em vez de +/-DADOS.
+Uma Rolagem de Ferimento e feita de forma semelhante a um Teste de Sucesso, pegando 2D6, adicionando dados extras a rolagem e então escolhendo os dois dados mais altos ou mais baixos e somando-os. No entanto, quando você faz uma Rolagem de Ferimento, DADOS DE FERIMENTO e MODIFICADORES DE FERIMENTO podem ser adicionados a rolagem em vez de +/-DADOS.
 
-**DADO DE FERIMENTO:** +/-DADOS DE FERIMENTO são adicionados a uma Rolagem de Ferimento da mesma forma que +/-DADOS são adicionados a uma Rolagem de Sucesso (ver Rolagens de Sucesso).
+**DADO DE FERIMENTO:** +/-DADOS DE FERIMENTO são adicionados a uma Rolagem de Ferimento da mesma forma que +/-DADOS são adicionados a um Teste de Sucesso (ver Testes de Sucesso).
 
 **MODIFICADOR DE FERIMENTO:** +/-MODIFICADORES DE FERIMENTO são aplicados a Rolagem de Ferimento. Faça a Rolagem de Ferimento, adicionando quaisquer +/-DADOS DE FERIMENTO, e então adicione ou subtraia quaisquer MODIFICADORES DE FERIMENTO da rolagem. O máximo de -MODIFICADOR DE FERIMENTO não pode ser mais que -3 no total.
 
@@ -570,11 +570,11 @@ Os seguintes modificadores são cumulativos. O máximo de -MODIFICADOR DE FERIME
 As seguintes regras se aplicam a um modelo que está Derrubado:
 
 - Se um modelo for colocado Derrubado durante sua Ativação, sua Ativação termina imediatamente.
-- Adicione -1 DADO a quaisquer Rolagens de Sucesso que você fizer para um modelo que esteja Derrubado.
+- Adicione -1 DADO a quaisquer Testes de Sucesso que você fizer para um modelo que esteja Derrubado.
 - Adicione +1 DADO DE FERIMENTO para um Ataque Corpo a Corpo se o alvo estiver Derrubado.
 - Até que o modelo se levante, ele não pode ser movido por nenhuma razão, a menos que caia.
 - Um modelo que está Derrubado se levanta quando for Ativado novamente. No entanto, sua Característica de Movimento e reduzida a metade pelo resto da Ativação (incluindo qualquer Bônus de Investida que receba).
-- Um modelo que esteja dentro de 1" de uma borda quando for colocado Derrubado pode Cair da borda. Faça uma Rolagem de Sucesso para o modelo antes que ele seja colocado Derrubado. Se a rolagem for um Sucesso, o modelo fica Derrubado mas não Cai da borda. Se a rolagem for uma Falha, o modelo Cai da borda mais próxima e então fica Derrubado (ver Queda).
+- Um modelo que esteja dentro de 1" de uma borda quando for colocado Derrubado pode Cair da borda. Faça um Teste de Sucesso para o modelo antes que ele seja colocado Derrubado. Se a rolagem for um Sucesso, o modelo fica Derrubado mas não Cai da borda. Se a rolagem for uma Falha, o modelo Cai da borda mais próxima e então fica Derrubado (ver Queda).
 
 Você pode mostrar que um modelo está Derrubado colocando um marcador ao lado do modelo (como um cubo de madeira) ou deitando o modelo de lado. Se você escolher deitar o modelo de lado, deite-o de forma que o centro do modelo fique sobre o ponto onde o centro de sua base estava localizado. Ao medir o alcance para ou de um modelo que está Derrubado, você pode medir de qualquer parte do modelo, não apenas de sua base.
 
@@ -584,13 +584,13 @@ Nota: Um modelo deitado de lado será mais difícil de ver, mas de resto os dois
 
 ## 3. Fase de Moral
 
-Sua Bando pode abandonar a batalha se sofrer muitas baixas. Na Fase de Moral, se metade dos modelos em seu Bando estiverem Derrubados ou Fora de Ação (arredondado para cima), você deve fazer um tipo especial de Rolagem de Sucesso chamado Teste de Moral. Um Teste de Moral e feito da mesma forma que uma Rolagem de Sucesso para um modelo. Se o Teste de Moral for um Sucesso, seu Bando continua normalmente. Se o Teste de Moral for uma Falha, seu Bando fica Abalado.
+Sua Bando pode abandonar a batalha se sofrer muitas baixas. Na Fase de Moral, se metade dos modelos em seu Bando estiverem Derrubados ou Fora de Ação (arredondado para cima), você deve fazer um tipo especial de Teste de Sucesso chamado Teste de Moral. Um Teste de Moral e feito da mesma forma que um Teste de Sucesso para um modelo. Se o Teste de Moral for um Sucesso, seu Bando continua normalmente. Se o Teste de Moral for uma Falha, seu Bando fica Abalado.
 
 Nota: Lembre-se de que ao contar modelos, quaisquer frações são arredondadas para cima. Por exemplo, um Bando que tenha 5 modelos não precisará fazer um Teste de Moral até que 3 de seus modelos estejam Derrubados ou Fora de Ação (metade de 5 e 2,5, que arredonda para 3).
 
 ### Bandos Abalados
 
-Todas as Rolagens de Sucesso feitas para modelos de um Bando Abalado são tratadas como Rolagens de Sucesso Arriscadas (a menos que já sejam Rolagens de Sucesso Arriscadas). Além disso, na Fase de Moral ao final do próximo Turno, você deve fazer outro Teste de Moral para seu Bando, mesmo que menos de metade de seus modelos estejam Derrubados ou Fora de Ação. Se o Teste de Moral for um Sucesso, seu Bando não está mais Abalado (embora possa ficar novamente se você falhar em um Teste de Moral em um Turno futuro). No entanto, se o Teste de Moral for uma Falha, seu Bando foge e você imediatamente perde o jogo!
+Todos os Testes de Sucesso feitas para modelos de um Bando Abalado são tratadas como Testes de Sucesso Arriscados (a menos que já sejam Testes de Sucesso Arriscados). Além disso, na Fase de Moral ao final do próximo Turno, você deve fazer outro Teste de Moral para seu Bando, mesmo que menos de metade de seus modelos estejam Derrubados ou Fora de Ação. Se o Teste de Moral for um Sucesso, seu Bando não está mais Abalado (embora possa ficar novamente se você falhar em um Teste de Moral em um Turno futuro). No entanto, se o Teste de Moral for uma Falha, seu Bando foge e você imediatamente perde o jogo!
 
 ### Encerrando o Turno
 

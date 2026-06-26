@@ -160,7 +160,7 @@ Cada cenário tem um conjunto único de Feitos Gloriosos que, quando completados
 
 **Campo de Batalha:** Arquétipo Terra de Ninguem. 6 Marcadores de Relicário no mapa. No final do Turno 1, remova Relicários 1 e 2; no final do Turno 2, remova Relicários 3 e 4.
 
-**AÇÃO de Reclamar Relicário:** Um modelo dentro de 1" de um Relicário pode realizar uma AÇÃO de Reclamar Relicário. Faça uma Rolagem de Sucesso. Em Sucesso ou Sucesso Crítico, o Relicário e reclamado pelo modelo.
+**AÇÃO de Reclamar Relicário:** Um modelo dentro de 1" de um Relicário pode realizar uma AÇÃO de Reclamar Relicário. Faça um Teste de Sucesso. Em Sucesso ou Sucesso Crítico, o Relicário e reclamado pelo modelo.
 
 **Posicionamento:** Máximo de 6 modelos posicionados (modelos em bases de 40mm+ contam como 2). Restantes são reforços. Infiltradores devem ser posicionados normalmente.
 
@@ -223,8 +223,8 @@ Cada cenário tem um conjunto único de Feitos Gloriosos que, quando completados
 **Campo de Batalha:** Arquétipo Terra de Ninguem, campo de 48" x 48". Monte os vagões do trem blindado em um aterro elevado com ponte no meio. Inclui Marcador de Bateria de Canhão no vagão central.
 
 **Vagões do Trem:** Portas começam trancadas. Ações especiais:
-- **Destravar Vagão AÇÃO:** Rolagem de Sucesso para abrir; revela D3 Caixas de Suprimentos.
-- **Abrir Caixa AÇÃO:** Escolha: Carregar Caixa (só pode Mover/Recuar), Destruir Caixa (Rolagem de Sucesso), ou Sacar Suprimentos (Rolagem de Sucesso, ganha MARCADOR DE BÊNÇÃO).
+- **Destravar Vagão AÇÃO:** Teste de Sucesso para abrir; revela D3 Caixas de Suprimentos.
+- **Abrir Caixa AÇÃO:** Escolha: Carregar Caixa (só pode Mover/Recuar), Destruir Caixa (Teste de Sucesso), ou Sacar Suprimentos (Teste de Sucesso, ganha MARCADOR DE BÊNÇÃO).
 
 **Infiltradores:** Devem ser posicionados normalmente.
 
@@ -366,7 +366,7 @@ Se a Besta despertar, todos os modelos ficam Fora de Ação e a partida termina 
 - **Sem Escapatoria:** Modelo amigo carrega com sucesso inimigo que não estava em sua Linha de Visão no início da Ativação.
 - **Vinganca Pessoal:** Modelo amigo usa Banho de Sangue para colocar Fora de Ação inimigo que havia colocado um modelo amigo Fora de Ação anteriormente.
 - **Ceifador:** Modelo amigo coloca três inimigos Fora de Ação.
-- **Arriscar Tudo:** Modelo amigo faz duas Rolagens de Sucesso Arriscadas na mesma Ativação, ambas Sucesso ou Sucesso Crítico.
+- **Arriscar Tudo:** Modelo amigo faz duos Testes de Sucesso Arriscados na mesma Ativação, ambas Sucesso ou Sucesso Crítico.
 - **O Verdadeiro Matador:** Modelo amigo coloca inimigo em Terreno Perigoso ou Difícil Fora de Ação.
 - **Invasor de Trincheiras:** Bando captura seção de trincheira de pelo menos 6" dentro de 8" da Zona inimiga.
 

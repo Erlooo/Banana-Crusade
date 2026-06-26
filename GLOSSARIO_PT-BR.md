@@ -72,7 +72,7 @@ Referência canônica de tradução para criação de conteúdo homebrew. Todos 
 | Out of Action | Fora de Ação | Rolagem de Ferimento 9+, ou 6 Marcadores de Sangue. | Removido do campo. Elites rolam Trauma. |
 | On Fire | Em Chamas | Armas com FOGO ou LANÇA-CHAMAS. | Rolagem de Ferimento automática no início de cada ativação. |
 | Gassed | Gaseado | Armas com GÁS. | Penalidade em todos os testes; Marcador de Sangue extra por turno. |
-| Shaken | Abalada | Falha no Teste de Moral (metade do Bando Abatida/Fora de Ação). | Todas as Rolagens de Sucesso viram Arriscadas. Falha no próximo Teste de Moral = derrota. |
+| Shaken | Abalado | Falha no Teste de Moral (metade do Bando Derrubada/Fora de Ação). | Todos os Testes de Sucesso viram Arriscados. Falha no próximo Teste de Moral = derrota. |
 | Infected | Infectado | Armas com MARCADOR DE INFECÇÃO. | -1 permanente em atributo por marcador até o fim da batalha. |
 | Feared | Aterrorizado | Falha em teste de moral contra MEDO. | Não pode atacar o causador do medo neste turno. |
 
@@ -93,7 +93,7 @@ Referência canônica de tradução para criação de conteúdo homebrew. Todos 
 
 | Inglês | PT-BR | Descrição |
 | :--- | :--- | :--- |
-| Success Roll | Rolagem de Sucesso | 2D6: 2–6 Falha / 7–11 Sucesso / 12+ Crítico. |
+| Success Roll | Teste de Sucesso | 2D6: 2–6 Falha / 7–11 Sucesso / 12+ Crítico. |
 | Injury Roll | Rolagem de Ferimento | 2D6: 1 Sem Efeito / 2–6 Marcador de Sangue / 7–8 Derrubado / 9+ Fora de Ação. |
 | Bloodbath Roll | Rolagem de Banho de Sangue | 3D6 em Rolagem de Ferimento ao gastar 6 Marcadores de Sangue (ou 3 se Derrubado). |
 | Trauma Roll | Rolagem de Trauma | D66 pós-batalha para cada ELITE colocado Fora de Ação. |

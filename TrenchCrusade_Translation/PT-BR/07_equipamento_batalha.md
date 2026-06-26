@@ -34,7 +34,7 @@ Cada peça de Equipamento de Batalha tem uma Descrição de Equipamento de Batal
 
 ## Dado de Arma e Dado de Ferimento
 
-Note que se uma Arma tiver a Palavra-Chave +/-DADO, então a Palavra-Chave só se aplica as Rolagens de Sucesso para ataques feitos pela arma. Ela não se aplica a nenhum outro tipo de Rolagem de Sucesso, ou a Rolagens de Ferimento. Da mesma forma, se uma Arma tiver a Palavra-Chave +/-DADO DE FERIMENTO, então a Palavra-Chave só se aplica a Rolagens de Ferimento para ataques feitos pela arma. Ela não se aplica a nenhum outro tipo de Rolagem de Ferimento, ou a Rolagens de Sucesso.
+Note que se uma Arma tiver a Palavra-Chave +/-DADO, então a Palavra-Chave só se aplica os Testes de Sucesso para ataques feitos pela arma. Ela não se aplica a nenhum outro tipo de Teste de Sucesso, ou a Rolagens de Ferimento. Da mesma forma, se uma Arma tiver a Palavra-Chave +/-DADO DE FERIMENTO, então a Palavra-Chave só se aplica a Rolagens de Ferimento para ataques feitos pela arma. Ela não se aplica a nenhum outro tipo de Rolagem de Ferimento, ou a Testes de Sucesso.
 
 ---
 
@@ -218,7 +218,7 @@ Um rifle de precisão e um rifle de alta precisão e longo alcance, amplamente u
 |------|---------|----------------|
 | 2 Mãos | 48" | +1 DADO, CRÍTICO, ARRISCADO |
 
-*Tiro Certeiro:* Se a Rolagem de Sucesso para um Ataque a Distância feito com um Rifle de Precisão for um Sucesso Crítico, então a Rolagem de Ferimento para o ataque tem a Palavra-Chave IGNORAR ARMADURA.
+*Tiro Certeiro:* Se o Teste de Sucesso para um Ataque a Distância feito com um Rifle de Precisão for um Sucesso Crítico, então a Rolagem de Ferimento para o ataque tem a Palavra-Chave IGNORAR ARMADURA.
 
 ### Submetralhadora
 
@@ -244,7 +244,7 @@ Uma arma de haste com um explosivo direcional montado em sua cabeça. É excepci
 |------|---------|----------------|
 | 2 Mãos | Corpo a Corpo | +1 DADO DE FERIMENTO, CRÍTICO, IGNORAR ARMADURA, ARRISCADO |
 
-*Perigoso:* Coloque 1 MARCADOR DE SANGUE ao lado do modelo usando esta Arma se ele fizer um Ataque Corpo a Corpo e a Rolagem de Sucesso for um Sucesso ou Sucesso Crítico.
+*Perigoso:* Coloque 1 MARCADOR DE SANGUE ao lado do modelo usando esta Arma se ele fizer um Ataque Corpo a Corpo e o Teste de Sucesso for um Sucesso ou Sucesso Crítico.
 
 ### Baioneta
 
@@ -352,7 +352,7 @@ Granadas incendiárias podem incendiar seu alvo com enxofre, fósforo ou gás in
 |------|---------|----------------|
 | Granada | 8" | ASSALTO, FOGO, IGNORAR COBERTURA, IGNORAR LONGO ALCANCE |
 
-*Fogo Líquido:* Se a Rolagem de Sucesso para um Ataque a Distância feito com uma Granada Incendiária for um Sucesso Crítico, então a Rolagem de Ferimento para o ataque tem a Palavra-Chave IGNORAR ARMADURA.
+*Fogo Líquido:* Se o Teste de Sucesso para um Ataque a Distância feito com uma Granada Incendiária for um Sucesso Crítico, então a Rolagem de Ferimento para o ataque tem a Palavra-Chave IGNORAR ARMADURA.
 
 ### Coquetel Molotov
 
@@ -362,7 +362,7 @@ Desenvolvido na desesperada fronteira de batalha finlandesa contra demônios de 
 |------|---------|----------------|
 | Granada | 6" | -1 DADO DE FERIMENTO, ASSALTO, FOGO, IGNORAR COBERTURA, IGNORAR LONGO ALCANCE |
 
-*Fogo Líquido:* Se a Rolagem de Sucesso para um Ataque a Distância feito com um Coquetel Molotov for um Sucesso Crítico, então a Rolagem de Ferimento para o ataque tem a Palavra-Chave IGNORAR ARMADURA.
+*Fogo Líquido:* Se o Teste de Sucesso para um Ataque a Distância feito com um Coquetel Molotov for um Sucesso Crítico, então a Rolagem de Ferimento para o ataque tem a Palavra-Chave IGNORAR ARMADURA.
 
 ### Carga Explosiva
 
@@ -442,7 +442,7 @@ Pequenos ícones de santos, grandes anjos e guerreiros sagrados são uma visão 
 |------|---------|----------------|
 | Equipamento | - | CONSUMIVEL |
 
-*Talismã:* Uma vez durante uma partida, quando uma Rolagem de Sucesso Arriscada para um modelo com um Ícone Abençoado for uma Falha, você pode dizer que o modelo usará seu Talismã. Se fizer isso, a Ativação do modelo não termina.
+*Talismã:* Uma vez durante uma partida, quando um Teste de Sucesso Arriscado para um modelo com um Ícone Abençoado for uma Falha, você pode dizer que o modelo usará seu Talismã. Se fizer isso, a Ativação do modelo não termina.
 
 ### Capacete de Combate
 
@@ -534,7 +534,7 @@ Primeiros socorros no campo de batalha trouxeram muitos soldados de volta da bei
 |------|---------|----------------|
 | Equipamento | - | - |
 
-*Tratar AÇÃO:* Um modelo com esta Palavra-Chave pode realizar uma AÇÃO de Tratar. Se fizer isso, faça uma Rolagem de Sucesso Arriscada para o modelo. Se a rolagem for uma Falha, a Ativação do modelo termina imediatamente. Se for um Sucesso ou Sucesso Crítico, você pode fazer uma das seguintes coisas:
+*Tratar AÇÃO:* Um modelo com esta Palavra-Chave pode realizar uma AÇÃO de Tratar. Se fizer isso, faça um Teste de Sucesso Arriscado para o modelo. Se a rolagem for uma Falha, a Ativação do modelo termina imediatamente. Se for um Sucesso ou Sucesso Crítico, você pode fazer uma das seguintes coisas:
 - Remover 1 MARCADOR DE SANGUE do modelo ou de um modelo amigo dentro de 1" do modelo.
 - Levantar um modelo amigo que esteja Derrubado e dentro de 1" do modelo.
 
@@ -546,7 +546,7 @@ Este kit inclui cordas, mosquetoes, argolas, arnes de montanhismo e pitons para 
 |------|---------|----------------|
 | Equipamento | - | - |
 
-*Cordas e Pitons:* Adicione +1 DADO a Rolagens de Sucesso Arriscadas para modelos amigos com esta regra especial que estejam tentando escalar uma superfície abrupta.
+*Cordas e Pitons:* Adicione +1 DADO a Testes de Sucesso Arriscados para modelos amigos com esta regra especial que estejam tentando escalar uma superfície abrupta.
 
 ### Instrumento Musical
 
@@ -556,7 +556,7 @@ Cornetas, tambores, trombetas, apitos, gaitas de foles e muitos outros tipos de 
 |------|---------|----------------|
 | Equipamento | - | SEGURADO |
 
-*Fanfarra:* Adicione +1 DADO a Rolagens de Sucesso Arriscadas para modelos amigos que estejam realizando uma AÇÃO de Correr e estejam dentro de 4" de um ou mais modelos com um Instrumento Musical.
+*Fanfarra:* Adicione +1 DADO a Testes de Sucesso Arriscados para modelos amigos que estejam realizando uma AÇÃO de Correr e estejam dentro de 4" de um ou mais modelos com um Instrumento Musical.
 
 ### Pá
 
@@ -600,4 +600,4 @@ Muitos Soldados Heréticos carregam um talismã ou amuleto que são vendidos por
 |------|---------|----------------|
 | Equipamento | - | CONSUMIVEL |
 
-*Talismã:* Uma vez durante uma partida, quando uma Rolagem de Sucesso Arriscada para um modelo com um Amuleto Profano for uma Falha, você pode dizer que o modelo o usará. Se fizer isso, a Ativação do modelo não termina.
+*Talismã:* Uma vez durante uma partida, quando um Teste de Sucesso Arriscado para um modelo com um Amuleto Profano for uma Falha, você pode dizer que o modelo o usará. Se fizer isso, a Ativação do modelo não termina.
