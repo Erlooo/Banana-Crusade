@@ -58,7 +58,7 @@ Esta seção das regras explica os principios essenciais que governam como uma p
 
 Algumas palavras nas regras são escritas em LETRAS MAIÚSCULAS, como AÇÃO ou MARCADOR DE SANGUE. Essas palavras são chamadas Palavras-Chave, e definem as habilidades centrais, regras, tipos de tropa e categorias de dano no jogo. Um glossario de todas as Palavras-Chave usadas no jogo pode ser encontrado abaixo (ver Glossário de Palavras-Chave).
 
-### ROLAGENS DE SUCESSO
+### TESTES DE SUCESSO
 
 Durante uma partida de Trench Crusade, você frequentemente terá que fazer um Teste de Sucesso para um modelo e consultar o resultado na tabela de Teste de Sucesso para ver se o modelo realizou uma tarefa com sucesso. Por exemplo, se você quiser que um modelo faça um Ataque a Distância, deve fazer um Teste de Sucesso para o modelo para ver se o ataque acerta o alvo, e assim por diante. As regras dizem quando você precisa fazer um Teste de Sucesso e o que o resultado do Teste de Sucesso significa. Por exemplo, se o Teste de Sucesso para um Ataque a Distância for uma Falha, o ataque erra o alvo. Se for um Sucesso, o ataque acerta e você faz uma Rolagem de Ferimento para o alvo. Se for um Sucesso Crítico, o ataque acerta e você faz uma Rolagem de Ferimento para o alvo com +1 DADO DE FERIMENTO.
 
@@ -82,7 +82,7 @@ Para fazer um Teste de Sucesso para um modelo, siga os seguintes passos:
 
 **Testes de Sucesso Arriscados**
 
-Às vezes você será chamado a fazer um Teste de Sucesso Arriscado para um modelo. Umo Teste de Sucesso Arriscado e feita exatamente da mesma forma que um Teste de Sucesso normal. No entanto, se a rolagem falhar, a Ativação do modelo termina imediatamente (ver Fase de Ativação). Se uma regra se aplica a um Teste de Sucesso, então ela se aplica da mesma forma a um Teste de Sucesso Arriscado. Se um modelo fizer um Teste de Sucesso Arriscado como parte de uma AÇÃO fora da Ativação daquele modelo e a rolagem for uma Falha, aquela AÇÃO termina imediatamente.
+Às vezes você será chamado a fazer um Teste de Sucesso Arriscado para um modelo. Um Teste de Sucesso Arriscado e feita exatamente da mesma forma que um Teste de Sucesso normal. No entanto, se a rolagem falhar, a Ativação do modelo termina imediatamente (ver Fase de Ativação). Se uma regra se aplica a um Teste de Sucesso, então ela se aplica da mesma forma a um Teste de Sucesso Arriscado. Se um modelo fizer um Teste de Sucesso Arriscado como parte de uma AÇÃO fora da Ativação daquele modelo e a rolagem for uma Falha, aquela AÇÃO termina imediatamente.
 
 ---
 
@@ -110,7 +110,7 @@ Note que se um modelo ou peça de Equipamento de Batalha tiver a Palavra-Chave +
 
 ### Exemplo de jogo
 
-Umo Teste de Sucesso e feita por um Peregrino das Trincheiras para ver se um Ataque a Distância que está fazendo com seu Rifle de Ferrolho acerta um modelo Herético. O Herético está em Cobertura, o que adiciona -1 DADO os Testes de Sucesso para o Ataque a Distância do Peregrino das Trincheiras. Nenhum outro modificador se aplica ao ataque. 3 dados são rolados para o ataque e resultam em 5, 5 e 1. Os dois resultados mais baixos são escolhidos (um 5 e o 1), dando um Teste de Sucesso de 6. A Teste de Sucesso falhou e portanto o tiro do Peregrino das Trincheiras erra!
+Um Teste de Sucesso e feita por um Peregrino das Trincheiras para ver se um Ataque a Distância que está fazendo com seu Rifle de Ferrolho acerta um modelo Herético. O Herético está em Cobertura, o que adiciona -1 DADO os Testes de Sucesso para o Ataque a Distância do Peregrino das Trincheiras. Nenhum outro modificador se aplica ao ataque. 3 dados são rolados para o ataque e resultam em 5, 5 e 1. Os dois resultados mais baixos são escolhidos (um 5 e o 1), dando um Teste de Sucesso de 6. A Teste de Sucesso falhou e portanto o tiro do Peregrino das Trincheiras erra!
 
 Um modelo de Soldado Herético com bônus de +1 DADO para Ataque a Distância atira em um modelo de Peregrino em cobertura. A penalidade de -1 DADO e o bônus de +1 DADO se cancelam, então o jogador Herético simplesmente rola 2 dados. O resultado e 4 e 3, para um total de 7. O tiro acerta!
 
@@ -284,7 +284,7 @@ AÇÕES comuns que todos os modelos podem realizar estão listadas abaixo. Além
 
 - **Mover:** Você pode mover seu modelo um número de polegadas até sua Característica de Movimento em qualquer direção (ver Movimentos). Uma AÇÃO de Mover não pode ser usada para mover um modelo para dentro de 1" de um modelo inimigo (você deve usar uma AÇÃO de Investir em vez disso).
 
-- **Investir:** Escolha um modelo inimigo que esteja na Linha de Visão do seu modelo e dentro de 12" dele como alvo da investida. Em seguida, role um dado, adicione o resultado a Característica de Movimento do seu modelo e mova seu modelo em direção ao alvo (ver Carga). Você não pode realizar uma AÇÃO de Investir com um modelo que já esteja dentro de 1" de um modelo inimigo. Um modelo não pode realizar uma AÇÃO de Atirar e uma AÇÃO de Investir ou Lutar na mesma Ativação, a menos que use uma Arma que tenha a Palavra-Chave ASSALTO.
+- **Investir:** Escolha um modelo inimigo que esteja na Linha de Visão do seu modelo e dentro de 12" dele como alvo da investida. Em seguida, role um dado, adicione o resultado a Característica de Movimento do seu modelo e mova seu modelo em direção ao alvo (ver Investida). Você não pode realizar uma AÇÃO de Investir com um modelo que já esteja dentro de 1" de um modelo inimigo. Um modelo não pode realizar uma AÇÃO de Atirar e uma AÇÃO de Investir ou Lutar na mesma Ativação, a menos que use uma Arma que tenha a Palavra-Chave ASSALTO.
 
 - **Recuar:** Um Recuo e um tipo especial de movimento que é usado quando um modelo está dentro de 1" de um modelo inimigo e deseja se afastar (ver Recuo).
 
@@ -298,7 +298,7 @@ AÇÕES comuns que todos os modelos podem realizar estão listadas abaixo. Além
 
 ## Movimento
 
-Uma AÇÃO de Mover, Carregar, Recuar ou Correr permite que você pegue um de seus modelos e o mova pelo campo de batalha. O movimento e realizado da mesma forma para uma AÇÃO de Mover ou Correr, exceto que você deve fazer um Teste de Sucesso Arriscado antes de mover o modelo quando realizar uma AÇÃO de Correr. Movimentos de Carga e Recuo são realizados de forma semelhante a um movimento normal, mas em ambos os casos regras adicionais se aplicam a forma como o movimento e realizado.
+Uma AÇÃO de Mover, Carregar, Recuar ou Correr permite que você pegue um de seus modelos e o mova pelo campo de batalha. O movimento e realizado da mesma forma para uma AÇÃO de Mover ou Correr, exceto que você deve fazer um Teste de Sucesso Arriscado antes de mover o modelo quando realizar uma AÇÃO de Correr. Movimentos de Investida e Recuo são realizados de forma semelhante a um movimento normal, mas em ambos os casos regras adicionais se aplicam a forma como o movimento e realizado.
 
 **Mover e mover**
 
@@ -310,37 +310,37 @@ Para mover um modelo, pegue-o e mova-o ao longo de um caminho pelo campo de bata
 
 - Um modelo só pode se mover através de um modelo amigo se tiver movimento suficiente para passar completamente por ele.
 - Um modelo só pode sair do campo de batalha se uma regra declarar explicitamente que é permitido fazê-lo.
-- Um modelo só pode se mover para dentro de 1" de modelos inimigos se carregar (ver Carga).
+- Um modelo só pode se mover para dentro de 1" de modelos inimigos se carregar (ver Investida).
 - Um modelo que inicia um movimento dentro de 1" de modelos inimigos só pode se mover se: permanecer dentro de 1" de cada modelo inimigo de que comecou dentro de 1" durante todo o movimento, ou recuar (ver Recuo).
 - Ao final do movimento, nenhuma parte da base do modelo pode terminar mais longe de sua posição inicial do que um número de polegadas igual a sua Característica de Movimento.
 
 ---
 
-### CARGA
+### INVESTIDA
 
 Realizar uma AÇÃO de Investir com um modelo permite que você faça um tipo especial de movimento, chamado carga, que é usado para trazer um modelo para dentro de 1" de um modelo inimigo. Você só pode se mover para dentro de 1" de um modelo inimigo (medido a partir da base de cada modelo) realizando uma AÇÃO de Investir. Isso se aplica a todos os modelos inimigos, incluindo aqueles que estão Derrubados ou modelos inimigos que já estão dentro de 1" de um modelo amigo diferente.
 
-**Declarar Carga**
+**Declarar Investida**
 
 Após realizar uma AÇÃO de Investir com um modelo, você deve escolher um modelo inimigo que seja visível ao seu modelo e esteja dentro de 12" dele como alvo da investida.
 
 **Modelos Inimigos Interpostos**
 
-Você não pode escolher um modelo inimigo como alvo de uma investida se a rota que ele teria que percorrer para alcançar o alvo passasse dentro de 1" de um modelo inimigo diferente antes que o modelo carregando estivesse dentro de 1" de seu alvo. Em tal situação, você deve escolher o modelo inimigo interposto como alvo da investida, ou não realizar a investida.
+Você não pode escolher um modelo inimigo como alvo de uma investida se a rota que ele teria que percorrer para alcançar o alvo passasse dentro de 1" de um modelo inimigo diferente antes que o modelo investindo estivesse dentro de 1" de seu alvo. Em tal situação, você deve escolher o modelo inimigo interposto como alvo da investida, ou não realizar a investida.
 
 **Bônus de Investida**
 
-Após selecionar o alvo, role um D6 e adicione o resultado a Característica de Movimento do modelo carregando, até um máximo de Característica de Movimento de 12". A rolagem do D6 é referida como o Bônus de Investida do modelo.
+Após selecionar o alvo, role um D6 e adicione o resultado a Característica de Movimento do modelo investindo, até um máximo de Característica de Movimento de 12". A rolagem do D6 é referida como o Bônus de Investida do modelo.
 
-**Movimentos de Carga**
+**Movimentos de Investida**
 
-Após determinar o Bônus de Investida, mova o modelo carregando em direção ao alvo. Quando você fizer um movimento de carga com um modelo, as seguintes regras adicionais se aplicam ao movimento:
+Após determinar o Bônus de Investida, mova o modelo investindo em direção ao alvo. Quando você fizer um movimento de investida com um modelo, as seguintes regras adicionais se aplicam ao movimento:
 
 - O modelo deve se mover pela rota mais curta disponível que o leve diretamente ao alvo.
 - Escalar, Saltar, Pular Para Baixo ou mover-se através de terreno Perigoso e opcional durante uma investida, desde que a rota usada para evitar os obstáculos seja a mais curta possível.
 - O modelo deve parar assim que se mover para contato com o alvo, a menos que continuar com seu movimento permita que ele permaneça em contato com o alvo e termine dentro de 1" de quaisquer outros modelos inimigos.
 
-Se após completar o movimento o modelo carregando estiver dentro de 1" do alvo, o modelo carregando e considerado como tendo completado a investida com sucesso. Se o modelo carregando não alcançar seu alvo, a investida e considerada como tendo falhado, mas o modelo carregando deve permanecer onde estava após o movimento de carga ser completado.
+Se após completar o movimento o modelo investindo estiver dentro de 1" do alvo, o modelo investindo e considerado como tendo completado a investida com sucesso. Se o modelo investindo não alcançar seu alvo, a investida e considerada como tendo falhado, mas o modelo investindo deve permanecer onde estava após o movimento de investida ser completado.
 
 Note que completar uma investida não permite automaticamente que você Lute: para fazer um Ataque Corpo a Corpo após uma investida, você precisará realizar uma AÇÃO de Lutar com o modelo, assumindo que seja permitido fazê-lo.
 
@@ -488,7 +488,7 @@ Quando um modelo faz um Ataque Corpo a Corpo, você deve escolher um modelo inim
 
 Em seguida, você deve determinar se há modificadores que afetarão o ataque. Modificadores adicionam +/-DADOS o Teste de Sucesso para o modelo atacante.
 
-- **Carga Mergulhante (+1 DADO):** Adicione +1 DADO a rolagem se o atacante estiver fazendo uma Carga Mergulhante (ver Carga Mergulhante).
+- **Investida Mergulhante (+1 DADO):** Adicione +1 DADO a rolagem se o atacante estiver fazendo uma Investida Mergulhante (ver Investida Mergulhante).
 - **Obstáculo Defendido (-1 DADO):** Adicione -1 DADO a rolagem se o alvo estiver em cobertura e a peça de terreno fornecendo a cobertura estiver entre ele e o modelo atacante.
 - **Arma Secundária (-1 DADO):** Adicione -1 DADO a rolagem se o modelo atacante estiver fazendo o ataque com uma Arma Secundária (ver Múltiplas Armas Corpo a Corpo).
 
@@ -502,9 +502,9 @@ Um modelo que tenha duas Armas Corpo a Corpo pode usar uma única AÇÃO de Luta
 
 ---
 
-### CARGA MERGULHANTE
+### INVESTIDA MERGULHANTE
 
-Você pode converter uma investida de um modelo amigo em uma Carga Mergulhante se ele Pular Para Baixo pelo menos 3" e aterrissar dentro de 1" de um alvo. Se fizer isso, faça um Teste de Sucesso Arriscado para o modelo após ele Pular Para Baixo. Se a rolagem for uma Falha, o modelo fica Derrubado, e uma Rolagem de Ferimento por Queda deve então ser feita para o modelo (ver Queda). Se a rolagem for um Sucesso, você não precisa fazer uma Rolagem de Ferimento por Queda para o modelo, e pode adicionar +1 DADO o Teste de Sucesso para o próximo Ataque Corpo a Corpo que o modelo fizer.
+Você pode converter uma investida de um modelo amigo em uma Investida Mergulhante se ele Pular Para Baixo pelo menos 3" e aterrissar dentro de 1" de um alvo. Se fizer isso, faça um Teste de Sucesso Arriscado para o modelo após ele Pular Para Baixo. Se a rolagem for uma Falha, o modelo fica Derrubado, e uma Rolagem de Ferimento por Queda deve então ser feita para o modelo (ver Queda). Se a rolagem for um Sucesso, você não precisa fazer uma Rolagem de Ferimento por Queda para o modelo, e pode adicionar +1 DADO o Teste de Sucesso para o próximo Ataque Corpo a Corpo que o modelo fizer.
 
 ---
 

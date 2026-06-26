@@ -111,7 +111,7 @@
 |--------|-------|
 | Claim No Man's Land | Reclamar a Terra de Ninguém |
 | Hunt for Heroes | Caça aos Heróis |
-| Relic Hunt | Caça a Relíquia |
+| Relic Hunt | Caça à Relíquia |
 | Trench Warfare | Guerra de Trincheiras |
 | Armoured Train | Trem Blindado |
 | Dragon Hunt | Caça ao Dragão |

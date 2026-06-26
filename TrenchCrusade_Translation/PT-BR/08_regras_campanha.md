@@ -80,7 +80,7 @@ Ter o Portal Sublime como seu Patrono permite que você adquira as seguintes Hab
 
 - **Gures:** Adicione +1 DADO e +1 DADO DE FERIMENTO a Ataques Corpo a Corpo feitos por um modelo com esta Habilidade se o modelo alvo estiver Derrubado. Além disso, você pode ignorar o modificador de -1 DADO em Testes de Sucesso para um modelo que esteja Derrubado se o modelo tiver esta Habilidade.
 - **Mercadorias Importadas:** Você pode comprar 1 Arma ou 1 Armadura das Tabelas de Armaria de Nova Antioquia para um modelo com esta Habilidade na Etapa do Intendente seguinte. Escolha a Arma ou Armadura e anote sua escolha em sua Ficha de Bando. Se este item for perdido por qualquer razão durante a campanha, você pode recomprá-lo.
-- **Treinamento de Janíssaro:** Se a primeira AÇÃO que um modelo com esta Habilidade fizer durante sua Ativação for uma Carga, adicione +1 DADO a Ataques Corpo a Corpo feitos pelo modelo pelo resto da Ativação. Adicionalmente, um modelo com esta Habilidade tem a Palavra-Chave IGNORAR ARMA SECUNDÁRIA.
+- **Treinamento de Janíssaro:** Se a primeira AÇÃO que um modelo com esta Habilidade fizer durante sua Ativação for uma Investida, adicione +1 DADO a Ataques Corpo a Corpo feitos pelo modelo pelo resto da Ativação. Adicionalmente, um modelo com esta Habilidade tem a Palavra-Chave IGNORAR ARMA SECUNDÁRIA.
 - **Corretamente Guiado:** No início da partida, após o posicionamento, você pode escolher 1 AÇÃO além de Carregar, Atirar ou Lutar que exija que um modelo inimigo seja escolhido como alvo da AÇÃO ou seja escolhido para ser afetado pela AÇÃO. Pelo resto da partida, o modelo com esta Habilidade não pode ser escolhido como alvo daquela AÇÃO e não pode ser escolhido para ser afetado por aquela AÇÃO.
 - **Favor do Sultao:** Uma Bando que inclua um modelo com esta Habilidade pode aumentar quaisquer limites no número de modelos que pode incluir em 1, desde que o modelo não tenha a Palavra-Chave ELITE, não esteja montado em uma base de 50mm ou maior, e não seja um Mercenário. Um Bando só pode ter 1 modelo com esta Habilidade.
 - **Espada de Allah:** Você pode escolher 1 Habilidade da Tabela de Habilidades de Corpo a Corpo e Força para um modelo que tenha a Habilidade Espada de Allah.
@@ -165,7 +165,7 @@ Role um D6 para determinar qual cenário jogar:
 1. Reclamar a Terra de Ninguem
 2. Caça aos Heróis
 3. Terreno Elevado
-4. Caça a Relíquia
+4. Caça à Relíquia
 5. Saque de Suprimentos
 6. O jogador que jogou menos partidas escolhe um dos cenários listados acima. Se empatados, desempate e o vencedor escolhe.
 
@@ -364,7 +364,7 @@ Os seguintes modelos não podem ser Promovidos ao status ELITE:
 | 3 | **Firme:** A primeira vez que um modelo com esta Habilidade sofrer um resultado Derrubado na Tabela de Ferimento, ele é tratado como um resultado de Golpe Menor em vez disso. |
 | 4 | **Aparar:** Adicione -1 DADO a Testes de Sucesso para Ataques Corpo a Corpo que tenham como alvo um modelo com esta Habilidade. |
 | 5 | **Combate em Espaços Fechados:** Adicione +1 DADO e +1 DADO DE FERIMENTO a rolagens para Ataques Corpo a Corpo feitos por um modelo com esta Habilidade se ele estiver em contato com uma peça de terreno. |
-| 6 | **Carga Implacavel:** Adicione +1 DADO a rolagens para Ataques Corpo a Corpo feitos por um modelo com esta Habilidade se ele tiver carregado com sucesso anteriormente na mesma Ativação. |
+| 6 | **Carga Implacavel:** Adicione +1 DADO a rolagens para Ataques Corpo a Corpo feitos por um modelo com esta Habilidade se ele tiver investido com sucesso anteriormente na mesma Ativação. |
 | 7 | **Proficiência Corpo a Corpo:** Adicione +1 DADO a Característica de Corpo a Corpo de um modelo com esta Habilidade. |
 | 8 | **Força de Sansão:** Adicione +1 DADO DE FERIMENTO a rolagens para Ataques Corpo a Corpo usando uma Arma Corpo a Corpo feitos por um modelo com esta Habilidade. Além disso, um modelo com esta Habilidade tem a Palavra-Chave FORTE. |
 | 9 | **Duro de Matar:** A primeira vez que um modelo com esta Habilidade sofrer um resultado Derrubado na Tabela de Ferimento, ele é tratado como um resultado Sem Efeito em vez disso. |
@@ -396,7 +396,7 @@ Os seguintes modelos não podem ser Promovidos ao status ELITE:
 | 3 | **Sexto Sentido:** Se um modelo com esta Habilidade sofrer um resultado Derrubado na Tabela de Ferimento, ele é tratado como Golpe Menor se o modelo não tiver nenhum MARCADOR DE SANGUE. Se o modelo também tiver a Palavra-Chave RESISTENTE, uma vez por partida pode usar a Palavra-Chave para mudar um resultado Fora de Ação para Derrubado, e então usar esta Habilidade para mudar o resultado Derrubado para Sem Efeito. |
 | 4 | **Assassinar:** Adicione +1 DADO a rolagens para ataques feitos por um modelo com esta Habilidade se o alvo ainda não tiver sido Ativado neste Turno. |
 | 5 | **Caminhante das Sombras:** Adicione -2 DADOS em vez de -1 DADO a rolagens para Ataques a Distância que tenham como alvo um modelo com esta Habilidade em Longo Alcance. |
-| 6 | **Atlético:** Adicione +1 DADO a Testes de Sucesso Arriscados para um modelo com esta Habilidade quando Escalar, Saltar ou fazer uma Carga Mergulhante, e adicione -1 DADO DE FERIMENTO a Rolagens de Ferimento se Cair. |
+| 6 | **Atlético:** Adicione +1 DADO a Testes de Sucesso Arriscados para um modelo com esta Habilidade quando Escalar, Saltar ou fazer uma Investida Mergulhante, e adicione -1 DADO DE FERIMENTO a Rolagens de Ferimento se Cair. |
 | 7 | **Velocista:** Adicione +1 DADO o Teste de Sucesso Arriscado para um modelo com esta Habilidade que esteja realizando uma AÇÃO de Correr. |
 | 8 | **Desengajar:** Modelos inimigos não podem fazer um Ataque Corpo a Corpo em um modelo com esta Habilidade quando ele Recuar. |
 | 9 | **Chegando!:** Quando você rolar o Bônus de Investida para um modelo com esta Habilidade, role 1 D6 extra e use o dado individual mais alto para determinar o bônus. |

@@ -235,11 +235,11 @@ Se você estiver fazendo um Teste de Sucesso Arriscado e falhar, a Ativação do
 
 Regras frequentemente têm modificadores em Testes de Sucesso marcados como +DADO e -DADO. Eles são mostrados no formato "+1 DADO" ou "-1 DADO".
 
-Para cada +DADO, adicione 1 dado à Teste de Sucesso. Em seguida, role todos os dados e escolha os 2 resultados mais altos. Por exemplo, +1 DADO significa que você rola 3 dados e escolhe os 2 mais altos. Se +2 DADOS forem adicionados, role 4 dados e escolha os 2 mais altos, e assim por diante.
+Para cada +DADO, adicione 1 dado ao Teste de Sucesso. Em seguida, role todos os dados e escolha os 2 resultados mais altos. Por exemplo, +1 DADO significa que você rola 3 dados e escolhe os 2 mais altos. Se +2 DADOS forem adicionados, role 4 dados e escolha os 2 mais altos, e assim por diante.
 
-O -DADO funciona de forma inversa. Para cada -DADO, adicione 1 dado à Teste de Sucesso e escolha os 2 números mais baixos. Por exemplo, -1 DADO significa que você rola 3 dados e escolhe os 2 mais baixos.
+O -DADO funciona de forma inversa. Para cada -DADO, adicione 1 dado ao Teste de Sucesso e escolha os 2 números mais baixos. Por exemplo, -1 DADO significa que você rola 3 dados e escolhe os 2 mais baixos.
 
-Se tanto +DADO quanto -DADO forem adicionados à mesmo Teste de Sucesso, remova pares de +DADO e -DADO até que apenas um tipo restante. Por exemplo, se uma rolagem tiver +2 DADOS e -1 DADO, um dos +1 DADO e o -1 DADO seriam removidos, deixando +1 DADO para ser adicionado à rolagem.
+Se tanto +DADO quanto -DADO forem adicionados ao mesmo Teste de Sucesso, remova pares de +DADO e -DADO até que apenas um tipo restante. Por exemplo, se uma rolagem tiver +2 DADOS e -1 DADO, um dos +1 DADO e o -1 DADO seriam removidos, deixando +1 DADO para ser adicionado à rolagem.
 
 ---
 
@@ -280,7 +280,7 @@ Os seguintes modificadores são cumulativos:
 - **Múltiplas Armas Corpo a Corpo:** Se seu modelo estiver armado com duas Armas Corpo a Corpo, pode atacar com ambas, uma após a outra na ordem de sua escolha. Adicione -1 DADO para o segundo ataque.
 - **MEDO:** Adicione -1 DADO se seu oponente tiver a Palavra-Chave MEDO. Se ambos os modelos causarem MEDO, o efeito se cancela.
 - **Obstáculo Defendido:** Adicione -1 DADO se o alvo estiver em cobertura. Um modelo está em cobertura se estiver em contato com uma peça de terreno que tenha pelo menos 1/2" de altura e seja tão larga quanto sua base, e a peça de terreno esteja entre ele e o modelo atacante.
-- **Carga Mergulhante:** Um modelo pode tentar uma Carga Mergulhante contra modelos inimigos que estejam pelo menos 3" abaixo dele. Faça um Teste de Sucesso Arriscado para o modelo. Se a rolagem for uma Falha, o modelo fica Derrubado e uma Rolagem de Ferimento por Queda deve ser realizada para o modelo (ver Queda). Se a rolagem for um Sucesso, você não precisa fazer uma Rolagem de Ferimento por Queda para o modelo, e pode adicionar +1 DADO ao próximo Ataque Corpo a Corpo que o modelo realizar.
+- **Investida Mergulhante:** Um modelo pode tentar uma Investida Mergulhante contra modelos inimigos que estejam pelo menos 3" abaixo dele. Faça um Teste de Sucesso Arriscado para o modelo. Se a rolagem for uma Falha, o modelo fica Derrubado e uma Rolagem de Ferimento por Queda deve ser realizada para o modelo (ver Queda). Se a rolagem for um Sucesso, você não precisa fazer uma Rolagem de Ferimento por Queda para o modelo, e pode adicionar +1 DADO ao próximo Ataque Corpo a Corpo que o modelo realizar.
 
 **Queda**
 
@@ -432,7 +432,7 @@ Esta seção das regras explica os princípios essenciais que governam como uma 
 
 Algumas palavras nas regras são escritas em LETRAS MAIÚSCULAS, como AÇÃO ou MARCADOR DE SANGUE. Essas palavras são chamadas Palavras-Chave, e definem as habilidades centrais, regras, tipos de tropa e categorias de dano no jogo. Um glossário de todas as Palavras-Chave usadas no jogo pode ser encontrado abaixo (ver Glossário de Palavras-Chave).
 
-### ROLAGENS DE SUCESSO
+### TESTES DE SUCESSO
 
 Durante uma partida de Trench Crusade, você frequentemente terá que fazer um Teste de Sucesso para um modelo e consultar o resultado na tabela de Teste de Sucesso para ver se o modelo realizou uma tarefa com sucesso. Por exemplo, se você quiser que um modelo faça um Ataque a Distância, deve fazer um Teste de Sucesso para o modelo para ver se o ataque acerta o alvo, e assim por diante. As regras dizem quando você precisa fazer um Teste de Sucesso e o que o resultado do Teste de Sucesso significa. Por exemplo, se o Teste de Sucesso para um Ataque a Distância for uma Falha, o ataque erra o alvo. Se for um Sucesso, o ataque acerta e você faz uma Rolagem de Ferimento para o alvo. Se for um Sucesso Crítico, o ataque acerta e você faz uma Rolagem de Ferimento para o alvo com +1 DADO DE FERIMENTO.
 
@@ -456,7 +456,7 @@ Para fazer um Teste de Sucesso para um modelo, siga os seguintes passos:
 
 **Testes de Sucesso Arriscados**
 
-Às vezes você será chamado a fazer um Teste de Sucesso Arriscado para um modelo. Umo Teste de Sucesso Arriscado é feita exatamente da mesma forma que um Teste de Sucesso normal. No entanto, se a rolagem falhar, a Ativação do modelo termina imediatamente (ver Fase de Ativação). Se uma regra se aplica a um Teste de Sucesso, então ela se aplica da mesma forma a um Teste de Sucesso Arriscado. Se um modelo fizer um Teste de Sucesso Arriscado como parte de uma AÇÃO fora da Ativação daquele modelo e a rolagem for uma Falha, aquela AÇÃO termina imediatamente.
+Às vezes você será chamado a fazer um Teste de Sucesso Arriscado para um modelo. Um Teste de Sucesso Arriscado é feita exatamente da mesma forma que um Teste de Sucesso normal. No entanto, se a rolagem falhar, a Ativação do modelo termina imediatamente (ver Fase de Ativação). Se uma regra se aplica a um Teste de Sucesso, então ela se aplica da mesma forma a um Teste de Sucesso Arriscado. Se um modelo fizer um Teste de Sucesso Arriscado como parte de uma AÇÃO fora da Ativação daquele modelo e a rolagem for uma Falha, aquela AÇÃO termina imediatamente.
 
 ---
 
@@ -464,13 +464,13 @@ Para fazer um Teste de Sucesso para um modelo, siga os seguintes passos:
 
 As regras frequentemente exigem que você adicione dados extras a uma rolagem. Estes são mostrados no formato "+1 DADO" ou "-1 DADO" (por exemplo, atirar de posições elevadas adiciona +1 DADO a Ataques a Distância contra inimigos).
 
-**+DADO:** Para cada +DADO, adicione 1 dado à Teste de Sucesso. Em seguida, role todos os dados e escolha os 2 resultados mais altos. Por exemplo, +1 DADO significa que você rola 3 dados e escolhe os 2 mais altos. Se +2 DADOS forem adicionados, você rolaria 4 dados e escolheria os 2 mais altos, e assim por diante.
+**+DADO:** Para cada +DADO, adicione 1 dado ao Teste de Sucesso. Em seguida, role todos os dados e escolha os 2 resultados mais altos. Por exemplo, +1 DADO significa que você rola 3 dados e escolhe os 2 mais altos. Se +2 DADOS forem adicionados, você rolaria 4 dados e escolheria os 2 mais altos, e assim por diante.
 
-**-DADO:** O -DADO funciona de forma inversa, então para cada -1 DADO, adicione 1 dado à Teste de Sucesso e escolha os 2 resultados mais baixos. Por exemplo, -1 DADO significa que você rola 3 dados e escolhe os 2 mais baixos. Se -2 DADOS forem adicionados, você rolaria 4 dados e escolheria os 2 mais baixos, e assim por diante.
+**-DADO:** O -DADO funciona de forma inversa, então para cada -1 DADO, adicione 1 dado ao Teste de Sucesso e escolha os 2 resultados mais baixos. Por exemplo, -1 DADO significa que você rola 3 dados e escolhe os 2 mais baixos. Se -2 DADOS forem adicionados, você rolaria 4 dados e escolheria os 2 mais baixos, e assim por diante.
 
 **Combinando +DADO e -DADO**
 
-Se tanto +DADO quanto -DADO forem adicionados à mesmo Teste de Sucesso, remova pares de +DADO e -DADO até que apenas um tipo reste. Por exemplo, se dois +DADOS e um -DADO forem adicionados à mesmo Teste de Sucesso, um +DADO cancelaria o -DADO, deixando um único +DADO para modificar a rolagem.
+Se tanto +DADO quanto -DADO forem adicionados ao mesmo Teste de Sucesso, remova pares de +DADO e -DADO até que apenas um tipo reste. Por exemplo, se dois +DADOS e um -DADO forem adicionados ao mesmo Teste de Sucesso, um +DADO cancelaria o -DADO, deixando um único +DADO para modificar a rolagem.
 
 **Dados de Ferimento**
 
@@ -484,7 +484,7 @@ Note que se um modelo ou peça de Equipamento de Batalha tiver a Palavra-Chave +
 
 ### Exemplo de jogo
 
-Umo Teste de Sucesso é feita por um Peregrino das Trincheiras para ver se um Ataque a Distância que está fazendo com seu Rifle de Ferrolho acerta um modelo Herético. O Herético está em Cobertura, o que adiciona -1 DADO os Testes de Sucesso para o Ataque a Distância do Peregrino das Trincheiras. Nenhum outro modificador se aplica ao ataque. 3 dados são rolados para o ataque é resultam em 5, 5 e 1. Os dois resultados mais baixos são escolhidos (um 5 e o 1), dando um Teste de Sucesso de 6. A Teste de Sucesso falhou e portanto o tiro do Peregrino das Trincheiras erra!
+Um Teste de Sucesso é feita por um Peregrino das Trincheiras para ver se um Ataque a Distância que está fazendo com seu Rifle de Ferrolho acerta um modelo Herético. O Herético está em Cobertura, o que adiciona -1 DADO os Testes de Sucesso para o Ataque a Distância do Peregrino das Trincheiras. Nenhum outro modificador se aplica ao ataque. 3 dados são rolados para o ataque é resultam em 5, 5 e 1. Os dois resultados mais baixos são escolhidos (um 5 e o 1), dando um Teste de Sucesso de 6. A Teste de Sucesso falhou e portanto o tiro do Peregrino das Trincheiras erra!
 
 Um modelo de Soldado Herético com bônus de +1 DADO para Ataque a Distância atira em um modelo de Peregrino em cobertura. A penalidade de -1 DADO é o bônus de +1 DADO se cancelam, então o jogador Herético simplesmente rola 2 dados. O resultado é 4 e 3, para um total de 7. O tiro acerta!
 
@@ -502,7 +502,7 @@ Cada vez que um de seus modelos sofrer um ferimento, coloque um MARCADOR DE SANG
 
 **Gastando Marcadores de Sangue**
 
-Toda vez que você fizer um Teste de Sucesso para um modelo amigo que tenha MARCADORES DE SANGUE, seu oponente pode declarar que está gastando um ou mais deles, removendo os MARCADORES DE SANGUE do modelo conforme são gastos. Para cada MARCADOR DE SANGUE gasto, adicione -1 DADO à Teste de Sucesso. Por exemplo, se você estivesse fazendo um Teste de Sucesso para um modelo que tivesse 3 MARCADORES DE SANGUE, então o jogador adversário poderia escolher gastar 1, 2 ou todos os 3 MARCADORES DE SANGUE para adicionar -1, -2 ou -3 DADOS à Teste de Sucesso.
+Toda vez que você fizer um Teste de Sucesso para um modelo amigo que tenha MARCADORES DE SANGUE, seu oponente pode declarar que está gastando um ou mais deles, removendo os MARCADORES DE SANGUE do modelo conforme são gastos. Para cada MARCADOR DE SANGUE gasto, adicione -1 DADO ao Teste de Sucesso. Por exemplo, se você estivesse fazendo um Teste de Sucesso para um modelo que tivesse 3 MARCADORES DE SANGUE, então o jogador adversário poderia escolher gastar 1, 2 ou todos os 3 MARCADORES DE SANGUE para adicionar -1, -2 ou -3 DADOS ao Teste de Sucesso.
 
 Alternativamente, quando seu oponente fizer uma Rolagem de Ferimento para um modelo da seu Bando que tenha MARCADORES DE SANGUE, ele pode declarar que está gastando um ou mais deles, removendo os MARCADORES DE SANGUE do modelo conforme são gastos. Para cada MARCADOR DE SANGUE gasto, adicione +1 DADO DE FERIMENTO à Rolagem de Ferimento, tornando um ferimento grave muito mais provável (ver Rolagens de Ferimento).
 
@@ -518,7 +518,7 @@ Cada vez que um de seus modelos receber uma bênção, coloque um MARCADOR DE B�
 
 **Gastando Marcadores de Bênção**
 
-Toda vez que você fizer um Teste de Sucesso para um modelo amigo que tenha MARCADORES DE BÊNÇÃO, você pode declarar que está gastando um ou mais deles, removendo os MARCADORES DE BÊNÇÃO do modelo conforme são gastos. Para cada MARCADOR DE BÊNÇÃO gasto, adicione +1 DADO à Teste de Sucesso.
+Toda vez que você fizer um Teste de Sucesso para um modelo amigo que tenha MARCADORES DE BÊNÇÃO, você pode declarar que está gastando um ou mais deles, removendo os MARCADORES DE BÊNÇÃO do modelo conforme são gastos. Para cada MARCADOR DE BÊNÇÃO gasto, adicione +1 DADO ao Teste de Sucesso.
 
 Alternativamente, quando seu oponente fizer uma Rolagem de Ferimento para um modelo da seu Bando que tenha MARCADORES DE BÊNÇÃO, você pode declarar que está gastando um ou mais deles, removendo os MARCADORES DE BÊNÇÃO do modelo conforme são gastos. Para cada MARCADOR DE BÊNÇÃO gasto, adicione -1 DADO DE FERIMENTO à Rolagem de Ferimento, tornando um ferimento grave muito menos provável.
 
@@ -658,7 +658,7 @@ AÇÕES comuns que todos os modelos podem realizar estão listadas abaixo. Além
 
 - **Mover:** Você pode mover seu modelo um número de polegadas até sua Característica de Movimento em qualquer direção (ver Movimentos). Uma AÇÃO de Mover não pode ser usada para mover um modelo para dentro de 1" de um modelo inimigo (você deve usar uma AÇÃO de Investir em vez disso).
 
-- **Investir:** Escolha um modelo inimigo que esteja na Linha de Visão do seu modelo é dentro de 12" dele como alvo da investida. Em seguida, role um dado, adicione o resultado à Característica de Movimento do seu modelo e mova seu modelo em direção ao alvo (ver Carga). Você não pode realizar uma AÇÃO de Investir com um modelo que já esteja dentro de 1" de um modelo inimigo. Um modelo não pode realizar uma AÇÃO de Atirar e uma AÇÃO de Investir ou Lutar na mesma Ativação, a menos que use uma Arma que tenha a Palavra-Chave ASSALTO.
+- **Investir:** Escolha um modelo inimigo que esteja na Linha de Visão do seu modelo é dentro de 12" dele como alvo da investida. Em seguida, role um dado, adicione o resultado à Característica de Movimento do seu modelo e mova seu modelo em direção ao alvo (ver Investida). Você não pode realizar uma AÇÃO de Investir com um modelo que já esteja dentro de 1" de um modelo inimigo. Um modelo não pode realizar uma AÇÃO de Atirar e uma AÇÃO de Investir ou Lutar na mesma Ativação, a menos que use uma Arma que tenha a Palavra-Chave ASSALTO.
 
 - **Recuar:** Um Recuo é um tipo especial de movimento que é usado quando um modelo está dentro de 1" de um modelo inimigo e deseja se afastar (ver Recuo).
 
@@ -672,7 +672,7 @@ AÇÕES comuns que todos os modelos podem realizar estão listadas abaixo. Além
 
 ## Movimento
 
-Uma AÇÃO de Mover, Carregar, Recuar ou Correr permite que você pegue um de seus modelos e o mova pelo campo de batalha. O movimento é realizado da mesma forma para uma AÇÃO de Mover ou Correr, exceto que você deve fazer um Teste de Sucesso Arriscado antes de mover o modelo quando realizar uma AÇÃO de Correr. Movimentos de Carga e Recuo são realizados de forma semelhante a um movimento normal, mas em ambos os casos regras adicionais se aplicam a forma como o movimento é realizado.
+Uma AÇÃO de Mover, Carregar, Recuar ou Correr permite que você pegue um de seus modelos e o mova pelo campo de batalha. O movimento é realizado da mesma forma para uma AÇÃO de Mover ou Correr, exceto que você deve fazer um Teste de Sucesso Arriscado antes de mover o modelo quando realizar uma AÇÃO de Correr. Movimentos de Investida e Recuo são realizados de forma semelhante a um movimento normal, mas em ambos os casos regras adicionais se aplicam a forma como o movimento é realizado.
 
 **Mover e mover**
 
@@ -684,37 +684,37 @@ Para mover um modelo, pegue-o e mova-o ao longo de um caminho pelo campo de bata
 
 - Um modelo só pode se mover através de um modelo amigo se tiver movimento suficiente para passar completamente por ele.
 - Um modelo só pode sair do campo de batalha se uma regra declarar explicitamente que é permitido fazê-lo.
-- Um modelo só pode se mover para dentro de 1" de modelos inimigos se carregar (ver Carga).
+- Um modelo só pode se mover para dentro de 1" de modelos inimigos se investir (ver Investida).
 - Um modelo que inicia um movimento dentro de 1" de modelos inimigos só pode se mover se: permanecer dentro de 1" de cada modelo inimigo de que começou dentro de 1" durante todo o movimento, ou recuar (ver Recuo).
 - Ao final do movimento, nenhuma parte da base do modelo pode terminar mais longe de sua posição inicial do que um número de polegadas igual a sua Característica de Movimento.
 
 ---
 
-### CARGA
+### INVESTIDA
 
 Realizar uma AÇÃO de Investir com um modelo permite que você faça um tipo especial de movimento, chamado carga, que é usado para trazer um modelo para dentro de 1" de um modelo inimigo. Você só pode se mover para dentro de 1" de um modelo inimigo (medido a partir da base de cada modelo) realizando uma AÇÃO de Investir. Isso se aplica a todos os modelos inimigos, incluindo aqueles que estão Derrubados ou modelos inimigos que já estão dentro de 1" de um modelo amigo diferente.
 
-**Declarar Carga**
+**Declarar Investida**
 
 Após realizar uma AÇÃO de Investir com um modelo, você deve escolher um modelo inimigo que seja visível ao seu modelo e esteja dentro de 12" dele como alvo da investida.
 
 **Modelos Inimigos Interpostos**
 
-Você não pode escolher um modelo inimigo como alvo de uma investida se a rota que ele teria que percorrer para alcançar o alvo passasse dentro de 1" de um modelo inimigo diferente antes que o modelo carregando estivesse dentro de 1" de seu alvo. Em tal situação, você deve escolher o modelo inimigo interposto como alvo da investida, ou não realizar a investida.
+Você não pode escolher um modelo inimigo como alvo de uma investida se a rota que ele teria que percorrer para alcançar o alvo passasse dentro de 1" de um modelo inimigo diferente antes que o modelo investindo estivesse dentro de 1" de seu alvo. Em tal situação, você deve escolher o modelo inimigo interposto como alvo da investida, ou não realizar a investida.
 
 **Bônus de Investida**
 
-Após selecionar o alvo, role um D6 e adicione o resultado à Característica de Movimento do modelo carregando, até um máximo de Característica de Movimento de 12". A rolagem do D6 é referida como o Bônus de Investida do modelo.
+Após selecionar o alvo, role um D6 e adicione o resultado à Característica de Movimento do modelo investindo, até um máximo de Característica de Movimento de 12". A rolagem do D6 é referida como o Bônus de Investida do modelo.
 
-**Movimentos de Carga**
+**Movimentos de Investida**
 
-Após determinar o Bônus de Investida, mova o modelo carregando em direção ao alvo. Quando você fizer um movimento de carga com um modelo, as seguintes regras adicionais se aplicam ao movimento:
+Após determinar o Bônus de Investida, mova o modelo investindo em direção ao alvo. Quando você fizer um movimento de investida com um modelo, as seguintes regras adicionais se aplicam ao movimento:
 
 - O modelo deve se mover pela rota mais curta disponível que o leve diretamente ao alvo.
 - Escalar, Saltar, Pular Para Baixo ou mover-se através de terreno Perigoso é opcional durante uma investida, desde que a rota usada para evitar os obstáculos seja a mais curta possível.
 - O modelo deve parar assim que se mover para contato com o alvo, a menos que continuar com seu movimento permita que ele permaneça em contato com o alvo é termine dentro de 1" de quaisquer outros modelos inimigos.
 
-Se após completar o movimento o modelo carregando estiver dentro de 1" do alvo, o modelo carregando é considerado como tendo completado a investida com sucesso. Se o modelo carregando não alcançar seu alvo, a investida é considerada como tendo falhado, mas o modelo carregando deve permanecer onde estava após o movimento de carga ser completado.
+Se após completar o movimento o modelo investindo estiver dentro de 1" do alvo, o modelo investindo é considerado como tendo completado a investida com sucesso. Se o modelo investindo não alcançar seu alvo, a investida é considerada como tendo falhado, mas o modelo investindo deve permanecer onde estava após o movimento de investida ser completado.
 
 Note que completar uma investida não permite automaticamente que você Lute: para fazer um Ataque Corpo a Corpo após uma investida, você precisará realizar uma AÇÃO de Lutar com o modelo, assumindo que seja permitido fazê-lo.
 
@@ -823,7 +823,7 @@ Se a distância entre um modelo atacante e o alvo for menor ou igual a metade do
 
 **Determinar Modificadores de Ataque a Distância**
 
-Em seguida, você deve determinar se há modificadores que afetarão o ataque. Modificadores adicionam +/-DADOS à Teste de Sucesso.
+Em seguida, você deve determinar se há modificadores que afetarão o ataque. Modificadores adicionam +/-DADOS ao Teste de Sucesso.
 
 - **Posição elevada (+1 DADO):** Adicione +1 DADO à rolagem se o modelo atacante estiver em uma posição pelo menos 3" mais alta que o alvo. Use as bases dos modelos ao determinar a diferença em suas alturas.
 - **Cobertura (-1 DADO):** Adicione -1 DADO à rolagem se o alvo estiver em cobertura do modelo atacante (ver Cobertura).
@@ -860,9 +860,9 @@ Quando um modelo faz um Ataque Corpo a Corpo, você deve escolher um modelo inim
 
 **Determinar Modificadores de Ataque Corpo a Corpo**
 
-Em seguida, você deve determinar se há modificadores que afetarão o ataque. Modificadores adicionam +/-DADOS à Teste de Sucesso para o modelo atacante.
+Em seguida, você deve determinar se há modificadores que afetarão o ataque. Modificadores adicionam +/-DADOS ao Teste de Sucesso para o modelo atacante.
 
-- **Carga Mergulhante (+1 DADO):** Adicione +1 DADO à rolagem se o atacante estiver fazendo uma Carga Mergulhante (ver Carga Mergulhante).
+- **Investida Mergulhante (+1 DADO):** Adicione +1 DADO à rolagem se o atacante estiver fazendo uma Investida Mergulhante (ver Investida Mergulhante).
 - **Obstáculo Defendido (-1 DADO):** Adicione -1 DADO à rolagem se o alvo estiver em cobertura e a peça de terreno fornecendo a cobertura estiver entre ele e o modelo atacante.
 - **Arma Secundária (-1 DADO):** Adicione -1 DADO à rolagem se o modelo atacante estiver fazendo o ataque com uma Arma Secundária (ver Múltiplas Armas Corpo a Corpo).
 
@@ -876,9 +876,9 @@ Um modelo que tenha duas Armas Corpo a Corpo pode usar uma única AÇÃO de Luta
 
 ---
 
-### CARGA MERGULHANTE
+### INVESTIDA MERGULHANTE
 
-Você pode converter uma investida de um modelo amigo em uma Carga Mergulhante se ele Pular Para Baixo pelo menos 3" e aterrissar dentro de 1" de um alvo. Se fizer isso, faça um Teste de Sucesso Arriscado para o modelo após ele Pular Para Baixo. Se a rolagem for uma Falha, o modelo fica Derrubado, e uma Rolagem de Ferimento por Queda deve então ser feita para o modelo (ver Queda). Se a rolagem for um Sucesso, você não precisa fazer uma Rolagem de Ferimento por Queda para o modelo, e pode adicionar +1 DADO à Teste de Sucesso para o próximo Ataque Corpo a Corpo que o modelo fizer.
+Você pode converter uma investida de um modelo amigo em uma Investida Mergulhante se ele Pular Para Baixo pelo menos 3" e aterrissar dentro de 1" de um alvo. Se fizer isso, faça um Teste de Sucesso Arriscado para o modelo após ele Pular Para Baixo. Se a rolagem for uma Falha, o modelo fica Derrubado, e uma Rolagem de Ferimento por Queda deve então ser feita para o modelo (ver Queda). Se a rolagem for um Sucesso, você não precisa fazer uma Rolagem de Ferimento por Queda para o modelo, e pode adicionar +1 DADO ao Teste de Sucesso para o próximo Ataque Corpo a Corpo que o modelo fizer.
 
 ---
 
@@ -958,7 +958,7 @@ Nota: Um modelo deitado de lado será mais difícil de ver, mas de resto os dois
 
 ## 3. Fase de Moral
 
-Suo Bando pode abandonar a batalha se sofrer muitas baixas. Na Fase de Moral, se metade dos modelos em seu Bando estiverem Derrubados ou Fora de Ação (arredondado para cima), você deve fazer um tipo especial de Teste de Sucesso chamado Teste de Moral. Um Teste de Moral é feito da mesma forma que um Teste de Sucesso para um modelo. Se o Teste de Moral for um Sucesso, seu Bando continua normalmente. Se o Teste de Moral for uma Falha, seu Bando fica Abalado.
+Seu Bando pode abandonar a batalha se sofrer muitas baixas. Na Fase de Moral, se metade dos modelos em seu Bando estiverem Derrubados ou Fora de Ação (arredondado para cima), você deve fazer um tipo especial de Teste de Sucesso chamado Teste de Moral. Um Teste de Moral é feito da mesma forma que um Teste de Sucesso para um modelo. Se o Teste de Moral for um Sucesso, seu Bando continua normalmente. Se o Teste de Moral for uma Falha, seu Bando fica Abalado.
 
 Nota: Lembre-se de que ao contar modelos, quaisquer frações são arredondadas para cima. Por exemplo, um Bando que tenha 5 modelos não precisará fazer um Teste de Moral até que 3 de seus modelos estejam Derrubados ou Fora de Ação (metade de 5 e 2,5, que arredonda para 3).
 
@@ -1051,7 +1051,7 @@ MARCADORES DE SANGUE são colocados em modelos que sofrem um ferimento (ver MARC
 ### GOLPE VARRENTE(X) (Efeito)
 Quando você realiza uma AÇÃO de Lutar e escolhe uma Arma com esta Palavra-Chave para fazer um Ataque Corpo a Corpo, você pode fazer um número de Ataques Corpo a Corpo com esta Arma igual a X, um após o outro. Os ataques podem ter como alvo modelos inimigos diferentes, se desejado. Resolva cada ataque um de cada vez usando os passos 2 a 4 da Sequência de Ataque Corpo a Corpo. Quaisquer MARCADORES DE SANGUE ou MARCADORES DE BÊNÇÃO gastos modificam apenas à Rolagem de Ferimento para o Ataque Corpo a Corpo em que foram gastos.
 
-### CONSUMIVEL (Efeito)
+### CONSUMÍVEL (Efeito)
 Em uma campanha (ver Regras de Campanha), Equipamento de Batalha com esta Palavra-Chave é perdido ao final de uma partida em que for usado.
 
 ### COBERTURA (Efeito)
@@ -1072,7 +1072,7 @@ Quando você faz uma Rolagem de Ferimento para um ataque feito com uma arma com 
 ### DEMONÍACO (Efeito)
 Um modelo com esta Palavra-Chave tem a Palavra-Chave NEGAR FOGO.
 
-### POSICIONAVEL (Etiqueta)
+### POSICIONÁVEL (Etiqueta)
 Equipamento de Batalha que é representado por um modelo ou peça de terreno que pode ser montado durante a partida.
 
 ### TERRENO DIFÍCIL (Efeito)
@@ -1094,7 +1094,7 @@ Um modelo com esta Palavra-Chave faz parte de um grupo de 2 modelos, ambos os qu
 Quando uma Arma com esta Palavra-Chave é usada para fazer um Ataque a Distância, ele é automaticamente um Sucesso. Não faça um Teste de Sucesso para o ataque. Note que isso significa que o ataque não pode alcançar um Sucesso Crítico.
 
 ### VOADOR (Efeito)
-Quando você faz um movimento, movimento de recuo ou movimento de carga com um modelo com esta Palavra-Chave, você pode medir o caminho no qual ele viaja "pelo ar". Ele deve terminar o movimento no campo de batalha ou em uma peça de terreno. Você ainda deve fazer um Teste de Sucesso Arriscado para o modelo se ele for Ativado ou terminar seu movimento em Terreno Perigoso, e ele não pode terminar seu movimento em Terreno Intransponível. Além disso, não faça uma Rolagem de Ferimento se um modelo com esta Palavra-Chave Cair.
+Quando você faz um movimento, movimento de recuo ou movimento de investida com um modelo com esta Palavra-Chave, você pode medir o caminho no qual ele viaja "pelo ar". Ele deve terminar o movimento no campo de batalha ou em uma peça de terreno. Você ainda deve fazer um Teste de Sucesso Arriscado para o modelo se ele for Ativado ou terminar seu movimento em Terreno Perigoso, e ele não pode terminar seu movimento em Terreno Intransponível. Além disso, não faça uma Rolagem de Ferimento se um modelo com esta Palavra-Chave Cair.
 
 ### GÁS (Efeito)
 Após fazer a Rolagem de Ferimento para uma Arma com esta Palavra-Chave, coloque 1 MARCADOR DE SANGUE extra ao lado do modelo alvo, mesmo se o resultado for Sem Efeito.
@@ -1103,7 +1103,7 @@ Após fazer a Rolagem de Ferimento para uma Arma com esta Palavra-Chave, coloque
 Um modelo com esta Palavra-Chave trata um resultado Fora de Ação da Tabela de Rolagem de Ferimento como um resultado Derrubado, a menos que o resultado tenha sido causado por uma Rolagem de Banho de Sangue. Além disso, você não pode remover MARCADORES DE SANGUE de um modelo amigo com esta Palavra-Chave (o jogador adversário pode usá-los normalmente). Finalmente, um modelo com esta Palavra-Chave tem as Palavras-Chave NEGAR MEDO e NEGAR GÁS, mas não pode ter a Palavra-Chave RESISTENTE.
 
 ### PESADO (Efeito)
-Um modelo não pode ser equipado com mais de uma peça de Equipamento de Batalha com esta Palavra-Chave e não recebe Bônus de Investida quando faz um movimento de carga. Além disso, se uma Arma a Distância ou Granada tiver esta Palavra-Chave, você não pode usar a Arma ou Granada para fazer um Ataque a Distância e realizar uma AÇÃO de Mover, Investir ou Recuar, ou Correr com o modelo atacante como parte da mesma Ativação.
+Um modelo não pode ser equipado com mais de uma peça de Equipamento de Batalha com esta Palavra-Chave e não recebe Bônus de Investida quando faz um movimento de investida. Além disso, se uma Arma a Distância ou Granada tiver esta Palavra-Chave, você não pode usar a Arma ou Granada para fazer um Ataque a Distância e realizar uma AÇÃO de Mover, Investir ou Recuar, ou Correr com o modelo atacante como parte da mesma Ativação.
 
 ### SEGURADO (Efeito)
 Uma peça de Equipamento de Batalha com esta Palavra-Chave requer uma mão para carregar e não pode ser largada. Por causa disso, um modelo que tenha esta Palavra-Chave só pode ser equipado com ou usar uma Arma de 1 Mão ou um Escudo. Ele não pode ser equipado com ou usar quaisquer Armas de 2 Mãos, ou tanto uma Arma quanto um Escudo (mesmo se o Escudo tiver a regra Combo de Escudo). Ele ainda pode carregar Granadas.
@@ -1166,7 +1166,7 @@ Adicione -1 DADO DE FERIMENTO a rolagens para ataques feitos em Longo Alcance co
 Após fazer a Rolagem de Ferimento para uma Arma com esta Palavra-Chave, coloque 1 MARCADOR DE SANGUE extra ao lado do modelo alvo, mesmo se o resultado for Sem Efeito.
 
 ### ESCARAMUÇADOR (Efeito)
-Se um inimigo selecionar um modelo com esta Palavra-Chave como alvo de uma Carga, você pode escolher evadir com seu modelo antes que a Carga seja feita, desde que seu modelo não esteja dentro de 1" de um inimigo. Quando um modelo evade, role um D3 e mova o modelo essa quantidade de polegadas. Ele deve terminar este movimento a mais de 1" de todos os modelos inimigos. Se este movimento resultar em haver um modelo interposto entre o modelo evadindo e o modelo que está fazendo a investida, então o modelo carregando deve escolher o modelo interposto como alvo para sua investida.
+Se um inimigo selecionar um modelo com esta Palavra-Chave como alvo de uma Investida, você pode escolher evadir com seu modelo antes que a Investida seja feita, desde que seu modelo não esteja dentro de 1" de um inimigo. Quando um modelo evade, role um D3 e mova o modelo essa quantidade de polegadas. Ele deve terminar este movimento a mais de 1" de todos os modelos inimigos. Se este movimento resultar em haver um modelo interposto entre o modelo evadindo e o modelo que está fazendo a investida, então o modelo investindo deve escolher o modelo interposto como alvo para sua investida.
 
 ### FORTE (Efeito)
 Um modelo com esta Palavra-Chave tem a Palavra-Chave NEGAR PESADO. Além disso, ele pode equipar e usar uma Arma Corpo a Corpo de 2 Mãos como se fosse uma Arma Corpo a Corpo de 1 Mão.
@@ -1724,15 +1724,15 @@ Desenvolvido na desesperada fronteira de batalha finlandesa contra demônios de 
 
 *Fogo Líquido:* Se o Teste de Sucesso para um Ataque a Distância feito com um Coquetel Molotov for um Sucesso Crítico, então a Rolagem de Ferimento para o ataque tem a Palavra-Chave IGNORAR ARMADURA.
 
-### Carga Explosiva
+### Investida Explosiva
 
 Explosivos de campo projetados para destruir fortificações inimigas e romper até a mais resistente das armaduras.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
-| Granada | 6" | +1 DADO DE FERIMENTO, EXPLOSÃO 3", CONSUMIVEL, PESADO, IGNORAR ARMADURA, IGNORAR COBERTURA, DISPERSÃO |
+| Granada | 6" | +1 DADO DE FERIMENTO, EXPLOSÃO 3", CONSUMÍVEL, PESADO, IGNORAR ARMADURA, IGNORAR COBERTURA, DISPERSÃO |
 
-*Explosivo Pesado:* Uma vez durante uma partida, um modelo com uma Carga Explosiva pode usá-la para fazer um Ataque a Distância.
+*Explosivo Pesado:* Uma vez durante uma partida, um modelo com uma Investida Explosiva pode usá-la para fazer um Ataque a Distância.
 
 ---
 
@@ -1782,7 +1782,7 @@ A tecnologia avançada de armadura forçou as armarias da Grande Guerra a forjar
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
-| Equipamento | - | MUNIÇÃO (PERFURA ARMADURA), CONSUMIVEL |
+| Equipamento | - | MUNIÇÃO (PERFURA ARMADURA), CONSUMÍVEL |
 
 ### Binóculos
 
@@ -1800,7 +1800,7 @@ Pequenos ícones de santos, grandes anjos e guerreiros sagrados são uma visão 
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
-| Equipamento | - | CONSUMIVEL |
+| Equipamento | - | CONSUMÍVEL |
 
 *Talismã:* Uma vez durante uma partida, quando um Teste de Sucesso Arriscado para um modelo com um Ícone Abençoado for uma Falha, você pode dizer que o modelo usará seu Talismã. Se fizer isso, a Ativação do modelo não termina.
 
@@ -1818,7 +1818,7 @@ Essas balas de ponta oca são muito mais propensas a causar ferimentos fatais do
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
-| Equipamento | - | MUNIÇÃO (CRÍTICO), CONSUMIVEL |
+| Equipamento | - | MUNIÇÃO (CRÍTICO), CONSUMÍVEL |
 
 ### Santuário de Campo
 
@@ -1826,7 +1826,7 @@ Relicários sagrados, artefatos abençoados e cruzes sagradas são frequentement
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
-| Equipamento | - | POSICIONAVEL |
+| Equipamento | - | POSICIONÁVEL |
 
 Um Santuário de Campo é representado por uma peça de terreno que tenha pelo menos 1/2" de altura e que esteja montada em uma base de 40mm. É Terreno Intransponível.
 
@@ -1866,7 +1866,7 @@ Desenvolvida por Aym, o grande duque do Inferno, essas balas incendeiam qualquer
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
-| Equipamento | - | MUNIÇÃO (FOGO), CONSUMIVEL |
+| Equipamento | - | MUNIÇÃO (FOGO), CONSUMÍVEL |
 
 ### Marca Infernal
 
@@ -1882,7 +1882,7 @@ Pílulas de martírio são uma mistura potente de drogas e químicos que alteram
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
-| Equipamento | - | CONSUMIVEL |
+| Equipamento | - | CONSUMÍVEL |
 
 *Insensível a Dor:* Quando você posiciona um modelo que possua Pílulas de Martírio, você pode dizer que ele as consumirá. Se fizer isso, até o final da partida o modelo tem a Palavra-Chave NEGAR MEDO. Além disso, adicione -1 DADO DE FERIMENTO a rolagens para ataques que acertem o modelo.
 
@@ -1934,7 +1934,7 @@ Balas traçantes permitem que soldados ajustem sua mira eficientemente.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
-| Equipamento | - | MUNIÇÃO (+1 DADO), CONSUMIVEL |
+| Equipamento | - | MUNIÇÃO (+1 DADO), CONSUMÍVEL |
 
 ### Bandeira de Tropa
 
@@ -1958,7 +1958,7 @@ Muitos Soldados Heréticos carregam um talismã ou amuleto que são vendidos por
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
-| Equipamento | - | CONSUMIVEL |
+| Equipamento | - | CONSUMÍVEL |
 
 *Talismã:* Uma vez durante uma partida, quando um Teste de Sucesso Arriscado para um modelo com um Amuleto Profano for uma Falha, você pode dizer que o modelo o usará. Se fizer isso, a Ativação do modelo não termina.
 
@@ -2045,8 +2045,8 @@ Ter o Portal Sublime como seu Patrono permite que você adquira as seguintes Hab
 
 - **Gures:** Adicione +1 DADO e +1 DADO DE FERIMENTO a Ataques Corpo a Corpo feitos por um modelo com esta Habilidade se o modelo alvo estiver Derrubado. Além disso, você pode ignorar o modificador de -1 DADO em Testes de Sucesso para um modelo que esteja Derrubado se o modelo tiver esta Habilidade.
 - **Mercadorias Importadas:** Você pode comprar 1 Arma ou 1 Armadura das Tabelas de Armaria de Nova Antioquia para um modelo com esta Habilidade na Etapa do Intendente seguinte. Escolha a Arma ou Armadura e anote sua escolha em sua Ficha de Bando. Se este item for perdido por qualquer razão durante a campanha, você pode recomprá-lo.
-- **Treinamento de Janíssaro:** Se a primeira AÇÃO que um modelo com esta Habilidade fizer durante sua Ativação for uma Carga, adicione +1 DADO a Ataques Corpo a Corpo feitos pelo modelo pelo resto da Ativação. Adicionalmente, um modelo com esta Habilidade tem a Palavra-Chave IGNORAR ARMA SECUNDÁRIA.
-- **Corretamente Guiado:** No início da partida, após o posicionamento, você pode escolher 1 AÇÃO além de Carregar, Atirar ou Lutar que exija que um modelo inimigo seja escolhido como alvo da AÇÃO ou seja escolhido para ser afetado pela AÇÃO. Pelo resto da partida, o modelo com esta Habilidade não pode ser escolhido como alvo daquela AÇÃO e não pode ser escolhido para ser afetado por aquela AÇÃO.
+- **Treinamento de Janíssaro:** Se a primeira AÇÃO que um modelo com esta Habilidade fizer durante sua Ativação for uma Investida, adicione +1 DADO a Ataques Corpo a Corpo feitos pelo modelo pelo resto da Ativação. Adicionalmente, um modelo com esta Habilidade tem a Palavra-Chave IGNORAR ARMA SECUNDÁRIA.
+- **Corretamente Guiado:** No início da partida, após o posicionamento, você pode escolher 1 AÇÃO além de Investir, Atirar ou Lutar que exija que um modelo inimigo seja escolhido como alvo da AÇÃO ou seja escolhido para ser afetado pela AÇÃO. Pelo resto da partida, o modelo com esta Habilidade não pode ser escolhido como alvo daquela AÇÃO e não pode ser escolhido para ser afetado por aquela AÇÃO.
 - **Favor do Sultão:** Um Bando que inclua um modelo com esta Habilidade pode aumentar quaisquer limites no número de modelos que pode incluir em 1, desde que o modelo não tenha a Palavra-Chave ELITE, não esteja montado em uma base de 50mm ou maior, e não seja um Mercenário. Um Bando só pode ter 1 modelo com esta Habilidade.
 - **Espada de Allah:** Você pode escolher 1 Habilidade da Tabela de Habilidades de Corpo a Corpo e Força para um modelo que tenha a Habilidade Espada de Allah.
 
@@ -2130,7 +2130,7 @@ Role um D6 para determinar qual cenário jogar:
 1. Reclamar a Terra de Ninguém
 2. Caça aos Heróis
 3. Terreno Elevado
-4. Caça a Relíquia
+4. Caça à Relíquia
 5. Saque de Suprimentos
 6. O jogador que jogou menos partidas escolhe um dos cenários listados acima. Se empatados, desempate é o vencedor escolhe.
 
@@ -2259,7 +2259,7 @@ A menos que declarado de outra forma, cada vez que um modelo ELITE for colocado 
 | 24 | **Memória Sombria.** Anote o nome do Bando da partida onde este ferimento foi recebido. Adicione -1 DADO a rolagens para Ataques Corpo a Corpo feitos por este modelo se o alvo for um modelo do Bando que você anotou. |
 | 25 | **Paranoico.** Este modelo não pode ser posicionado dentro de 8" de um modelo amigo. |
 | 26 | **Perdeu um Braço.** Este modelo não pode usar Equipamento de Batalha que exija 2 mãos, e só pode usar uma peça de Equipamento de Batalha que exija 1 mão. |
-| 31 | **Ferimento na Perna.** Subtraia 2" da Característica de Movimento deste modelo. Além disso, adicione -1 DADO à Teste de Sucesso Arriscado deste modelo quando realizar uma AÇÃO de Correr. |
+| 31 | **Ferimento na Perna.** Subtraia 2" da Característica de Movimento deste modelo. Além disso, adicione -1 DADO ao Teste de Sucesso Arriscado deste modelo quando realizar uma AÇÃO de Correr. |
 | 32 | **Tratamento Caro.** Os ferimentos do modelo requerem tratamento constante. Antes de posicionar este modelo, você deve deduzir 10 👑 do Cofre de seu Bando. |
 | 33 | **Possuído.** Quando este modelo for Ativado, se estiver a mais de 1" de quaisquer modelos inimigos, a primeira AÇÃO que ele deve realizar é uma AÇÃO de Correr. Os primeiros 3" deste movimento devem ser em linha reta diretamente para longe de sua posição inicial. |
 | 34 | **Dano Muscular.** Este modelo não pode ter Equipamento de Batalha que tenha a Palavra-Chave PESADO. Qualquer que ele tenha quando o Ferimento for sofrido é perdido. |
@@ -2329,12 +2329,12 @@ Os seguintes modelos não podem ser Promovidos ao status ELITE:
 | 3 | **Firme:** A primeira vez que um modelo com esta Habilidade sofrer um resultado Derrubado na Tabela de Ferimento, ele é tratado como um resultado de Golpe Menor em vez disso. |
 | 4 | **Aparar:** Adicione -1 DADO a Testes de Sucesso para Ataques Corpo a Corpo que tenham como alvo um modelo com esta Habilidade. |
 | 5 | **Combate em Espaços Fechados:** Adicione +1 DADO e +1 DADO DE FERIMENTO a rolagens para Ataques Corpo a Corpo feitos por um modelo com esta Habilidade se ele estiver em contato com uma peça de terreno. |
-| 6 | **Carga Implacável:** Adicione +1 DADO a rolagens para Ataques Corpo a Corpo feitos por um modelo com esta Habilidade se ele tiver carregado com sucesso anteriormente na mesma Ativação. |
+| 6 | **Investida Implacável:** Adicione +1 DADO a rolagens para Ataques Corpo a Corpo feitos por um modelo com esta Habilidade se ele tiver investido com sucesso anteriormente na mesma Ativação. |
 | 7 | **Proficiência Corpo a Corpo:** Adicione +1 DADO a Característica de Corpo a Corpo de um modelo com esta Habilidade. |
 | 8 | **Força de Sansão:** Adicione +1 DADO DE FERIMENTO a rolagens para Ataques Corpo a Corpo usando uma Arma Corpo a Corpo feitos por um modelo com esta Habilidade. Além disso, um modelo com esta Habilidade tem a Palavra-Chave FORTE. |
 | 9 | **Duro de Matar:** A primeira vez que um modelo com esta Habilidade sofrer um resultado Derrubado na Tabela de Ferimento, ele é tratado como um resultado Sem Efeito em vez disso. |
 | 10 | **Golpe Cirúrgico:** Uma vez por Ativação, antes de fazer uma Rolagem de Ferimento para um Ataque Corpo a Corpo feito por um modelo com esta Habilidade, você pode dizer que a rolagem tem a Palavra-Chave IGNORAR ARMADURA. |
-| 11 | **Campeão:** Armas Corpo a Corpo que não possuam a Palavra-Chave GOLPE VARRENTE usadas por um modelo com esta Habilidade ganham a Palavra-Chave GOLPE VARRENTE 2. Além disso, adicione -1 DADO à Teste de Sucesso para o segundo Ataque Corpo a Corpo feito com cada Arma Corpo a Corpo que ganhe a Palavra-Chave GOLPE VARRENTE. |
+| 11 | **Campeão:** Armas Corpo a Corpo que não possuam a Palavra-Chave GOLPE VARRENTE usadas por um modelo com esta Habilidade ganham a Palavra-Chave GOLPE VARRENTE 2. Além disso, adicione -1 DADO ao Teste de Sucesso para o segundo Ataque Corpo a Corpo feito com cada Arma Corpo a Corpo que ganhe a Palavra-Chave GOLPE VARRENTE. |
 | 12 | **Habilidade de Patrono:** Escolha uma das Habilidades oferecidas por seu Patrono. |
 
 ### TABELA DE HABILIDADES DE DISTÂNCIA
@@ -2361,8 +2361,8 @@ Os seguintes modelos não podem ser Promovidos ao status ELITE:
 | 3 | **Sexto Sentido:** Se um modelo com esta Habilidade sofrer um resultado Derrubado na Tabela de Ferimento, ele é tratado como Golpe Menor se o modelo não tiver nenhum MARCADOR DE SANGUE. Se o modelo também tiver a Palavra-Chave RESISTENTE, uma vez por partida pode usar a Palavra-Chave para mudar um resultado Fora de Ação para Derrubado, e então usar esta Habilidade para mudar o resultado Derrubado para Sem Efeito. |
 | 4 | **Assassinar:** Adicione +1 DADO a rolagens para ataques feitos por um modelo com esta Habilidade se o alvo ainda não tiver sido Ativado neste Turno. |
 | 5 | **Caminhante das Sombras:** Adicione -2 DADOS em vez de -1 DADO a rolagens para Ataques a Distância que tenham como alvo um modelo com esta Habilidade em Longo Alcance. |
-| 6 | **Atlético:** Adicione +1 DADO a Testes de Sucesso Arriscados para um modelo com esta Habilidade quando Escalar, Saltar ou fazer uma Carga Mergulhante, e adicione -1 DADO DE FERIMENTO a Rolagens de Ferimento se Cair. |
-| 7 | **Velocista:** Adicione +1 DADO à Teste de Sucesso Arriscado para um modelo com esta Habilidade que esteja realizando uma AÇÃO de Correr. |
+| 6 | **Atlético:** Adicione +1 DADO a Testes de Sucesso Arriscados para um modelo com esta Habilidade quando Escalar, Saltar ou fazer uma Investida Mergulhante, e adicione -1 DADO DE FERIMENTO a Rolagens de Ferimento se Cair. |
+| 7 | **Velocista:** Adicione +1 DADO ao Teste de Sucesso Arriscado para um modelo com esta Habilidade que esteja realizando uma AÇÃO de Correr. |
 | 8 | **Desengajar:** Modelos inimigos não podem fazer um Ataque Corpo a Corpo em um modelo com esta Habilidade quando ele Recuar. |
 | 9 | **Chegando!:** Quando você rolar o Bônus de Investida para um modelo com esta Habilidade, role 1 D6 extra e use o dado individual mais alto para determinar o bônus. |
 | 10 | **Ágil:** Não reduza pela metade a Característica de Movimento de um modelo com esta Habilidade quando ele se levantar. |
@@ -2457,7 +2457,7 @@ Nesta etapa, você tem a chance de explorar o território sobre o qual a campanh
 | 9 | **Sobrevivente:** Você encontra um soldado cambaleando na Terra de Ninguém. Adicione o modelo listado para sua Facção a seu Bando sem Equipamento de Batalha. |
 | 10 | **Soldado Caído:** Escolha 1 Arma a Distância das Tabelas de Armaria que valha até 15 👑, e adicione ao Arsenal junto com um Capacete de Combate é Armadura Padrão. Role um D6: em 4+, adicione um Kit Médico, Kit de Montanhismo ou uma Pá. |
 | 11 | **Comerciante de Trincheira:** Escolha: Relatorio (seu Bando ganha 2 ☼); Comerciar (de agora em diante, pode comprar Itens de Glória que custem 5 ☼ ou menos). |
-| 14 | **Bolsa de Mapas e Documentos:** Suo Bando ganha a Habilidade de Exploração Rerolar. |
+| 14 | **Bolsa de Mapas e Documentos:** Seu Bando ganha a Habilidade de Exploração Rerolar. |
 | 16 | **Toca do Franco-Atirador:** Adicione o Equipamento de Batalha listado para sua Facção ao Arsenal. |
 | 18 | **Cavaleiro Caído:** Escolha: Saquear (adicione Armadura Reforçada, Escudo de Trincheira, Capacete de Combate é Espada ou Arma de Haste ao Arsenal); Memorial (seu Bando ganha 2 ☼). |
 | 20 | **Cofre de Bando:** Escolha: Tesouro (escolha Equipamento de Batalha que valha até 120 👑 no total); Panoplia (escolha Itens de Glória que valham até 9 ☼ no total, com desconto de 1 ☼ em Armas). |
@@ -2467,7 +2467,7 @@ Nesta etapa, você tem a chance de explorar o território sobre o qual a campanh
 | Rolagem | Local |
 |---------|-------|
 | 5 | **Instrumento Angélico:** Adicione um Instrumento Angélico ao Arsenal. Funciona como um Instrumento Musical, mas com alcance de 8" em vez de 4". |
-| 9 | **Posto de Radio Profético Abandonado:** Suo Bando ganha a Habilidade de Exploração Dado Extra. |
+| 9 | **Posto de Radio Profético Abandonado:** Seu Bando ganha a Habilidade de Exploração Dado Extra. |
 | 11 | **Pote de Mana:** Adicione 10 👑 a quantidade de saque que você recebe a cada Etapa de Exploração. |
 | 12 | **Oficina de Alquimista Saqueada:** Adicione Fluidos Curativos ao Arsenal. Uma vez, remova 1 Cicatriz de Batalha de um modelo. |
 | 15 | **Mercado Negro:** De agora em diante, pode comprar Itens de Glória que custem 8 ☼ ou menos. |
@@ -2484,7 +2484,7 @@ Nesta etapa, você tem a chance de explorar o território sobre o qual a campanh
 |---------|-------|
 | 6 | **Campo de Batalha de Cadáveres:** Escolha até 2 peças de Equipamento de Batalha que valham até 100 👑 no total. |
 | 8 | **Biblioteca Esotérica:** Escolha: Queimar (somente Fiéis, ganhe 3+D3 ☼); Liberar Praga (somente Graal Negro); Vender (ganhe 6D6x10 👑); Estudar (somente Corte ou Legiões Heréticas). |
-| 10 | **Passagens Escondidas:** Suo Bando ganha a Habilidade de Exploração Duplicar. |
+| 10 | **Passagens Escondidas:** Seu Bando ganha a Habilidade de Exploração Duplicar. |
 | 12 | **Livro Alquímico Jabireano:** Escolha: Guardar (pode comprar Escudos de Fogo); Vender (ganhe 150 👑 ou 5 ☼); Estudar (somente Casa da Sabedoria, Formulas custam 5 👑 a menos). |
 | 14 | **Contato na Rede Negra:** De agora em diante, pode comprar Itens de Glória que custem 12 ☼ ou menos. |
 | 16 | **Tesouro dos Santos:** Você marca D3 Pontos de Vitória de Campanha e pode adicionar 1 Item de Glória ao Arsenal de graça. |
@@ -2625,7 +2625,7 @@ O livro de regras inclui os seguintes cenários:
 |--------|---------|
 | I | Reclamar a Terra de Ninguém |
 | II | Caça aos Heróis |
-| III | Caça a Relíquia |
+| III | Caça à Relíquia |
 | IV | Guerra de Trincheiras |
 | V | Trem Blindado |
 | VI | Caça ao Dragão |
@@ -2723,7 +2723,7 @@ Cada cenário tem um conjunto único de Feitos Gloriosos que, quando completados
 - **Senhor da Guerra:** Um modelo amigo coloca dois modelos inimigos Fora de Ação com Ataques Corpo a Corpo em um único Turno.
 - **Resistir e Morder:** Um modelo amigo que iniciou sua Ativação Derrubado coloca um modelo inimigo Fora de Ação na mesma Ativação.
 - **Franco-Atirador:** Um modelo amigo coloca um modelo ELITE inimigo Fora de Ação com um Ataque a Distância que tenha os modificadores de Longo Alcance e Cobertura.
-- **Bravura Suicida:** Um modelo amigo carrega com sucesso dois modelos com o mesmo movimento de carga.
+- **Bravura Suicida:** Um modelo amigo carrega com sucesso dois modelos com o mesmo movimento de investida.
 
 ---
 
@@ -2755,13 +2755,13 @@ Cada cenário tem um conjunto único de Feitos Gloriosos que, quando completados
 **Feitos Gloriosos:**
 - **Atirador de Elite:** Modelo amigo em cobertura coloca ELITE inimigo Fora de Ação com Ataque a Distância em Longo Alcance.
 - **Queda Perigosa:** Modelo amigo faz inimigo Cair em cratera.
-- **Morte Vinda de Cima:** Modelo amigo coloca inimigo Fora de Ação com Carga Mergulhante.
+- **Morte Vinda de Cima:** Modelo amigo coloca inimigo Fora de Ação com Investida Mergulhante.
 - **Alto Risco, Alta Recompensa:** Ativo coloca Alvo inimigo Fora de Ação.
 - **Mate Seus Líderes:** Colocar todos os Alvos inimigos Fora de Ação.
 
 ---
 
-# III. Caça a Relíquia
+# III. Caça à Relíquia
 
 *Encontre e assegure relíquias sagradas para a glória de seu Patrono.*
 
@@ -2970,7 +2970,7 @@ Se a Besta despertar, todos os modelos ficam Fora de Ação é a partida termina
 - 2 PVs extras pelo Feito Invasor de Trincheiras.
 
 **Feitos Gloriosos:**
-- **Morte Vinda de Cima:** Modelo amigo coloca inimigo Fora de Ação com Carga Mergulhante.
+- **Morte Vinda de Cima:** Modelo amigo coloca inimigo Fora de Ação com Investida Mergulhante.
 - **Caçador de Elites:** Modelo amigo coloca dois ELITES inimigos Fora de Ação.
 - **Sem Escapatoria:** Modelo amigo carrega com sucesso inimigo que não estava em sua Linha de Visão no início da Ativação.
 - **Vingança Pessoal:** Modelo amigo usa Banho de Sangue para colocar Fora de Ação inimigo que havia colocado um modelo amigo Fora de Ação anteriormente.
@@ -3026,7 +3026,7 @@ Se a Besta despertar, todos os modelos ficam Fora de Ação é a partida termina
 **Duração:** 5 Turnos.
 
 **Pontos de Vitória:**
-- 1 PV cada vez que modelo amigo coloca inimigo Fora de Ação com Carga Mergulhante.
+- 1 PV cada vez que modelo amigo coloca inimigo Fora de Ação com Investida Mergulhante.
 - 2 PVs por Objetivo controlado ao final de cada Turno.
 - 1 PV por Feito Glorioso.
 - 3 PVs por controlar o Objetivo Prioritario do oponente.
@@ -3034,7 +3034,7 @@ Se a Besta despertar, todos os modelos ficam Fora de Ação é a partida termina
 
 **Feitos Gloriosos:**
 - **De Volta a Lama:** Modelo amigo faz inimigo em Objetivo Cair, resultando em Fora de Ação.
-- **Morte Vinda de Cima:** Modelo amigo coloca inimigo Fora de Ação com Carga Mergulhante.
+- **Morte Vinda de Cima:** Modelo amigo coloca inimigo Fora de Ação com Investida Mergulhante.
 - **Abaixo com Você:** Modelo amigo em Objetivo usa Ataque a Distância para colocar inimigo em Objetivo diferente é mais alto Fora de Ação.
 - **Vitória ou Morte:** Bando vence a partida (somente campanha).
 - **Rei da Colina:** Modelo esteve em todos os cinco Objetivos.

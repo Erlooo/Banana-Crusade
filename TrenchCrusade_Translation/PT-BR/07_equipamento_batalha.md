@@ -364,15 +364,15 @@ Desenvolvido na desesperada fronteira de batalha finlandesa contra demônios de 
 
 *Fogo Líquido:* Se o Teste de Sucesso para um Ataque a Distância feito com um Coquetel Molotov for um Sucesso Crítico, então a Rolagem de Ferimento para o ataque tem a Palavra-Chave IGNORAR ARMADURA.
 
-### Carga Explosiva
+### Investida Explosiva
 
 Explosivos de campo projetados para destruir fortificações inimigas e romper até a mais resistente das armaduras.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
-| Granada | 6" | +1 DADO DE FERIMENTO, EXPLOSÃO 3", CONSUMIVEL, PESADO, IGNORAR ARMADURA, IGNORAR COBERTURA, DISPERSÃO |
+| Granada | 6" | +1 DADO DE FERIMENTO, EXPLOSÃO 3", CONSUMÍVEL, PESADO, IGNORAR ARMADURA, IGNORAR COBERTURA, DISPERSÃO |
 
-*Explosivo Pesado:* Uma vez durante uma partida, um modelo com uma Carga Explosiva pode usa-la para fazer um Ataque a Distância.
+*Explosivo Pesado:* Uma vez durante uma partida, um modelo com uma Investida Explosiva pode usa-la para fazer um Ataque a Distância.
 
 ---
 
@@ -422,7 +422,7 @@ A tecnologia avançada de armadura forçou as armarias da Grande Guerra a forjar
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
-| Equipamento | - | MUNIÇÃO (PERFURA ARMADURA), CONSUMIVEL |
+| Equipamento | - | MUNIÇÃO (PERFURA ARMADURA), CONSUMÍVEL |
 
 ### Binóculos
 
@@ -440,7 +440,7 @@ Pequenos ícones de santos, grandes anjos e guerreiros sagrados são uma visão 
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
-| Equipamento | - | CONSUMIVEL |
+| Equipamento | - | CONSUMÍVEL |
 
 *Talismã:* Uma vez durante uma partida, quando um Teste de Sucesso Arriscado para um modelo com um Ícone Abençoado for uma Falha, você pode dizer que o modelo usará seu Talismã. Se fizer isso, a Ativação do modelo não termina.
 
@@ -458,7 +458,7 @@ Essas balas de ponta oca são muito mais propensas a causar ferimentos fatais do
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
-| Equipamento | - | MUNIÇÃO (CRÍTICO), CONSUMIVEL |
+| Equipamento | - | MUNIÇÃO (CRÍTICO), CONSUMÍVEL |
 
 ### Santuário de Campo
 
@@ -466,7 +466,7 @@ Relicários sagrados, artefatos abençoados e cruzes sagradas são frequentement
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
-| Equipamento | - | POSICIONAVEL |
+| Equipamento | - | POSICIONÁVEL |
 
 Um Santuário de Campo é representado por uma peça de terreno que tenha pelo menos 1/2" de altura e que esteja montada em uma base de 40mm. É Terreno Intransponível.
 
@@ -506,7 +506,7 @@ Desenvolvida por Aym, o grande duque do Inferno, essas balas incendeiam qualquer
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
-| Equipamento | - | MUNIÇÃO (FOGO), CONSUMIVEL |
+| Equipamento | - | MUNIÇÃO (FOGO), CONSUMÍVEL |
 
 ### Marca Infernal
 
@@ -522,7 +522,7 @@ Pílulas de martírio são uma mistura potente de drogas e químicos que alteram
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
-| Equipamento | - | CONSUMIVEL |
+| Equipamento | - | CONSUMÍVEL |
 
 *Insensível a Dor:* Quando você posiciona um modelo que possua Pílulas de Martírio, você pode dizer que ele as consumirá. Se fizer isso, até o final da partida o modelo tem a Palavra-Chave NEGAR MEDO. Além disso, adicione -1 DADO DE FERIMENTO a rolagens para ataques que acertem o modelo.
 
@@ -574,7 +574,7 @@ Balas traçantes permitem que soldados ajustem sua mira eficientemente.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
-| Equipamento | - | MUNIÇÃO (+1 DADO), CONSUMIVEL |
+| Equipamento | - | MUNIÇÃO (+1 DADO), CONSUMÍVEL |
 
 ### Bandeira de Tropa
 
@@ -598,6 +598,6 @@ Muitos Soldados Heréticos carregam um talismã ou amuleto que são vendidos por
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
-| Equipamento | - | CONSUMIVEL |
+| Equipamento | - | CONSUMÍVEL |
 
 *Talismã:* Uma vez durante uma partida, quando um Teste de Sucesso Arriscado para um modelo com um Amuleto Profano for uma Falha, você pode dizer que o modelo o usará. Se fizer isso, a Ativação do modelo não termina.

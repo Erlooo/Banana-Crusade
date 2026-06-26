@@ -31,7 +31,7 @@ Referência canônica de tradução para criação de conteúdo homebrew. Todos 
 | GOLEM | GOLEM | Imune a MEDO, Veneno e GÁS. Sem Rolagem de Trauma. |
 | INFILTRATOR | INFILTRADOR | Pode ser colocado em qualquer ponto do campo antes da partida. |
 | SKIRMISHER | ESCARAMUÇADOR | Move e atira sem penalidade. Recua do corpo a corpo sem ataque gratuito. |
-| ASSAULT | ASSALTO | Move e atira na mesma ativação. Pode atirar após Carga. |
+| ASSAULT | ASSALTO | Move e atira na mesma ativação. Pode atirar após Investida. |
 | DEADLY | LETAL | Em Crítico, adiciona +1 dado extra à Rolagem de Ferimento. |
 | REGENERATE | REGENERAR | Remove 1 Marcador de Sangue no início de cada ativação. |
 | HEAVY | PESADO | Requer FORTE para usar sem penalidade; senão, -1 ação por turno. |
@@ -326,7 +326,7 @@ Referência canônica de tradução para criação de conteúdo homebrew. Todos 
 | Gás Mask | Máscara de Gás |
 | Holy Relic | Relíquia Sagrada |
 | Iron Idol | Ídolo de Ferro |
-| Satchel Charge | Carga Explosiva |
+| Satchel Charge | Investida Explosiva |
 | Sniper Scope | Mira de Precisão |
 | Stimulants | Estimulantes |
 | Trench Map | Mapa de Trincheiras |

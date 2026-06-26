@@ -16,7 +16,7 @@ O livro de regras inclui os seguintes cenários:
 |--------|---------|
 | I | Reclamar a Terra de Ninguem |
 | II | Caça aos Heróis |
-| III | Caça a Relíquia |
+| III | Caça à Relíquia |
 | IV | Guerra de Trincheiras |
 | V | Trem Blindado |
 | VI | Caça ao Dragão |
@@ -114,7 +114,7 @@ Cada cenário tem um conjunto único de Feitos Gloriosos que, quando completados
 - **Senhor da Guerra:** Um modelo amigo coloca dois modelos inimigos Fora de Ação com Ataques Corpo a Corpo em um único Turno.
 - **Resistir e Morder:** Um modelo amigo que iniciou sua Ativação Derrubado coloca um modelo inimigo Fora de Ação na mesma Ativação.
 - **Franco-Atirador:** Um modelo amigo coloca um modelo ELITE inimigo Fora de Ação com um Ataque a Distância que tenha os modificadores de Longo Alcance e Cobertura.
-- **Bravura Suicida:** Um modelo amigo carrega com sucesso dois modelos com o mesmo movimento de carga.
+- **Bravura Suicida:** Um modelo amigo carrega com sucesso dois modelos com o mesmo movimento de investida.
 
 ---
 
@@ -146,13 +146,13 @@ Cada cenário tem um conjunto único de Feitos Gloriosos que, quando completados
 **Feitos Gloriosos:**
 - **Atirador de Elite:** Modelo amigo em cobertura coloca ELITE inimigo Fora de Ação com Ataque a Distância em Longo Alcance.
 - **Queda Perigosa:** Modelo amigo faz inimigo Cair em cratera.
-- **Morte Vinda de Cima:** Modelo amigo coloca inimigo Fora de Ação com Carga Mergulhante.
+- **Morte Vinda de Cima:** Modelo amigo coloca inimigo Fora de Ação com Investida Mergulhante.
 - **Alto Risco, Alta Recompensa:** Ativo coloca Alvo inimigo Fora de Ação.
 - **Mate Seus Líderes:** Colocar todos os Alvos inimigos Fora de Ação.
 
 ---
 
-# III. Caça a Relíquia
+# III. Caça à Relíquia
 
 *Encontre e assegure relíquias sagradas para a glória de seu Patrono.*
 
@@ -361,7 +361,7 @@ Se a Besta despertar, todos os modelos ficam Fora de Ação e a partida termina 
 - 2 PVs extras pelo Feito Invasor de Trincheiras.
 
 **Feitos Gloriosos:**
-- **Morte Vinda de Cima:** Modelo amigo coloca inimigo Fora de Ação com Carga Mergulhante.
+- **Morte Vinda de Cima:** Modelo amigo coloca inimigo Fora de Ação com Investida Mergulhante.
 - **Caçador de Elites:** Modelo amigo coloca dois ELITES inimigos Fora de Ação.
 - **Sem Escapatoria:** Modelo amigo carrega com sucesso inimigo que não estava em sua Linha de Visão no início da Ativação.
 - **Vinganca Pessoal:** Modelo amigo usa Banho de Sangue para colocar Fora de Ação inimigo que havia colocado um modelo amigo Fora de Ação anteriormente.
@@ -417,7 +417,7 @@ Se a Besta despertar, todos os modelos ficam Fora de Ação e a partida termina 
 **Duração:** 5 Turnos.
 
 **Pontos de Vitória:**
-- 1 PV cada vez que modelo amigo coloca inimigo Fora de Ação com Carga Mergulhante.
+- 1 PV cada vez que modelo amigo coloca inimigo Fora de Ação com Investida Mergulhante.
 - 2 PVs por Objetivo controlado ao final de cada Turno.
 - 1 PV por Feito Glorioso.
 - 3 PVs por controlar o Objetivo Prioritario do oponente.
@@ -425,7 +425,7 @@ Se a Besta despertar, todos os modelos ficam Fora de Ação e a partida termina 
 
 **Feitos Gloriosos:**
 - **De Volta a Lama:** Modelo amigo faz inimigo em Objetivo Cair, resultando em Fora de Ação.
-- **Morte Vinda de Cima:** Modelo amigo coloca inimigo Fora de Ação com Carga Mergulhante.
+- **Morte Vinda de Cima:** Modelo amigo coloca inimigo Fora de Ação com Investida Mergulhante.
 - **Abaixo com Você:** Modelo amigo em Objetivo usa Ataque a Distância para colocar inimigo em Objetivo diferente e mais alto Fora de Ação.
 - **Vitória ou Morte:** Bando vence a partida (somente campanha).
 - **Rei da Colina:** Modelo esteve em todos os cinco Objetivos.

@@ -64,7 +64,7 @@ MARCADORES DE SANGUE são colocados em modelos que sofrem um ferimento (ver MARC
 ### GOLPE VARRENTE(X) (Efeito)
 Quando você realiza uma AÇÃO de Lutar e escolhe uma Arma com esta Palavra-Chave para fazer um Ataque Corpo a Corpo, você pode fazer um número de Ataques Corpo a Corpo com esta Arma igual a X, um após o outro. Os ataques podem ter como alvo modelos inimigos diferentes, se desejado. Resolva cada ataque um de cada vez usando os passos 2 a 4 da Sequência de Ataque Corpo a Corpo. Quaisquer MARCADORES DE SANGUE ou MARCADORES DE BÊNÇÃO gastos modificam apenas a Rolagem de Ferimento para o Ataque Corpo a Corpo em que foram gastos.
 
-### CONSUMIVEL (Efeito)
+### CONSUMÍVEL (Efeito)
 Em uma campanha (ver Regras de Campanha), Equipamento de Batalha com esta Palavra-Chave é perdido ao final de uma partida em que for usado.
 
 ### COBERTURA (Efeito)
@@ -85,7 +85,7 @@ Quando você faz uma Rolagem de Ferimento para um ataque feito com uma arma com 
 ### DEMONÍACO (Efeito)
 Um modelo com esta Palavra-Chave tem a Palavra-Chave NEGAR FOGO.
 
-### POSICIONAVEL (Etiqueta)
+### POSICIONÁVEL (Etiqueta)
 Equipamento de Batalha que é representado por um modelo ou peça de terreno que pode ser montado durante a partida.
 
 ### TERRENO DIFÍCIL (Efeito)
@@ -107,7 +107,7 @@ Um modelo com esta Palavra-Chave faz parte de um grupo de 2 modelos, ambos os qu
 Quando uma Arma com esta Palavra-Chave e usada para fazer um Ataque a Distância, ele e automaticamente um Sucesso. Não faça um Teste de Sucesso para o ataque. Note que isso significa que o ataque não pode alcançar um Sucesso Crítico.
 
 ### VOADOR (Efeito)
-Quando você faz um movimento, movimento de recuo ou movimento de carga com um modelo com esta Palavra-Chave, você pode medir o caminho no qual ele viaja "pelo ar". Ele deve terminar o movimento no campo de batalha ou em uma peça de terreno. Você ainda deve fazer um Teste de Sucesso Arriscado para o modelo se ele for Ativado ou terminar seu movimento em Terreno Perigoso, e ele não pode terminar seu movimento em Terreno Intransponível. Além disso, não faça uma Rolagem de Ferimento se um modelo com esta Palavra-Chave Cair.
+Quando você faz um movimento, movimento de recuo ou movimento de investida com um modelo com esta Palavra-Chave, você pode medir o caminho no qual ele viaja "pelo ar". Ele deve terminar o movimento no campo de batalha ou em uma peça de terreno. Você ainda deve fazer um Teste de Sucesso Arriscado para o modelo se ele for Ativado ou terminar seu movimento em Terreno Perigoso, e ele não pode terminar seu movimento em Terreno Intransponível. Além disso, não faça uma Rolagem de Ferimento se um modelo com esta Palavra-Chave Cair.
 
 ### GÁS (Efeito)
 Após fazer a Rolagem de Ferimento para uma Arma com esta Palavra-Chave, coloque 1 MARCADOR DE SANGUE extra ao lado do modelo alvo, mesmo se o resultado for Sem Efeito.
@@ -116,7 +116,7 @@ Após fazer a Rolagem de Ferimento para uma Arma com esta Palavra-Chave, coloque
 Um modelo com esta Palavra-Chave trata um resultado Fora de Ação da Tabela de Rolagem de Ferimento como um resultado Derrubado, a menos que o resultado tenha sido causado por uma Rolagem de Banho de Sangue. Além disso, você não pode remover MARCADORES DE SANGUE de um modelo amigo com esta Palavra-Chave (o jogador adversário pode usa-los normalmente). Finalmente, um modelo com esta Palavra-Chave tem as Palavras-Chave NEGAR MEDO e NEGAR GÁS, mas não pode ter a Palavra-Chave RESISTENTE.
 
 ### PESADO (Efeito)
-Um modelo não pode ser equipado com mais de uma peça de Equipamento de Batalha com esta Palavra-Chave e não recebe Bônus de Investida quando faz um movimento de carga. Além disso, se uma Arma a Distância ou Granada tiver esta Palavra-Chave, você não pode usar a Arma ou Granada para fazer um Ataque a Distância e realizar uma AÇÃO de Mover, Investir ou Recuar, ou Correr com o modelo atacante como parte da mesma Ativação.
+Um modelo não pode ser equipado com mais de uma peça de Equipamento de Batalha com esta Palavra-Chave e não recebe Bônus de Investida quando faz um movimento de investida. Além disso, se uma Arma a Distância ou Granada tiver esta Palavra-Chave, você não pode usar a Arma ou Granada para fazer um Ataque a Distância e realizar uma AÇÃO de Mover, Investir ou Recuar, ou Correr com o modelo atacante como parte da mesma Ativação.
 
 ### SEGURADO (Efeito)
 Uma peça de Equipamento de Batalha com esta Palavra-Chave requer uma mão para carregar e não pode ser largada. Por causa disso, um modelo que tenha esta Palavra-Chave só pode ser equipado com ou usar uma Arma de 1 Mão ou um Escudo. Ele não pode ser equipado com ou usar quaisquer Armas de 2 Mãos, ou tanto uma Arma quanto um Escudo (mesmo se o Escudo tiver a regra Combo de Escudo). Ele ainda pode carregar Granadas.
@@ -179,7 +179,7 @@ Adicione -1 DADO DE FERIMENTO a rolagens para ataques feitos em Longo Alcance co
 Após fazer a Rolagem de Ferimento para uma Arma com esta Palavra-Chave, coloque 1 MARCADOR DE SANGUE extra ao lado do modelo alvo, mesmo se o resultado for Sem Efeito.
 
 ### ESCARAMUÇADOR (Efeito)
-Se um inimigo selecionar um modelo com esta Palavra-Chave como alvo de uma Carga, você pode escolher evadir com seu modelo antes que a Carga seja feita, desde que seu modelo não esteja dentro de 1" de um inimigo. Quando um modelo evade, role um D3 e mova o modelo essa quantidade de polegadas. Ele deve terminar este movimento a mais de 1" de todos os modelos inimigos. Se este movimento resultar em haver um modelo interposto entre o modelo evadindo e o modelo que está fazendo a investida, então o modelo carregando deve escolher o modelo interposto como alvo para sua investida.
+Se um inimigo selecionar um modelo com esta Palavra-Chave como alvo de uma Investida, você pode escolher evadir com seu modelo antes que a Investida seja feita, desde que seu modelo não esteja dentro de 1" de um inimigo. Quando um modelo evade, role um D3 e mova o modelo essa quantidade de polegadas. Ele deve terminar este movimento a mais de 1" de todos os modelos inimigos. Se este movimento resultar em haver um modelo interposto entre o modelo evadindo e o modelo que está fazendo a investida, então o modelo investindo deve escolher o modelo interposto como alvo para sua investida.
 
 ### FORTE (Efeito)
 Um modelo com esta Palavra-Chave tem a Palavra-Chave NEGAR PESADO. Além disso, ele pode equipar e usar uma Arma Corpo a Corpo de 2 Mãos como se fosse uma Arma Corpo a Corpo de 1 Mão.
