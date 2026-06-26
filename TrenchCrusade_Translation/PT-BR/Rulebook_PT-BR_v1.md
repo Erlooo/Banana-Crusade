@@ -1088,7 +1088,7 @@ Adicione -1 DADO a um Ataque Corpo a Corpo que tenha como alvo um modelo com est
 Após fazer o Teste de Ferimento para uma Arma com esta Palavra-Chave, coloque 1 MARCADOR DE SANGUE extra ao lado do modelo alvo, mesmo se o resultado for Sem Efeito.
 
 ### DUPLA DE FOGO (Efeito)
-Um modelo com esta Palavra-Chave faz parte de um grupo de 2 modelos, ambos os quais devem ter a Palavra-Chave DUPLA DE FOGO. Você pode criar Duplas de Fogo ao recrutar um Bando e na Etapa do Intendente. Registre quais modelos estão em Duplas de Fogo em seu Bando na sua Ficha de Bando. Você pode Ativar modelos amigos que fazem parte da mesma Dupla de Fogo simultâneamente. Se fizer isso, você pode realizar suas AÇÕES em qualquer ordem que desejar, e pode alternar entre os dois modelos livremente. No entanto, se a Ativação de qualquer membro da Dupla de Fogo terminar durante uma Ativação simultânea, ela termina imediatamente para o outro modelo também. Um modelo não pode estar em mais de 1 Dupla de Fogo.
+Um modelo com esta Palavra-Chave faz parte de um grupo de 2 modelos, ambos os quais devem ter a Palavra-Chave DUPLA DE FOGO. Você pode criar Duplas de Fogo ao recrutar um Bando e na Etapa do Intendente. Registre quais modelos estão em Duplas de Fogo em seu Bando na sua Ficha de Bando. Você pode Ativar modelos amigos que fazem parte da mesma Dupla de Fogo simultaneamente. Se fizer isso, você pode realizar suas AÇÕES em qualquer ordem que desejar, e pode alternar entre os dois modelos livremente. No entanto, se a Ativação de qualquer membro da Dupla de Fogo terminar durante uma Ativação simultânea, ela termina imediatamente para o outro modelo também. Um modelo não pode estar em mais de 1 Dupla de Fogo.
 
 ### LANÇA-CHAMAS (Efeito)
 Quando uma Arma com esta Palavra-Chave é usada para fazer um Ataque a Distância, ele é automaticamente um Sucesso. Não faça um Teste de Sucesso para o ataque. Note que isso significa que o ataque não pode alcançar um Sucesso Crítico.
@@ -1115,7 +1115,7 @@ O modelo é membro da Facção das Legiões Heréticas.
 Ignore -DADOS DE FERIMENTO e -MODIFICADORES DE FERIMENTO da Característica de Armadura do alvo, e de quaisquer peças de Equipamento de Batalha de Armadura ou Escudo que ele possua, para ataques que possuam esta Palavra-Chave.
 
 ### IGNORAR [MODIFICADOR] (Efeito)
-Ignore o modificador de Teste de Sucesso ou Teste de Ferimento que é especificado. Por exemplo, o Teste de Sucesso para um ataque feito com uma Arma a Distância que tivesse a Palavra-Chave IGNORAR COBERTURA não seria afetada pelo modificador de -1 DADO para um alvo que esteja em Cobertura.
+Ignore o modificador de Teste de Sucesso ou Teste de Ferimento que é especificado. Por exemplo, o Teste de Sucesso para um ataque feito com uma Arma a Distância que tivesse a Palavra-Chave IGNORAR COBERTURA não seria afetado pelo modificador de -1 DADO para um alvo que esteja em Cobertura.
 
 ### TERRENO INTRANSPONÍVEL (Efeito)
 Modelos não podem ser movidos para cima de ou através de terreno com esta Palavra-Chave.
@@ -1199,20 +1199,20 @@ Além do campo de batalha, você precisará do maior número de peças de terren
 
 ### Um campo de batalha improvisado
 
-Não se preocupe se você é novo em wargames de mesa e ainda não teve a chance de construir uma grande coleção de terreno. Basta usar quaisquer peças de terreno que tenha disponíveis e/ou complementa-las com itens domésticos que possam substituir peças de terreno reais. Por exemplo, você poderia usar livros para representar colinas baixas, canetas para representar muros, pedras coletadas do seu jardim ou de um parque como rochas, galhos para representar árvores caidas, e assim por diante. Colocar um cobertor grosso sobre alguns livros criará uma paisagem ondulada com colinas e ravinas para lutar. O importante e entender que é absolutamente aceitável usar o que você tiver a mão para jogar uma partida de Trench Crusade; afinal, o Senhor levou seis dias para criar tudo, então não se preocupe se levar um pouco de tempo para criar seu campo de batalha ideal!
+Não se preocupe se você é novo em wargames de mesa e ainda não teve a chance de construir uma grande coleção de terreno. Basta usar quaisquer peças de terreno que tenha disponíveis e/ou complementa-las com itens domésticos que possam substituir peças de terreno reais. Por exemplo, você poderia usar livros para representar colinas baixas, canetas para representar muros, pedras coletadas do seu jardim ou de um parque como rochas, galhos para representar árvores caídas, e assim por diante. Colocar um cobertor grosso sobre alguns livros criará uma paisagem ondulada com colinas e ravinas para lutar. O importante é entender que é absolutamente aceitável usar o que você tiver à mão para jogar uma partida de Trench Crusade; afinal, o Senhor levou seis dias para criar tudo, então não se preocupe se levar um pouco de tempo para criar seu campo de batalha ideal!
 
-Não se preocupe, muito em breve sua coleção de peças de terreno crescerá e você poderá devolver seus livros as prateleiras e suas pedras e galhos ao jardim (embora você provavelmente descubra que olha para tras com muito carinho para aquelas primeiras partidas e o terreno improvisado que usou para joga-las).
+Não se preocupe, muito em breve sua coleção de peças de terreno crescerá e você poderá devolver seus livros às prateleiras e suas pedras e galhos ao jardim (embora você provavelmente descubra que olha para trás com muito carinho para aquelas primeiras partidas e o terreno improvisado que usou para jogá-las).
 
 ---
 
 ## Terreno Padrão
 
-Uma vez que você tenha montado seu campo de batalha, e uma boa ideia discutir cada peça de terreno com seu oponente para concordar em que tipo cada uma será tratada. Como terreno pode ser representado de tantas formas diferentes, não é possível listar cada peça de terreno que você possa querer usar em uma partida. Em vez disso, criamos a seguinte lista, que cobre a grande maioria dos tipos de terreno usados em partidas de Trench Crusade. Após a lista, você encontrará explicações mais detalhadas de cada tipo:
+Uma vez que você tenha montado seu campo de batalha, é uma boa ideia discutir cada peça de terreno com seu oponente para concordar em que tipo cada uma será tratada. Como terreno pode ser representado de tantas formas diferentes, não é possível listar cada peça de terreno que você possa querer usar em uma partida. Em vez disso, criamos a seguinte lista, que cobre a grande maioria dos tipos de terreno usados em partidas de Trench Crusade. Após a lista, você encontrará explicações mais detalhadas de cada tipo:
 
 - Terreno Aberto
 - Marcos (estátuas, santuários, altares, etc.)
 - Áreas de Terreno Perigoso (pântano, arame farpado, etc.)
-- Áreas de Terreno Difícil (entulho, crateras, árvores caidas, etc.)
+- Áreas de Terreno Difícil (entulho, crateras, árvores caídas, etc.)
 - Áreas de Terreno Intransponível (lava ou fogo infernal, faces de penhascos, etc.)
 - Colinas
 - Terreno Linear (muros, sebes, etc.)
@@ -1255,7 +1255,7 @@ Uma ruína de canto consiste em dois muros em ruínas, cada um com até 6" de co
 
 ### RIOS E RIACHOS
 
-Um rio deve entrar por uma borda do campo de batalha e sair por outra. Riachos devem entrar por uma borda, e podem sair por uma borda diferente ou terminar em um pântano ou lago. Um riacho e Terreno Difícil, e um rio e Terreno Perigoso. Ambos devem incluir um ou mais pontos de travessia, como pontes ou vaus, que modelos podem tratar como Terreno Aberto.
+Um rio deve entrar por uma borda do campo de batalha e sair por outra. Riachos devem entrar por uma borda, e podem sair por uma borda diferente ou terminar em um pântano ou lago. Um riacho é Terreno Difícil, e um rio é Terreno Perigoso. Ambos devem incluir um ou mais pontos de travessia, como pontes ou vaus, que modelos podem tratar como Terreno Aberto.
 
 **Importante:** Você só pode usar um rio ou riacho em uma partida se o cenário disser que você deve fazê-lo, ou se ambos os jogadores concordarem em incluir um rio ou riacho na partida que estão prestes a jogar.
 
@@ -1267,27 +1267,27 @@ Se você planeja usar quaisquer peças de terreno únicas que não estejam inclu
 
 ### Terreno Disperso
 
-Terreno que é pequeno demais para ter efeito na batalha, ou que é de outra forma irrelevante, é chamado de terreno disperso. Exemplos de terreno disperso incluem árvores individuais, caixas ou caixotes, placas de sinalização, e assim por diante. Terreno disperso é puramente decorativo; qualquer quantidade pode ser adicionada ao campo de batalha, e você pode ignora-lo ou movê-lo para fora do caminho ao montar outras peças de terreno, mover modelos, fazer ataques ou verificar visibilidade.
+Terreno que é pequeno demais para ter efeito na batalha, ou que é de outra forma irrelevante, é chamado de terreno disperso. Exemplos de terreno disperso incluem árvores individuais, caixas ou caixotes, placas de sinalização, e assim por diante. Terreno disperso é puramente decorativo; qualquer quantidade pode ser adicionada ao campo de batalha, e você pode ignorá-lo ou movê-lo para fora do caminho ao montar outras peças de terreno, mover modelos, fazer ataques ou verificar visibilidade.
 
 ### Edifícios Intactos
 
-Recomendamos que você inclua apenas edifícios em ruínas em seus jogos, pois são muito mais práticos de usar durante uma partida. No entanto, se desejar, pode usar edifícios intactos como grandes bunkers. Se fizer isso, você deve concordar em tratá-los como Terreno Intransponível, ou precisará elaborar plantas detalhadas do interior. Quando um modelo entra em um edifício intacto, transfira-o para a planta e continue seu movimento a partir de la. Quando você usa edifícios intactos desta forma, uma certa dose de bom senso e moderação precisará ser exercida: por exemplo, você não deveria mover um modelo através de uma entrada que é pequena demais para ele, e assim por diante.
+Recomendamos que você inclua apenas edifícios em ruínas em seus jogos, pois são muito mais práticos de usar durante uma partida. No entanto, se desejar, pode usar edifícios intactos como grandes bunkers. Se fizer isso, você deve concordar em tratá-los como Terreno Intransponível, ou precisará elaborar plantas detalhadas do interior. Quando um modelo entra em um edifício intacto, transfira-o para a planta e continue seu movimento a partir de lá. Quando você usa edifícios intactos desta forma, uma certa dose de bom senso e moderação precisará ser exercida: por exemplo, você não deveria mover um modelo através de uma entrada que é pequena demais para ele, e assim por diante.
 
 ### Mesas de Jogo de Trench Crusade
 
-Para fazer uma mesa de jogo, basta comprar uma peça de MDF, aglomerado ou compensado naval que tenha 48" quadrados. MDF, aglomerado e compensado frequentemente vem em chapas de 8' por 4', caso em que você simplesmente precisa pedir ao fornecedor para cortar a chapa ao meio, dando-lhe duas mesas para jogar. Sua nova mesa de jogo pode então ser colocada diretamente em sua mesa de jantar, embora você possa querer colocar uma toalha de mesa na mesa para evitar arranhões. Você pode jogar na mesa de madeira simples coberta com um cobertor, ou pinta-la com uma combinação de tintas marrom e verde para representar os campos lamacentos onde as batalhas de Trench Crusade são travadas. Alguns jogadores levam isso adiante colando placa de espuma de 2" na mesa de jogo é depois esculpindo trincheiras e crateras na espuma. Alguns exemplos do que pode ser alcançado são mostrados ao longo deste livro.
+Para fazer uma mesa de jogo, basta comprar uma peça de MDF, aglomerado ou compensado naval que tenha 48" quadrados. MDF, aglomerado e compensado frequentemente vem em chapas de 8' por 4', caso em que você simplesmente precisa pedir ao fornecedor para cortar a chapa ao meio, dando-lhe duas mesas para jogar. Sua nova mesa de jogo pode então ser colocada diretamente em sua mesa de jantar, embora você possa querer colocar uma toalha de mesa na mesa para evitar arranhões. Você pode jogar na mesa de madeira simples coberta com um cobertor, ou pinta-la com uma combinação de tintas marrom e verde para representar os campos lamacentos onde as batalhas de Trench Crusade são travadas. Alguns jogadores levam isso adiante colando placa de espuma de 2" na mesa de jogo e depois esculpindo trincheiras e crateras na espuma. Alguns exemplos do que pode ser alcançado são mostrados ao longo deste livro.
 
 ---
 
 ## Arquétipos de Campo de Batalha
 
-Partidas de Trench Crusade são travadas em todos os tipos de terreno, das passagens de montanha mais altas as profundezas subterraneas sombrias, mas para os propósitos dos cenários neste livro de regras, nos focamos em três arquétipos de campo de batalha: Terra de Ninguém, Ruínas Decimadas e (claro) Linhas de Trincheira. O cenário que você está usando para a partida explicará claramente que tipo de arquétipo de campo de batalha deve ser usado. O terreno para o cenário pode então ser montado usando as instruções abaixo.
+Partidas de Trench Crusade são travadas em todos os tipos de terreno, das passagens de montanha mais altas às profundezas subterrâneas sombrias, mas para os propósitos dos cenários neste livro de regras, nos focamos em três arquétipos de campo de batalha: Terra de Ninguém, Ruínas Decimadas e (claro) Linhas de Trincheira. O cenário que você está usando para a partida explicará claramente que tipo de arquétipo de campo de batalha deve ser usado. O terreno para o cenário pode então ser montado usando as instruções abaixo.
 
 ---
 
 ### TERRA DE NINGUÉM
 
-Terra de Ninguém é a área que se encontra entre os sistemas de trincheiras da Grande Guerra. É um lugar desolado e mortal, cruzado por fogo de metralhadoras e artilharia, e com apenas ocasionais edifícios em ruínas, crateras, árvores caidas, tanques ou canhões destruídos e santuários castigados para fornecer cobertura. Isso o torna um lugar perigoso para entrar durante o dia, então muitas batalhas que ocorrem na Terra de Ninguém serão ataques noturnos onde a cobertura da escuridão pode ser usada para fornecer alguma medida de proteção contra fogo inimigo de longo alcance.
+Terra de Ninguém é a área que se encontra entre os sistemas de trincheiras da Grande Guerra. É um lugar desolado e mortal, cruzado por fogo de metralhadoras e artilharia, e com apenas ocasionais edifícios em ruínas, crateras, árvores caídas, tanques ou canhões destruídos e santuários castigados para fornecer cobertura. Isso o torna um lugar perigoso para entrar durante o dia, então muitas batalhas que ocorrem na Terra de Ninguém serão ataques noturnos onde a cobertura da escuridão pode ser usada para fornecer alguma medida de proteção contra fogo inimigo de longo alcance.
 
 **Peças de Terreno da Terra de Ninguém**
 
@@ -1298,7 +1298,7 @@ Os jogadores fazem um desempate (ver Desempate), é o vencedor monta o terreno p
 - Ruínas de Canto
 - Colinas
 - Áreas de Terreno Perigoso (arame farpado, terreno pantanoso, etc.)
-- Áreas de Terreno Difícil (crateras, entulho, árvores caidas, etc.)
+- Áreas de Terreno Difícil (crateras, entulho, árvores caídas, etc.)
 - Marcos (estátuas, santuários, altares, etc.)
 
 **Número de Peças de Terreno**
