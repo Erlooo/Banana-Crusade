@@ -111,7 +111,7 @@ Referência canônica de tradução para criação de conteúdo homebrew. Todos 
 | Activation | Ativação | Momento em que um modelo age durante a Fase de Ativação. |
 | Move | Mover | O modelo se move até M" em qualquer direção. |
 | Dash | Correr | Move até 2×M" mas não pode atacar neste turno. |
-| Charge | Carregar | Move em direção a um inimigo e entra em corpo a corpo. |
+| Charge | Investir | Move em direção a um inimigo e entra em corpo a corpo. |
 | Retreat | Recuar | Sai do corpo a corpo; o oponente recebe um ataque gratuito. |
 | Shoot | Atirar | Realiza ataque à distância com arma equipada. |
 | Fight | Lutar | Realiza ataque corpo a corpo contra modelo em contato. |

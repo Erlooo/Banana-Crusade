@@ -119,14 +119,14 @@ Ter Mammon como seu Patrono permite que você adquira as seguintes Habilidades:
 
 ### ANTIPAPA DE AVIGNON
 
-*Somente Graal Negro.* Seu Patrono e o Antipapa de Avignon, o sumo sacerdote do Culto do Graal Negro. Enquanto a maioria das cepas do Graal Negro infecta o corpo, a variante espalhada pelos Missionarios de Belzebu atinge a mente acima de tudo.
+*Somente Graal Negro.* Seu Patrono e o Antipapa de Avignon, o sumo sacerdote do Culto do Graal Negro. Enquanto a maioria das cepas do Graal Negro infecta o corpo, a variante espalhada pelos Missionários de Belzebu atinge a mente acima de tudo.
 
 Ter o Antipapa de Avignon como seu Patrono permite que você adquira as seguintes Habilidades:
 
-- **Sabedoria de Belzebu:** Infestado pelo Graal Negro, a cabeça deste guerreiro está distendida e matéria líquida escorre de seus muitos orifícios trepanados; é uma visão tão repugnante que guerreiros inimigos frequentemente hesitam em se aproximar da criatura repulsiva. Se um modelo com esta Habilidade for escolhido por um modelo inimigo como alvo de uma carga, o modelo inimigo não recebe Bônus de Carga e deve fazer a carga usando apenas sua Característica de Movimento.
+- **Sabedoria de Belzebu:** Infestado pelo Graal Negro, a cabeça deste guerreiro está distendida e matéria líquida escorre de seus muitos orifícios trepanados; é uma visão tão repugnante que guerreiros inimigos frequentemente hesitam em se aproximar da criatura repulsiva. Se um modelo com esta Habilidade for escolhido por um modelo inimigo como alvo de uma investida, o modelo inimigo não recebe Bônus de Investida e deve fazer a investida usando apenas sua Característica de Movimento.
 - **Olho de Belzebu AÇÃO:** Um modelo com esta Habilidade pode realizar uma AÇÃO de Olho de Belzebu. Se fizer isso, faça uma Rolagem de Sucesso. Se a rolagem for uma Falha, nada acontece. Se for um Sucesso ou Sucesso Crítico, escolha um modelo inimigo que esteja dentro de 24" do modelo, em Cobertura, e que não esteja dentro de 1" de quaisquer modelos de seu Bando. Seu oponente deve então mover aquele modelo 1", de forma que ainda esteja na Linha de Visão do modelo realizando a AÇÃO, mas não esteja mais em Cobertura, e que esteja a mais de 1" de quaisquer modelos de seu Bando. Se isso for impossível, o modelo inimigo não é movido.
 - **Banquetear na Doença:** Se o alvo de um Ataque Corpo a Corpo feito por um modelo com esta Habilidade tiver 1 ou mais MARCADORES DE INFECÇÃO, então custa 1 MARCADOR DE SANGUE ou MARCADOR DE INFECÇÃO a menos para converter uma Rolagem de Ferimento em uma Rolagem de Banho de Sangue.
-- **Infectar a Mente:** No início de cada partida, após o posicionamento, para cada modelo com esta Habilidade que esteja no campo de batalha, você pode escolher um modelo inimigo e move-lo 6" da mesma forma como se estivesse realizando uma AÇÃO de Mover (ele não pode Carregar).
+- **Infectar a Mente:** No início de cada partida, após o posicionamento, para cada modelo com esta Habilidade que esteja no campo de batalha, você pode escolher um modelo inimigo e move-lo 6" da mesma forma como se estivesse realizando uma AÇÃO de Mover (ele não pode Investir).
 - **Lingua de Prata AÇÃO:** Um modelo com esta Habilidade pode realizar uma AÇÃO de Lingua de Prata. Se fizer isso, faça uma Rolagem de Sucesso. Se a rolagem for uma Falha, nada acontece. Se for um Sucesso ou Sucesso Crítico, escolha um modelo inimigo que esteja dentro de 1" do modelo. O modelo escolhido deve fazer um Ataque Corpo a Corpo contra si mesmo. Se o modelo inimigo tiver mais de 1 Arma Corpo a Corpo, você pode escolher qual ele usa. O modelo inimigo só atacara a si mesmo uma vez, mesmo que seja capaz de atacar variàs vezes.
 - **Híbrido Suíno:** Adicione 2" a Característica de Movimento de um modelo com esta Habilidade.
 
@@ -399,7 +399,7 @@ Os seguintes modelos não podem ser Promovidos ao status ELITE:
 | 6 | **Atlético:** Adicione +1 DADO a Rolagens de Sucesso Arriscadas para um modelo com esta Habilidade quando Escalar, Saltar ou fazer uma Carga Mergulhante, e adicione -1 DADO DE FERIMENTO a Rolagens de Ferimento se Cair. |
 | 7 | **Velocista:** Adicione +1 DADO a Rolagem de Sucesso Arriscada para um modelo com esta Habilidade que esteja realizando uma AÇÃO de Correr. |
 | 8 | **Desengajar:** Modelos inimigos não podem fazer um Ataque Corpo a Corpo em um modelo com esta Habilidade quando ele Recuar. |
-| 9 | **Chegando!:** Quando você rolar o Bônus de Carga para um modelo com esta Habilidade, role 1 D6 extra e use o dado individual mais alto para determinar o bônus. |
+| 9 | **Chegando!:** Quando você rolar o Bônus de Investida para um modelo com esta Habilidade, role 1 D6 extra e use o dado individual mais alto para determinar o bônus. |
 | 10 | **Ágil:** Não reduza pela metade a Característica de Movimento de um modelo com esta Habilidade quando ele se levantar. |
 | 11 | **Esquiva:** Adicione -1 DADO a rolagens para Ataques a Distância que tenham como alvo um modelo com esta Habilidade. |
 | 12 | **Habilidade de Patrono.** |

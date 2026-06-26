@@ -46,7 +46,7 @@ Ocasionalmente, será solicitado que você role um "D3". Para fazer isso, role u
 
 ### CENÁRIO
 
-Por fim, você precisará escolher um cenário para a partida que está prestes a jogar. O cenário diz como montar o terreno para o jogo, onde posicionar suas Bandos, quantos Turnos a partida durara e como o vencedor da partida e determinado. Se está e sua primeira partida, recomendamos usar o Cenário 1: Reclamar a Terra de Ninguem (ver Reclamar a Terra de Ninguem).
+Por fim, você precisará escolher um cenário para a partida que está prestes a jogar. O cenário diz como montar o terreno para o jogo, onde posicionar seus Bandos, quantos Turnos a partida durara e como o vencedor da partida e determinado. Se está e sua primeira partida, recomendamos usar o Cenário 1: Reclamar a Terra de Ninguem (ver Reclamar a Terra de Ninguem).
 
 ---
 
@@ -280,15 +280,15 @@ Quando você Ativa um modelo, pode realizar uma ou mais AÇÕES com o modelo. Vo
 
 AÇÕES comuns que todos os modelos podem realizar estão listadas abaixo. Além destas, alguns modelos podem realizar AÇÕES que são descritas em sua Entrada de Bando ou nas regras especiais de uma peça de Equipamento de Batalha ou Habilidade de Campanha que o modelo possui. Essas AÇÕES podem ser realizadas quando o modelo e Ativado em adicao a qualquer uma das AÇÕES comuns listadas abaixo, mas cada uma ainda só pode ser realizada uma vez por Ativação.
 
-**Mover ou Carregar ou Recuar:** Você pode realizar uma das seguintes AÇÕES com um modelo:
+**Mover ou Investir ou Recuar:** Você pode realizar uma das seguintes AÇÕES com um modelo:
 
-- **Mover:** Você pode mover seu modelo um número de polegadas até sua Característica de Movimento em qualquer direção (ver Movimentos). Uma AÇÃO de Mover não pode ser usada para mover um modelo para dentro de 1" de um modelo inimigo (você deve usar uma AÇÃO de Carregar em vez disso).
+- **Mover:** Você pode mover seu modelo um número de polegadas até sua Característica de Movimento em qualquer direção (ver Movimentos). Uma AÇÃO de Mover não pode ser usada para mover um modelo para dentro de 1" de um modelo inimigo (você deve usar uma AÇÃO de Investir em vez disso).
 
-- **Carregar:** Escolha um modelo inimigo que esteja na Linha de Visão do seu modelo e dentro de 12" dele como alvo da carga. Em seguida, role um dado, adicione o resultado a Característica de Movimento do seu modelo e mova seu modelo em direção ao alvo (ver Carga). Você não pode realizar uma AÇÃO de Carregar com um modelo que já esteja dentro de 1" de um modelo inimigo. Um modelo não pode realizar uma AÇÃO de Atirar e uma AÇÃO de Carregar ou Lutar na mesma Ativação, a menos que use uma Arma que tenha a Palavra-Chave ASSALTO.
+- **Investir:** Escolha um modelo inimigo que esteja na Linha de Visão do seu modelo e dentro de 12" dele como alvo da investida. Em seguida, role um dado, adicione o resultado a Característica de Movimento do seu modelo e mova seu modelo em direção ao alvo (ver Carga). Você não pode realizar uma AÇÃO de Investir com um modelo que já esteja dentro de 1" de um modelo inimigo. Um modelo não pode realizar uma AÇÃO de Atirar e uma AÇÃO de Investir ou Lutar na mesma Ativação, a menos que use uma Arma que tenha a Palavra-Chave ASSALTO.
 
 - **Recuar:** Um Recuo e um tipo especial de movimento que é usado quando um modelo está dentro de 1" de um modelo inimigo e deseja se afastar (ver Recuo).
 
-**Correr:** Você pode mover seu modelo um número de polegadas até sua Característica de Movimento em qualquer direção (ver Movimentos), mas deve fazer uma Rolagem de Sucesso Arriscada para o modelo primeiro. Se tiver sucesso, você pode mover-se com o modelo (ele não pode carregar ou recuar); se falhar, a Ativação do modelo termina. Correr pode ser realizado em adicao a, e antes ou depois de, uma AÇÃO de Mover, Carregar ou Recuar. Por exemplo, um modelo poderia Correr, depois Atirar e então Mover.
+**Correr:** Você pode mover seu modelo um número de polegadas até sua Característica de Movimento em qualquer direção (ver Movimentos), mas deve fazer uma Rolagem de Sucesso Arriscada para o modelo primeiro. Se tiver sucesso, você pode mover-se com o modelo (ele não pode carregar ou recuar); se falhar, a Ativação do modelo termina. Correr pode ser realizado em adicao a, e antes ou depois de, uma AÇÃO de Mover, Investir ou Recuar. Por exemplo, um modelo poderia Correr, depois Atirar e então Mover.
 
 **Atirar:** Está AÇÃO permite que você faça um Ataque a Distância com o modelo (ver Ataques a Distância).
 
@@ -318,31 +318,31 @@ Para mover um modelo, pegue-o e mova-o ao longo de um caminho pelo campo de bata
 
 ### CARGA
 
-Realizar uma AÇÃO de Carregar com um modelo permite que você faça um tipo especial de movimento, chamado carga, que é usado para trazer um modelo para dentro de 1" de um modelo inimigo. Você só pode se mover para dentro de 1" de um modelo inimigo (medido a partir da base de cada modelo) realizando uma AÇÃO de Carregar. Isso se aplica a todos os modelos inimigos, incluindo aqueles que estão Abatidos ou modelos inimigos que já estão dentro de 1" de um modelo amigo diferente.
+Realizar uma AÇÃO de Investir com um modelo permite que você faça um tipo especial de movimento, chamado carga, que é usado para trazer um modelo para dentro de 1" de um modelo inimigo. Você só pode se mover para dentro de 1" de um modelo inimigo (medido a partir da base de cada modelo) realizando uma AÇÃO de Investir. Isso se aplica a todos os modelos inimigos, incluindo aqueles que estão Abatidos ou modelos inimigos que já estão dentro de 1" de um modelo amigo diferente.
 
 **Declarar Carga**
 
-Após realizar uma AÇÃO de Carregar com um modelo, você deve escolher um modelo inimigo que seja visível ao seu modelo e esteja dentro de 12" dele como alvo da carga.
+Após realizar uma AÇÃO de Investir com um modelo, você deve escolher um modelo inimigo que seja visível ao seu modelo e esteja dentro de 12" dele como alvo da investida.
 
 **Modelos Inimigos Interpostos**
 
-Você não pode escolher um modelo inimigo como alvo de uma carga se a rota que ele teria que percorrer para alcançar o alvo passasse dentro de 1" de um modelo inimigo diferente antes que o modelo carregando estivesse dentro de 1" de seu alvo. Em tal situação, você deve escolher o modelo inimigo interposto como alvo da carga, ou não realizar a carga.
+Você não pode escolher um modelo inimigo como alvo de uma investida se a rota que ele teria que percorrer para alcançar o alvo passasse dentro de 1" de um modelo inimigo diferente antes que o modelo carregando estivesse dentro de 1" de seu alvo. Em tal situação, você deve escolher o modelo inimigo interposto como alvo da investida, ou não realizar a investida.
 
-**Bônus de Carga**
+**Bônus de Investida**
 
-Após selecionar o alvo, role um D6 e adicione o resultado a Característica de Movimento do modelo carregando, até um máximo de Característica de Movimento de 12". A rolagem do D6 e referida como o Bônus de Carga do modelo.
+Após selecionar o alvo, role um D6 e adicione o resultado a Característica de Movimento do modelo carregando, até um máximo de Característica de Movimento de 12". A rolagem do D6 e referida como o Bônus de Investida do modelo.
 
 **Movimentos de Carga**
 
-Após determinar o Bônus de Carga, mova o modelo carregando em direção ao alvo. Quando você fizer um movimento de carga com um modelo, as seguintes regras adicionais se aplicam ao movimento:
+Após determinar o Bônus de Investida, mova o modelo carregando em direção ao alvo. Quando você fizer um movimento de carga com um modelo, as seguintes regras adicionais se aplicam ao movimento:
 
 - O modelo deve se mover pela rota mais curta disponível que o leve diretamente ao alvo.
-- Escalar, Saltar, Pular Para Baixo ou mover-se através de terreno Perigoso e opcional durante uma carga, desde que a rota usada para evitar os obstáculos seja a mais curta possível.
+- Escalar, Saltar, Pular Para Baixo ou mover-se através de terreno Perigoso e opcional durante uma investida, desde que a rota usada para evitar os obstáculos seja a mais curta possível.
 - O modelo deve parar assim que se mover para contato com o alvo, a menos que continuar com seu movimento permita que ele permaneça em contato com o alvo e termine dentro de 1" de quaisquer outros modelos inimigos.
 
-Se após completar o movimento o modelo carregando estiver dentro de 1" do alvo, o modelo carregando e considerado como tendo completado a carga com sucesso. Se o modelo carregando não alcançar seu alvo, a carga e considerada como tendo falhado, mas o modelo carregando deve permanecer onde estava após o movimento de carga ser completado.
+Se após completar o movimento o modelo carregando estiver dentro de 1" do alvo, o modelo carregando e considerado como tendo completado a investida com sucesso. Se o modelo carregando não alcançar seu alvo, a investida e considerada como tendo falhado, mas o modelo carregando deve permanecer onde estava após o movimento de carga ser completado.
 
-Note que completar uma carga não permite automaticamente que você Lute: para fazer um Ataque Corpo a Corpo após uma carga, você precisará realizar uma AÇÃO de Lutar com o modelo, assumindo que seja permitido fazê-lo.
+Note que completar uma investida não permite automaticamente que você Lute: para fazer um Ataque Corpo a Corpo após uma investida, você precisará realizar uma AÇÃO de Lutar com o modelo, assumindo que seja permitido fazê-lo.
 
 ---
 
@@ -414,7 +414,7 @@ Quando você realiza uma AÇÃO de Atirar com um modelo, você faz um Ataque a D
 
 ### ATAQUES A DISTÂNCIA
 
-Para fazer um Ataque a Distância, um modelo deve ter uma Arma a Distância e não pode estar dentro de 1" de um modelo inimigo. Um modelo não pode usar uma AÇÃO de Atirar para fazer um Ataque a Distância se tiver usado uma AÇÃO de Carregar ou Lutar na mesma Ativação, a menos que use uma Arma a Distância que tenha a Palavra-Chave ASSALTO.
+Para fazer um Ataque a Distância, um modelo deve ter uma Arma a Distância e não pode estar dentro de 1" de um modelo inimigo. Um modelo não pode usar uma AÇÃO de Atirar para fazer um Ataque a Distância se tiver usado uma AÇÃO de Investir ou Lutar na mesma Ativação, a menos que use uma Arma a Distância que tenha a Palavra-Chave ASSALTO.
 
 **Sequência de Ataque a Distância**
 
@@ -504,7 +504,7 @@ Um modelo que tenha duas Armas Corpo a Corpo pode usar uma única AÇÃO de Luta
 
 ### CARGA MERGULHANTE
 
-Você pode converter uma carga de um modelo amigo em uma Carga Mergulhante se ele Pular Para Baixo pelo menos 3" e aterrissar dentro de 1" de um alvo. Se fizer isso, faça uma Rolagem de Sucesso Arriscada para o modelo após ele Pular Para Baixo. Se a rolagem for uma Falha, o modelo fica Abatido, e uma Rolagem de Ferimento por Queda deve então ser feita para o modelo (ver Queda). Se a rolagem for um Sucesso, você não precisa fazer uma Rolagem de Ferimento por Queda para o modelo, e pode adicionar +1 DADO a Rolagem de Sucesso para o próximo Ataque Corpo a Corpo que o modelo fizer.
+Você pode converter uma investida de um modelo amigo em uma Carga Mergulhante se ele Pular Para Baixo pelo menos 3" e aterrissar dentro de 1" de um alvo. Se fizer isso, faça uma Rolagem de Sucesso Arriscada para o modelo após ele Pular Para Baixo. Se a rolagem for uma Falha, o modelo fica Abatido, e uma Rolagem de Ferimento por Queda deve então ser feita para o modelo (ver Queda). Se a rolagem for um Sucesso, você não precisa fazer uma Rolagem de Ferimento por Queda para o modelo, e pode adicionar +1 DADO a Rolagem de Sucesso para o próximo Ataque Corpo a Corpo que o modelo fizer.
 
 ---
 
@@ -573,7 +573,7 @@ As seguintes regras se aplicam a um modelo que está Abatido:
 - Adicione -1 DADO a quaisquer Rolagens de Sucesso que você fizer para um modelo que esteja Abatido.
 - Adicione +1 DADO DE FERIMENTO para um Ataque Corpo a Corpo se o alvo estiver Abatido.
 - Até que o modelo se levante, ele não pode ser movido por nenhuma razão, a menos que caia.
-- Um modelo que está Abatido se levanta quando for Ativado novamente. No entanto, sua Característica de Movimento e reduzida a metade pelo resto da Ativação (incluindo qualquer Bônus de Carga que receba).
+- Um modelo que está Abatido se levanta quando for Ativado novamente. No entanto, sua Característica de Movimento e reduzida a metade pelo resto da Ativação (incluindo qualquer Bônus de Investida que receba).
 - Um modelo que esteja dentro de 1" de uma borda quando for colocado Abatido pode Cair da borda. Faça uma Rolagem de Sucesso para o modelo antes que ele seja colocado Abatido. Se a rolagem for um Sucesso, o modelo fica Abatido mas não Cai da borda. Se a rolagem for uma Falha, o modelo Cai da borda mais próxima e então fica Abatido (ver Queda).
 
 Você pode mostrar que um modelo está Abatido colocando um marcador ao lado do modelo (como um cubo de madeira) ou deitando o modelo de lado. Se você escolher deitar o modelo de lado, deite-o de forma que o centro do modelo fique sobre o ponto onde o centro de sua base estava localizado. Ao medir o alcance para ou de um modelo que está Abatido, você pode medir de qualquer parte do modelo, não apenas de sua base.
@@ -584,7 +584,7 @@ Nota: Um modelo deitado de lado será mais difícil de ver, mas de resto os dois
 
 ## 3. Fase de Moral
 
-Sua Bando pode abandonar a batalha se sofrer muitas baixas. Na Fase de Moral, se metade dos modelos em seu Bando estiverem Abatidos ou Fora de Ação (arredondado para cima), você deve fazer um tipo especial de Rolagem de Sucesso chamado Teste de Moral. Um Teste de Moral e feito da mesma forma que uma Rolagem de Sucesso para um modelo. Se o Teste de Moral for um Sucesso, seu Bando continua normalmente. Se o Teste de Moral for uma Falha, seu Bando fica Abalada.
+Sua Bando pode abandonar a batalha se sofrer muitas baixas. Na Fase de Moral, se metade dos modelos em seu Bando estiverem Abatidos ou Fora de Ação (arredondado para cima), você deve fazer um tipo especial de Rolagem de Sucesso chamado Teste de Moral. Um Teste de Moral e feito da mesma forma que uma Rolagem de Sucesso para um modelo. Se o Teste de Moral for um Sucesso, seu Bando continua normalmente. Se o Teste de Moral for uma Falha, seu Bando fica Abalado.
 
 Nota: Lembre-se de que ao contar modelos, quaisquer frações são arredondadas para cima. Por exemplo, um Bando que tenha 5 modelos não precisará fazer um Teste de Moral até que 3 de seus modelos estejam Abatidos ou Fora de Ação (metade de 5 e 2,5, que arredonda para 3).
 

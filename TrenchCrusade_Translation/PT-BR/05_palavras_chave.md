@@ -38,7 +38,7 @@ Uma Arma com esta Palavra-Chave reduz o total de -MODIFICADOR DE FERIMENTO da Ca
 Este modelo não é de origem biológica natural, mas é construído a partir de elementos não-organicos.
 
 ### ASSALTO (Efeito)
-Ataques a Distância feitos com Armas que possuem esta Palavra-Chave não impedem um modelo de realizar uma AÇÃO de Carregar ou Lutar durante a mesma Ativação.
+Ataques a Distância feitos com Armas que possuem esta Palavra-Chave não impedem um modelo de realizar uma AÇÃO de Investir ou Lutar durante a mesma Ativação.
 
 ### AUTOMÁTICO(X) (Efeito)
 Quando você realiza uma AÇÃO de Atirar e escolhe uma Arma com esta Palavra-Chave para fazer um Ataque a Distância, você pode fazer um número de Ataques a Distância com esta Arma igual a X, um após o outro. Os ataques podem ter como alvo modelos inimigos diferentes, se desejado, desde que todos estejam dentro de 6" uns dos outros. Resolva cada ataque um de cada vez usando os passos 2 a 6 da Sequência de Ataque a Distância. Quaisquer MARCADORES DE SANGUE ou MARCADORES DE BÊNÇÃO gastos modificam apenas a Rolagem de Ferimento para o Ataque a Distância em que foram gastos.
@@ -56,7 +56,7 @@ Quando você posiciona um modelo com esta Palavra-Chave pela primeira vez em uma
 O modelo está sob a influência de um aprimoramento sobrenatural ou químico que fornece benefícios temporários (ver MARCADORES DE BÊNÇÃO).
 
 ### BLOQUEIO (Efeito)
-Adicione -1 DADO para Ataques Corpo a Corpo contra um modelo com esta Palavra-Chave, ou que tenha uma Arma que tenha esta Palavra-Chave, se o atacante realizou uma AÇÃO de Carregar antes de fazer o ataque neste Turno.
+Adicione -1 DADO para Ataques Corpo a Corpo contra um modelo com esta Palavra-Chave, ou que tenha uma Arma que tenha esta Palavra-Chave, se o atacante realizou uma AÇÃO de Investir antes de fazer o ataque neste Turno.
 
 ### MARCADOR DE SANGUE (Etiqueta)
 MARCADORES DE SANGUE são colocados em modelos que sofrem um ferimento (ver MARCADORES DE SANGUE).
@@ -116,7 +116,7 @@ Após fazer a Rolagem de Ferimento para uma Arma com esta Palavra-Chave, coloque
 Um modelo com esta Palavra-Chave trata um resultado Fora de Ação da Tabela de Rolagem de Ferimento como um resultado Abatido, a menos que o resultado tenha sido causado por uma Rolagem de Banho de Sangue. Além disso, você não pode remover MARCADORES DE SANGUE de um modelo amigo com esta Palavra-Chave (o jogador adversário pode usa-los normalmente). Finalmente, um modelo com esta Palavra-Chave tem as Palavras-Chave NEGAR MEDO e NEGAR GÁS, mas não pode ter a Palavra-Chave RESISTENTE.
 
 ### PESADO (Efeito)
-Um modelo não pode ser equipado com mais de uma peça de Equipamento de Batalha com esta Palavra-Chave e não recebe Bônus de Carga quando faz um movimento de carga. Além disso, se uma Arma a Distância ou Granada tiver esta Palavra-Chave, você não pode usar a Arma ou Granada para fazer um Ataque a Distância e realizar uma AÇÃO de Mover, Carregar ou Recuar, ou Correr com o modelo atacante como parte da mesma Ativação.
+Um modelo não pode ser equipado com mais de uma peça de Equipamento de Batalha com esta Palavra-Chave e não recebe Bônus de Investida quando faz um movimento de carga. Além disso, se uma Arma a Distância ou Granada tiver esta Palavra-Chave, você não pode usar a Arma ou Granada para fazer um Ataque a Distância e realizar uma AÇÃO de Mover, Investir ou Recuar, ou Correr com o modelo atacante como parte da mesma Ativação.
 
 ### SEGURADO (Efeito)
 Uma peça de Equipamento de Batalha com esta Palavra-Chave requer uma mão para carregar e não pode ser largada. Por causa disso, um modelo que tenha esta Palavra-Chave só pode ser equipado com ou usar uma Arma de 1 Mão ou um Escudo. Ele não pode ser equipado com ou usar quaisquer Armas de 2 Mãos, ou tanto uma Arma quanto um Escudo (mesmo se o Escudo tiver a regra Combo de Escudo). Ele ainda pode carregar Granadas.
@@ -179,7 +179,7 @@ Adicione -1 DADO DE FERIMENTO a rolagens para ataques feitos em Longo Alcance co
 Após fazer a Rolagem de Ferimento para uma Arma com esta Palavra-Chave, coloque 1 MARCADOR DE SANGUE extra ao lado do modelo alvo, mesmo se o resultado for Sem Efeito.
 
 ### ESCARAMUÇADOR (Efeito)
-Se um inimigo selecionar um modelo com esta Palavra-Chave como alvo de uma Carga, você pode escolher evadir com seu modelo antes que a Carga seja feita, desde que seu modelo não esteja dentro de 1" de um inimigo. Quando um modelo evade, role um D3 e mova o modelo essa quantidade de polegadas. Ele deve terminar este movimento a mais de 1" de todos os modelos inimigos. Se este movimento resultar em haver um modelo interposto entre o modelo evadindo e o modelo que está fazendo a carga, então o modelo carregando deve escolher o modelo interposto como alvo para sua carga.
+Se um inimigo selecionar um modelo com esta Palavra-Chave como alvo de uma Carga, você pode escolher evadir com seu modelo antes que a Carga seja feita, desde que seu modelo não esteja dentro de 1" de um inimigo. Quando um modelo evade, role um D3 e mova o modelo essa quantidade de polegadas. Ele deve terminar este movimento a mais de 1" de todos os modelos inimigos. Se este movimento resultar em haver um modelo interposto entre o modelo evadindo e o modelo que está fazendo a investida, então o modelo carregando deve escolher o modelo interposto como alvo para sua investida.
 
 ### FORTE (Efeito)
 Um modelo com esta Palavra-Chave tem a Palavra-Chave NEGAR PESADO. Além disso, ele pode equipar e usar uma Arma Corpo a Corpo de 2 Mãos como se fosse uma Arma Corpo a Corpo de 1 Mão.

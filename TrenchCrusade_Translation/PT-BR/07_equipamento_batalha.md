@@ -338,7 +338,7 @@ Granadas de fragmentação ou bombas de mão são um elemento básico da guerra 
 
 ### Granadas de Gás
 
-Granadas de gás são armas insidiosas, atacando os pulmões e outros órgãos internos com fumos nocivos. Alquimistas demoníacos do Quinto Círculo são especialmente habeis em criar essas armas diabolicas e odiadas.
+Granadas de gás são armas insidiosas, atacando os pulmões e outros órgãos internos com fumos nocivos. Alquimistas demoníacos do Quinto Círculo são especialmente hábeis em criar essas armas diabólicas e odiadas.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
@@ -346,7 +346,7 @@ Granadas de gás são armas insidiosas, atacando os pulmões e outros órgãos i
 
 ### Granadas Incendiárias
 
-Granadas incendiárias podem incendiar seu alvo com enxofre, fósforo ou gás inflamável capturado do Lago de Fogo no Setimo Círculo do Inferno.
+Granadas incendiárias podem incendiar seu alvo com enxofre, fósforo ou gás inflamável capturado do Lago de Fogo no Sétimo Círculo do Inferno.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|

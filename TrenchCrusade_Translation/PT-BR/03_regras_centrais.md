@@ -20,17 +20,17 @@ Quando for sua vez de Ativar um modelo, você deve escolher um modelo em seu Ban
 
 O modelo Ativado pode realizar as seguintes AÇÕES uma vez cada, em qualquer ordem que você desejar:
 
-**Mover ou Carregar ou Recuar:** Você pode usar uma AÇÃO para Mover, Carregar ou Recuar com seu modelo, mas não mais de uma dessas opções.
+**Mover ou Investir ou Recuar:** Você pode usar uma AÇÃO para Mover, Investir ou Recuar com seu modelo, mas não mais de uma dessas opções.
 
-- **Mover:** Você pode mover seu modelo um número de polegadas igual a sua Característica de Movimento em qualquer direção (nenhuma rolagem e necessária). Obstáculos de até 1" de altura podem ser cruzados sem penalidade, e seu modelo pode escalar superfícies abruptas se primeiro passar em uma Rolagem de Sucesso Arriscada. Terreno Difícil é cruzado na metade da velocidade. Uma AÇÃO de Mover não pode ser usada para mover um modelo para dentro de 1" de um modelo inimigo (você deve usar uma AÇÃO de Carregar em vez disso).
+- **Mover:** Você pode mover seu modelo um número de polegadas igual a sua Característica de Movimento em qualquer direção (nenhuma rolagem e necessária). Obstáculos de até 1" de altura podem ser cruzados sem penalidade, e seu modelo pode escalar superfícies abruptas se primeiro passar em uma Rolagem de Sucesso Arriscada. Terreno Difícil é cruzado na metade da velocidade. Uma AÇÃO de Mover não pode ser usada para mover um modelo para dentro de 1" de um modelo inimigo (você deve usar uma AÇÃO de Investir em vez disso).
 
-- **Carregar:** Escolha um modelo inimigo que seja visível ao seu modelo e esteja a 12" ou menos dele como alvo da carga. Em seguida, role um dado, adicione o resultado a Característica de Movimento do seu modelo e mova-o em direção ao alvo. Se seu modelo terminar seu movimento a 1" ou menos do alvo, ele pode Lutar (ver Lutar).
+- **Investir:** Escolha um modelo inimigo que seja visível ao seu modelo e esteja a 12" ou menos dele como alvo da investida. Em seguida, role um dado, adicione o resultado a Característica de Movimento do seu modelo e mova-o em direção ao alvo. Se seu modelo terminar seu movimento a 1" ou menos do alvo, ele pode Lutar (ver Lutar).
 
 - **Recuar:** Você só pode mover um modelo que esteja a 1" de um inimigo realizando uma AÇÃO de Recuar. Um modelo que recua move um número de polegadas igual a sua Característica de Movimento em qualquer direção, mas deve terminar seu movimento a mais de 1" de todos os modelos inimigos. Seu oponente pode realizar uma AÇÃO de Lutar com 1 Arma Corpo a Corpo antes que o modelo que está recuando seja afastado. Se isso coloca seu modelo como Abatido ou Fora de Ação, ele não é movido.
 
-**Correr:** Uma AÇÃO de Correr pode ser realizada em adicao a uma AÇÃO de Mover, Carregar ou Recuar. Você pode mover seu modelo um número de polegadas igual a sua Característica de Movimento em qualquer direção, mas deve fazer uma Rolagem de Sucesso Arriscada para o modelo primeiro. Se você tiver sucesso, seu modelo pode mover-se (não pode Carregar ou Recuar). Se falhar, a Ativação do modelo termina.
+**Correr:** Uma AÇÃO de Correr pode ser realizada em adicao a uma AÇÃO de Mover, Investir ou Recuar. Você pode mover seu modelo um número de polegadas igual a sua Característica de Movimento em qualquer direção, mas deve fazer uma Rolagem de Sucesso Arriscada para o modelo primeiro. Se você tiver sucesso, seu modelo pode mover-se (não pode Investir ou Recuar). Se falhar, a Ativação do modelo termina.
 
-**Atirar:** Você pode fazer um Ataque a Distância com seu modelo se ele estiver a mais de 1" de um inimigo e tiver uma Arma a Distância (ver Ataques a Distância). Seu modelo não pode Atirar e realizar uma AÇÃO de Carregar ou Lutar na mesma Ativação, a menos que use uma arma com a Palavra-Chave ASSALTO.
+**Atirar:** Você pode fazer um Ataque a Distância com seu modelo se ele estiver a mais de 1" de um inimigo e tiver uma Arma a Distância (ver Ataques a Distância). Seu modelo não pode Atirar e realizar uma AÇÃO de Investir ou Lutar na mesma Ativação, a menos que use uma arma com a Palavra-Chave ASSALTO.
 
 **Lutar:** Você pode fazer um Ataque Corpo a Corpo com seu modelo se ele estiver a 1" de um inimigo e tiver uma Arma Corpo a Corpo (ver Ataques Corpo a Corpo).
 
@@ -174,7 +174,7 @@ Uma vez que você tenha realizado todas as AÇÕES que deseja, ou tenha falhado 
 
 ## Fase de Moral
 
-Na Fase de Moral, se metade dos modelos em seu Bando estiverem Abatidos ou Fora de Ação (arredondado para cima), você deve fazer uma Rolagem de Sucesso. Se a rolagem for um Sucesso, seu Bando continua normalmente. Se a rolagem for uma Falha, seu Bando fica Abalada.
+Na Fase de Moral, se metade dos modelos em seu Bando estiverem Abatidos ou Fora de Ação (arredondado para cima), você deve fazer uma Rolagem de Sucesso. Se a rolagem for um Sucesso, seu Bando continua normalmente. Se a rolagem for uma Falha, seu Bando fica Abalado.
 
 ### Bandos Abalados
 

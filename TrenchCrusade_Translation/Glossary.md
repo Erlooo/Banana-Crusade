@@ -88,7 +88,7 @@
 | Inglês | PT-BR |
 |--------|-------|
 | Move | Mover |
-| Charge | Carregar |
+| Charge | Investir |
 | Retreat | Recuar |
 | Dash | Correr |
 | Shoot | Atirar |

@@ -41,7 +41,7 @@ O mapa para um cenário mostra as Zonas de Posicionamento para cada lado e onde 
 
 Cenários são disputados com uma seleção de modelos de seu Bando chamada Força. A primeira coisa que você deve fazer para jogar uma partida e escolher os modelos de seu Bando que comporão sua Força. Em uma partida avulsa, você geralmente poderá usar todos os modelos em seu Bando. No entanto, se estiver jogando uma partida de campanha, sua Força deve estar em conformidade com o Valor de Limiar e Força de Campo de seu Bando (ver Tabela de Limiar de Bando).
 
-**Partidas Avulsas:** As regras de Trench Crusade são escritas primariamente para uso em campanhas (ver Regras de Campanha). No entanto, também podem ser usadas para partidas avulsas que não fazem parte de uma campanha. Em partidas avulsas, você precisará concordar em quantos 👑 podem ser gastos em suas Bandos, e se você permitira que as Bandos usem ☼ para comprar modelos, Mercenários ou Equipamento de Batalha. Se você e novo em Trench Crusade, recomendamos usar um Bando inicial de 700 👑 para partidas avulsas. Uma vez que tenha adquirido alguma experiência, descobrimos que 800 👑 e 6 ☼ e um tamanho muito bom para partidas avulsas.
+**Partidas Avulsas:** As regras de Trench Crusade são escritas primariamente para uso em campanhas (ver Regras de Campanha). No entanto, também podem ser usadas para partidas avulsas que não fazem parte de uma campanha. Em partidas avulsas, você precisará concordar em quantos 👑 podem ser gastos em seus Bandos, e se você permitira que as Bandos usem ☼ para comprar modelos, Mercenários ou Equipamento de Batalha. Se você e novo em Trench Crusade, recomendamos usar um Bando inicial de 700 👑 para partidas avulsas. Uma vez que tenha adquirido alguma experiência, descobrimos que 800 👑 e 6 ☼ e um tamanho muito bom para partidas avulsas.
 
 ### O CAMPO DE BATALHA
 
@@ -101,7 +101,7 @@ Cada cenário tem um conjunto único de Feitos Gloriosos que, quando completados
 
 **Duração:** 4 Turnos.
 
-**Condições de Vitória:** Um jogador vence imediatamente se não houver modelos inimigos no campo de batalha ou se a Bando adversária fugir. Caso contrário, o jogador com mais Pontos de Vitória vence.
+**Condições de Vitória:** Um jogador vence imediatamente se não houver modelos inimigos no campo de batalha ou se a Bando adversário fugir. Caso contrário, o jogador com mais Pontos de Vitória vence.
 
 **Pontos de Vitória:**
 - Ao final de cada Turno, cada jogador marca 2 PVs para cada Objetivo que controla.
@@ -122,7 +122,7 @@ Cada cenário tem um conjunto único de Feitos Gloriosos que, quando completados
 
 *Cace os líderes inimigos enquanto protege os seus.*
 
-**Forças:** Ambos os jogadores devem incluir o maior número possível de modelos ELITE de suas Bandos.
+**Forças:** Ambos os jogadores devem incluir o maior número possível de modelos ELITE de seus Bandos.
 
 **Campo de Batalha:** Arquetipo Terra de Ninguem. Inclui 4 Marcadores de Objetivo e 4 Marcadores de Obras de Defesa (2 Baterias de Canhão "G" e 2 Posições de Metralhadora "M").
 

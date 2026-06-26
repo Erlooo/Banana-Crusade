@@ -60,7 +60,7 @@
 
 **1892:** Os Heréticos são expulsos da Eire. Uma audaciosa incursao de colunas volantes combinadas da Fianna afunda o navio-insignia herético *Himno da Obscenidade* enquanto estava ancorado.
 
-**1894:** O Ano da Trindade Partida. Em um ataque sincronizado, três Comandos da Morte mestres, Caim, Barabbas e Aman, assassinam o Sumo Pontifice, a Alta Profetisa Aelia e o Sacro Imperador Romano, mergulhando os Fieis no caos. Simultaneamente, as Legiões Heréticas, comandadas pelos nobres do Setimo Círculo do Inferno, lançam uma ofensiva-relampago no Levante e na Europa, reforçadas por uma enorme vanguarda de tanques.
+**1894:** O Ano da Trindade Partida. Em um ataque sincronizado, três Comandos da Morte mestres, Caim, Barabbas e Aman, assassinam o Sumo Pontifice, a Alta Profetisa Aelia e o Sacro Imperador Romano, mergulhando os Fieis no caos. Simultaneamente, as Legiões Heréticas, comandadas pelos nobres do Sétimo Círculo do Inferno, lançam uma ofensiva-relampago no Levante e na Europa, reforçadas por uma enorme vanguarda de tanques.
 
 **1899:** O Programa Espacial da Igreja e iniciado.
 
