@@ -6,7 +6,7 @@
 
 [![Status](https://img.shields.io/badge/status-em%20revis%C3%A3o-yellow)]()
 [![Idioma](https://img.shields.io/badge/idioma-PT--BR-green)]()
-[![Licença](https://img.shields.io/badge/licen%C3%A7a-fan%20project-blue)]()
+[![Oficial](https://img.shields.io/badge/oficial-n%C3%A3o-red)]()
 
 ## 📖 Livro de Regras Traduzido
 
