@@ -1870,7 +1870,7 @@ Desenvolvida por Aym, o grande duque do Inferno, essas balas incendeiam qualquer
 
 ### Marca Infernal
 
-Um Herético que fez uma peregrinação sagrada ao próprio Inferno e marcado por seu demônio patrono com uma marca que arde eternamente. O fogo mortal não tem mais poder de prejudica-lo.
+Um Herético que fez uma peregrinação sagrada ao próprio Inferno é marcado por seu demônio patrono com uma marca que arde eternamente. O fogo mortal não tem mais poder de prejudicá-lo.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
@@ -1888,7 +1888,7 @@ Pílulas de martírio são uma mistura potente de drogas e químicos que alteram
 
 ### Kit Médico
 
-Primeiros socorros no campo de batalha trouxeram muitos soldados de volta da beira da morte. Unguentos abençoados podem selar ferimentos fatais completamente, enquanto o sangue negro de demônios usado por médicos Heréticos perversos permite que tropas mutiladas retornem a luta.
+Primeiros socorros no campo de batalha trouxeram muitos soldados de volta da beira da morte. Unguentos abençoados podem selar ferimentos fatais completamente, enquanto o sangue negro de demônios usado por médicos Heréticos perversos permite que tropas mutiladas retornem à luta.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
@@ -1900,7 +1900,7 @@ Primeiros socorros no campo de batalha trouxeram muitos soldados de volta da bei
 
 ### Kit de Montanhismo
 
-Este kit inclui cordas, mosquetoes, argolas, arnes de montanhismo e pitons para auxiliar um soldado a superar quase qualquer obstáculo vertical.
+Este kit inclui cordas, mosquetões, argolas, arnês de montanhismo e pitons para auxiliar um soldado a superar quase qualquer obstáculo vertical.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
@@ -1920,7 +1920,7 @@ Cornetas, tambores, trombetas, apitos, gaitas de foles e muitos outros tipos de 
 
 ### Pá
 
-Pas de campo permitem que tropas se entrincheirem e lutem a partir de cobertura em virtualmente qualquer campo de batalha.
+Pás de campo permitem que tropas se entrincheirem e lutem a partir de cobertura em virtualmente qualquer campo de batalha.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
@@ -1938,7 +1938,7 @@ Balas traçantes permitem que soldados ajustem sua mira eficientemente.
 
 ### Bandeira de Tropa
 
-A maioria das bandos e unidades carrega estandartes, bandeiras, flâmulas, pendões ou outros símbolos para reunir as tropas.
+A maioria dos Bandos e unidades carrega estandartes, bandeiras, flâmulas, pendões ou outros símbolos para reunir as tropas.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
@@ -2069,13 +2069,13 @@ Ter a Ordem da Mosca como seu Patrono permite que você adquira as seguintes Hab
 
 ### MAMMON
 
-*Somente Legiões Heréticas ou Corte da Serpente de Sete Cabeças (Bando de Ganância).* Seu Patrono e Mammon, o Príncipe da Ganância, o Tesoureiro do Inferno e o Rei dos Tolos. Ele aparece como um rei de pele dourada em um trono opulento, com marcas de queimadura negras manchando seu esplendor. Ele é o Patrono mais popular entre os mortais.
+*Somente Legiões Heréticas ou Corte da Serpente de Sete Cabeças (Bando de Ganância).* Seu Patrono é Mammon, o Príncipe da Ganância, o Tesoureiro do Inferno e o Rei dos Tolos. Ele aparece como um rei de pele dourada em um trono opulento, com marcas de queimadura negras manchando seu esplendor. Ele é o Patrono mais popular entre os mortais.
 
 Ter Mammon como seu Patrono permite que você adquira as seguintes Habilidades:
 
 - **Pele Áurea:** O modelo com esta Habilidade recebe a esplêndida (porém manchada) pele dourada de seu Patrono, e seu sangue se transforma em ouro derretido. Cada vez que você colocar um MARCADOR DE SANGUE ao lado de um modelo com esta Habilidade, adicione 5 👑 ao seu tesouro.
 - **Dados Viciados:** Uma vez por partida, você pode rerolar todos os dados usados para um Teste de Sucesso para um modelo com esta Habilidade, ou pode rerolar todos os dados usados para um Teste de Ferimento para um ataque feito por um modelo com esta Habilidade.
-- **Dívida Eterna:** Os Miseráveis desto Bando nunca são perdidos como baixas, pois suas cabeças (mantidas como garantia por Mammon) são usadas para regenerar os corpos perdidos. Todos os modelos Miseráveis em um Bando que inclua um modelo com esta Habilidade farão automaticamente uma recuperação total após a batalha se forem colocados Fora de Ação.
+- **Dívida Eterna:** Os Miseráveis deste Bando nunca são perdidos como baixas, pois suas cabeças (mantidas como garantia por Mammon) são usadas para regenerar os corpos perdidos. Todos os modelos Miseráveis em um Bando que inclua um modelo com esta Habilidade farão automaticamente uma recuperação total após a batalha se forem colocados Fora de Ação.
 - **Dinheiro Compra Tudo:** O limite de um item de Equipamento de Batalha (excluindo Itens de Glória) é aumentado em 1 se um modelo com esta Habilidade fizer parte do Bando. Um Bando só pode ter um modelo com esta Habilidade.
 - **Plutocracia:** Quando você adquirir esta Habilidade para um modelo, ele pode imediatamente formar uma DUPLA DE FOGO com 1 outro modelo de seu Bando que não tenha a Palavra-Chave ELITE. Ambos os modelos ganham a Palavra-Chave DUPLA DE FOGO. Além disso, se os dois modelos realizarem uma Ativação simultânea, então você pode tratar todas os Testes de Sucesso Arriscados que eles fizerem durante a Ativação como Testes de Sucesso normais.
 - **Empréstimo Sem Garantia:** Você pode adicionar 100 👑 ao seu Cofre quando adquirir esta Habilidade para um modelo em seu Bando. Os 👑 só são ganhos uma vez, quando a Habilidade é escolhida.
@@ -2092,8 +2092,8 @@ Ter o Antipapa de Avignon como seu Patrono permite que você adquira as seguinte
 - **Olho de Belzebu AÇÃO:** Um modelo com esta Habilidade pode realizar uma AÇÃO de Olho de Belzebu. Se fizer isso, faça um Teste de Sucesso. Se a rolagem for uma Falha, nada acontece. Se for um Sucesso ou Sucesso Crítico, escolha um modelo inimigo que esteja dentro de 24" do modelo, em Cobertura, e que não esteja dentro de 1" de quaisquer modelos de seu Bando. Seu oponente deve então mover aquele modelo 1", de forma que ainda esteja na Linha de Visão do modelo realizando a AÇÃO, mas não esteja mais em Cobertura, e que esteja a mais de 1" de quaisquer modelos de seu Bando. Se isso for impossível, o modelo inimigo não é movido.
 - **Banquetear na Doença:** Se o alvo de um Ataque Corpo a Corpo feito por um modelo com esta Habilidade tiver 1 ou mais MARCADORES DE INFECÇÃO, então custa 1 MARCADOR DE SANGUE ou MARCADOR DE INFECÇÃO a menos para converter um Teste de Ferimento em uma Rolagem de Banho de Sangue.
 - **Infectar a Mente:** No início de cada partida, após o posicionamento, para cada modelo com esta Habilidade que esteja no campo de batalha, você pode escolher um modelo inimigo e movê-lo 6" da mesma forma como se estivesse realizando uma AÇÃO de Mover (ele não pode Investir).
-- **Lingua de Prata AÇÃO:** Um modelo com esta Habilidade pode realizar uma AÇÃO de Lingua de Prata. Se fizer isso, faça um Teste de Sucesso. Se a rolagem for uma Falha, nada acontece. Se for um Sucesso ou Sucesso Crítico, escolha um modelo inimigo que esteja dentro de 1" do modelo. O modelo escolhido deve fazer um Ataque Corpo a Corpo contra si mesmo. Se o modelo inimigo tiver mais de 1 Arma Corpo a Corpo, você pode escolher qual ele usa. O modelo inimigo só atacará a si mesmo uma vez, mesmo que seja capaz de atacar váriàs vezes.
-- **Híbrido Suíno:** Adicione 2" a Característica de Movimento de um modelo com esta Habilidade.
+- **Língua de Prata AÇÃO:** Um modelo com esta Habilidade pode realizar uma AÇÃO de Língua de Prata. Se fizer isso, faça um Teste de Sucesso. Se a rolagem for uma Falha, nada acontece. Se for um Sucesso ou Sucesso Crítico, escolha um modelo inimigo que esteja dentro de 1" do modelo. O modelo escolhido deve fazer um Ataque Corpo a Corpo contra si mesmo. Se o modelo inimigo tiver mais de 1 Arma Corpo a Corpo, você pode escolher qual ele usa. O modelo inimigo só atacará a si mesmo uma vez, mesmo que seja capaz de atacar várias vezes.
+- **Híbrido Suíno:** Adicione 2" à Característica de Movimento de um modelo com esta Habilidade.
 
 ---
 
@@ -2115,7 +2115,7 @@ Registre os Pontos de Vitória de Campanha que você marcou em sua Ficha de Band
 
 ### Retardatários na Campanha
 
-Jogadores podem querer entrar em uma campanha que já está em andamento. Isso é permitido; o Bando do retardatário pode ser recrutada usando o Valor de Limiar de Bando do jogador que jogou mais partidas na campanha, e o retardatário também recebe 4 Pontos de Experiência para cada partida que o jogador no topo jogou. Esses Pontos de Experiência podem ser divididos entre modelos ELITE conforme o retardatário desejar.
+Jogadores podem querer entrar em uma campanha que já está em andamento. Isso é permitido; o Bando do retardatário pode ser recrutado usando o Valor de Limiar de Bando do jogador que jogou mais partidas na campanha, e o retardatário também recebe 4 Pontos de Experiência para cada partida que o jogador no topo jogou. Esses Pontos de Experiência podem ser divididos entre modelos ELITE conforme o retardatário desejar.
 
 ---
 
@@ -2132,7 +2132,7 @@ Role um D6 para determinar qual cenário jogar:
 3. Terreno Elevado
 4. Caça à Relíquia
 5. Saque de Suprimentos
-6. O jogador que jogou menos partidas escolhe um dos cenários listados acima. Se empatados, desempate é o vencedor escolhe.
+6. O jogador que jogou menos partidas escolhe um dos cenários listados acima. Se empatados, desempate e o vencedor escolhe.
 
 **Meio de Campanha (Partidas 4-8)**
 
@@ -2168,7 +2168,7 @@ Os modelos que você usa em uma partida de campanha são chamados de Força.
 
 ### Valor de Limiar de Bando e Força de Campo
 
-Conforme você joga a campanha, a notícia dos feitos de seu Bando no campo de batalha se espalha e atrai a atenção de seus superiores que alocam mais tropas e recursos a sua disposição.
+Conforme você joga a campanha, a notícia dos feitos de seu Bando no campo de batalha se espalha e atrai a atenção de seus superiores que alocam mais tropas e recursos à sua disposição.
 
 **Valores de Limiar:** O Valor de Limiar de seu Bando é mostrado na Tabela de Limiar de Bando abaixo, e aumenta após cada partida que você joga. O Custo total de todos os modelos que você usa para uma Força deve ser menor ou igual ao Valor de Limiar de seu Bando.
 
@@ -2221,7 +2221,7 @@ Quando você termina uma partida de campanha, você e seu oponente devem realiza
 5. **Etapa do Intendente:** Você pode adicionar novos recrutas, contratar Mercenários e vender, comprar e realocar Equipamento de Batalha.
 6. **Etapa de Ficha:** Atualize sua Ficha de Bando. Você está pronto para a próxima partida!
 
-**Dissolvendo um Bando:** Você pode dissolver seu Bando ao final de qualquer partida é começar novamente com uma completamente nova. Inicie sua novo Bando como se fosse um retardatário na campanha.
+**Dissolvendo um Bando:** Você pode dissolver seu Bando ao final de qualquer partida e começar novamente com uma completamente nova. Inicie seu novo Bando como se fosse um retardatário na campanha.
 
 ---
 
@@ -2247,9 +2247,9 @@ A menos que declarado de outra forma, cada vez que um modelo ELITE for colocado 
 
 | Rolagem D66 | Ferimento |
 |-------------|-----------|
-| 11 | **Morto.** O ferimento provou ser fatal. Remova o modelo é seu Equipamento de Batalha de sua Ficha de Bando. |
+| 11 | **Morto.** O ferimento provou ser fatal. Remova o modelo e seu Equipamento de Batalha de sua Ficha de Bando. |
 | 12 | **Capturado.** O inimigo captura o modelo. Você e seu oponente podem negociar um preço de resgate em 👑 pela liberação do modelo. Se o resgate não for pago, o modelo capturado é executado. Se o resgate for pago, trate como Recuperação Total. |
-| 13 | **Dano Nervoso Severo.** Todos os Testes de Sucesso que você fizer para este modelo são tratadas como Testes de Sucesso Arriscados. |
+| 13 | **Dano Nervoso Severo.** Todos os Testes de Sucesso que você fizer para este modelo são tratados como Testes de Sucesso Arriscados. |
 | 14 | **Ferimento na Mão.** Determine aleatoriamente qual mão foi ferida. Adicione -1 DADO a rolagens para ataques feitos por este modelo com uma Arma Corpo a Corpo segurada (ou parcialmente segurada) pela mão ferida. |
 | 15 | **Perdeu um Olho.** Adicione -1 DADO a rolagens para Ataques a Distância feitos por este modelo. Se este modelo receber este ferimento uma segunda vez, ele fica cego e você deve removê-lo de sua Ficha de Bando. |
 | 16 | **Ferimento no Peito.** Adicione +1 DADO DE FERIMENTO a Testes de Ferimento para ataques que tenham como alvo este modelo. |
@@ -2284,7 +2284,7 @@ Em uma campanha, você pode Promover as Tropas em seu Bando ao status ELITE usan
 
 **Atribuir Dados de Promoção:** Atribua os dados do pool aos modelos de Tropa em seu Bando. Você não pode atribuir um 3o dado ao mesmo modelo até que todos os modelos de Tropa tenham pelo menos 2 dados cada.
 
-**Rolar Dados de Promoção:** Role os dados um de cada vez. Assim que um dos dados rolar "6", pare de rolar para aquele modelo é Promova-o. Se você rolar todos os dados sem um modelo ser Promovido, anote quantos dados você rolou seguidos sem conseguir uma Promoção. Quando o total atingir 5 dados, a próxima rolagem (a 6a) é automaticamente considerado como "6".
+**Rolar Dados de Promoção:** Role os dados um de cada vez. Assim que um dos dados rolar "6", pare de rolar para aquele modelo e Promova-o. Se você rolar todos os dados sem um modelo ser Promovido, anote quantos dados você rolou seguidos sem conseguir uma Promoção. Quando o total atingir 5 dados, a próxima rolagem (a 6a) é automaticamente considerada como "6".
 
 **Promovendo um Modelo:** Quando um modelo de Tropa recebe uma Promoção, ele imediatamente ganha a Palavra-Chave ELITE. Começa com 0 Pontos de Experiência.
 
@@ -2292,7 +2292,7 @@ Em uma campanha, você pode Promover as Tropas em seu Bando ao status ELITE usan
 
 ### EXPERIÊNCIA
 
-Após fazer quaisquer Promoções, cada modelo ELITE que participou de uma partida é sobreviveu ganhará 1 Ponto de Experiência, mesmo se tiver sido colocado Fora de Ação. Qualquer modelo ELITE que realizou pelo menos um Feito Glorioso ganha um segundo Ponto de Experiência.
+Após fazer quaisquer Promoções, cada modelo ELITE que participou de uma partida e sobreviveu ganhará 1 Ponto de Experiência, mesmo se tiver sido colocado Fora de Ação. Qualquer modelo ELITE que realizou pelo menos um Feito Glorioso ganha um segundo Ponto de Experiência.
 
 Registre os Pontos de Experiência em sua Ficha. Quando você alcançar uma caixa de círculo, pode fazer uma Rolagem de Avanço para o modelo.
 
@@ -2301,7 +2301,7 @@ Registre os Pontos de Experiência em sua Ficha. Quando você alcançar uma caix
 Para fazer uma Rolagem de Avanço para um modelo:
 
 1. Escolha duas das Tabelas de Habilidades para rolar.
-2. Role 2D6 para cada tabela é consulte a rolagem para ver quais Habilidades estão disponíveis para o modelo aprender.
+2. Role 2D6 para cada tabela e consulte a rolagem para ver quais Habilidades estão disponíveis para o modelo aprender.
    - Se você rolar uma Habilidade que o modelo já possui, use a próxima Habilidade mais baixa que o modelo não possui. Se o modelo tiver todas as Habilidades mais baixas, use a próxima mais alta.
    - Se uma Habilidade de Patrono for rolada, use uma das Habilidades de Patrono do Patrono que você escolheu para seu Bando.
 3. Escolha uma das duas Habilidades para o modelo aprender e registre-a em sua Ficha de Bando.
@@ -2342,7 +2342,7 @@ Os seguintes modelos não podem ser Promovidos ao status ELITE:
 | 2D6 | Habilidade |
 |-----|------------|
 | 2 | **Habilidade de Patrono.** |
-| 3 | **Caçador:** Ataques a Distância feitos por um modelo com esta Habilidade tem a Palavra-Chave IGNORAR COBERTURA. |
+| 3 | **Caçador:** Ataques a Distância feitos por um modelo com esta Habilidade têm a Palavra-Chave IGNORAR COBERTURA. |
 | 4 | **Pistoleiro:** Se o modelo estiver armado com Armas a Distância com a Palavra-Chave PISTOLA: se equipado com 2 Armas com PISTOLA, pode Atirar com uma e imediatamente Atirar com a outra. Adicione as Palavras-Chave ASSALTO e IGNORAR ARMA SECUNDÁRIA a quaisquer armas com PISTOLA. |
 | 5 | **Tiro Longo:** Adicione 6" ao Alcance de Armas com PISTOLA, quaisquer Armas com "Rifle" no nome, e quaisquer Armas com "Jezzail" ou "Arcabuz" no nome. |
 | 6 | **Olhos Aguçados:** Ataques a Distância feitos por um modelo com esta Habilidade tem a Palavra-Chave IGNORAR LONGO ALCANCE. |
