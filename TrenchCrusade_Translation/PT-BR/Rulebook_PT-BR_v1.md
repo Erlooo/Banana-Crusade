@@ -452,7 +452,7 @@ Para fazer uma Rolagem de Sucesso para um modelo, siga os seguintes passos:
 
 **Rolagens de Sucesso Arriscadas**
 
-Às vezes você será chamado a fazer uma Rolagem de Sucesso Arriscada para um modelo. Uma Rolagem de Sucesso Arriscada é feita exatamente da mesma forma que uma Rolagem de Sucesso normal. No entanto, se a rolagem falhar, a Ativação do modelo termina imediatamente (ver Fase de Ativação). Se uma regra se aplica a uma Rolagem de Sucesso, então ela se aplica da mesma forma a uma Rolagem de Sucesso Arriscada. Se um modelo fizer uma Rolagem de Sucesso Arriscada como parte de uma AÇÃO fora da Ativação daquele modelo é a rolagem for uma Falha, aquela AÇÃO termina imediatamente.
+Às vezes você será chamado a fazer uma Rolagem de Sucesso Arriscada para um modelo. Uma Rolagem de Sucesso Arriscada é feita exatamente da mesma forma que uma Rolagem de Sucesso normal. No entanto, se a rolagem falhar, a Ativação do modelo termina imediatamente (ver Fase de Ativação). Se uma regra se aplica a uma Rolagem de Sucesso, então ela se aplica da mesma forma a uma Rolagem de Sucesso Arriscada. Se um modelo fizer uma Rolagem de Sucesso Arriscada como parte de uma AÇÃO fora da Ativação daquele modelo e a rolagem for uma Falha, aquela AÇÃO termina imediatamente.
 
 ---
 
@@ -890,7 +890,7 @@ Uma Rolagem de Ferimento é feita de forma semelhante a uma Rolagem de Sucesso, 
 
 **MODIFICADOR DE FERIMENTO:** +/-MODIFICADORES DE FERIMENTO são aplicados à Rolagem de Ferimento. Faça a Rolagem de Ferimento, adicionando quaisquer +/-DADOS DE FERIMENTO, e então adicione ou subtraia quaisquer MODIFICADORES DE FERIMENTO da rolagem. O máximo de -MODIFICADOR DE FERIMENTO não pode ser mais que -3 no total.
 
-Por exemplo, uma Rolagem de Ferimento tem um modificador de +1 DADO DE FERIMENTO e um -1 MODIFICADOR DE FERIMENTO. 3 dados são rolados, resultando em 2, 4 e 5. Os dois dados mais altos são usados, dando uma rolagem de 9. Então o -1 MODIFICADOR DE FERIMENTO é aplicado, subtraindo 1 da rolagem e mudando-a para 8. A rolagem é consultada na Tabela de Ferimento, que da um resultado Abatido para a Rolagem de Ferimento.
+Por exemplo, uma Rolagem de Ferimento tem um modificador de +1 DADO DE FERIMENTO e um -1 MODIFICADOR DE FERIMENTO. 3 dados são rolados, resultando em 2, 4 e 5. Os dois dados mais altos são usados, dando uma rolagem de 9. Então o -1 MODIFICADOR DE FERIMENTO é aplicado, subtraindo 1 da rolagem e mudando-a para 8. A rolagem é consultada na Tabela de Ferimento, que dá um resultado Abatido para a Rolagem de Ferimento.
 
 Note que se uma regra disser que um modelo fica Abatido ou Fora de Ação, aplique o Resultado apropriado da Tabela de Rolagem de Ferimento por completo (o que significa que um modelo que fica Abatido terá um MARCADOR DE SANGUE colocado ao lado dele).
 
@@ -1153,7 +1153,7 @@ Quando você Ativar um modelo com esta Palavra-Chave, antes de realizar quaisque
 Se você precisar fazer uma Rolagem de Sucesso para um modelo que esteja usando uma peça de Equipamento de Batalha que tenha esta Palavra-Chave, então a Rolagem de Sucesso se torna uma Rolagem de Sucesso Arriscada (a Ativação ou AÇÃO do modelo terminará se a Rolagem de Sucesso Arriscada for uma Falha). Por exemplo, a Rolagem de Sucesso para um ataque feito com uma Arma que tenha a Palavra-Chave ARRISCADO se tornaria uma Rolagem de Sucesso Arriscada. Este Efeito é ignorado se a Rolagem de Sucesso já for uma Rolagem de Sucesso Arriscada.
 
 ### DISPERSÃO (Efeito)
-Algumas Armas com a Palavra-Chave EXPLOSÃO também possuem a Palavra-Chave DISPERSÃO. Quando você faz um ataque com a Arma, escolha um alvo e realize o ataque conforme descrito nas regras para EXPLOSÃO. No entanto, se a Rolagem de Sucesso para o ataque for uma Falha, o ataque se dispersará em vez de errar. Para ver onde ele se dispersa, subtraia a Rolagem de Sucesso de 7. Por exemplo, se a Rolagem de Sucesso foi 4, então o ponto alvo se dispersaria (7-4=) 3". Seu oponente deve mover o ataque exatamente essa quantidade de polegadas em uma direção de sua escolha, para um ponto no campo de batalha, em uma peça de terreno, ou na base de um modelo. Deve haver Linha de Visão entre o ponto escolhido e o alvo original do ataque. Se isso for impossível por qualquer razão, então trate o ataque como um erro. Em seguida, determine quem e acertado conforme descrito nas regras para EXPLOSÃO.
+Algumas Armas com a Palavra-Chave EXPLOSÃO também possuem a Palavra-Chave DISPERSÃO. Quando você faz um ataque com a Arma, escolha um alvo e realize o ataque conforme descrito nas regras para EXPLOSÃO. No entanto, se a Rolagem de Sucesso para o ataque for uma Falha, o ataque se dispersará em vez de errar. Para ver onde ele se dispersa, subtraia a Rolagem de Sucesso de 7. Por exemplo, se a Rolagem de Sucesso foi 4, então o ponto alvo se dispersaria (7-4=) 3". Seu oponente deve mover o ataque exatamente essa quantidade de polegadas em uma direção de sua escolha, para um ponto no campo de batalha, em uma peça de terreno, ou na base de um modelo. Deve haver Linha de Visão entre o ponto escolhido e o alvo original do ataque. Se isso for impossível por qualquer razão, então trate o ataque como um erro. Em seguida, determine quem é acertado conforme descrito nas regras para EXPLOSÃO.
 
 ### ESPINGARDA (Efeito)
 Adicione -1 DADO DE FERIMENTO a rolagens para ataques feitos em Longo Alcance com uma Arma que tenha esta Palavra-Chave, em vez do modificador usual de Longo Alcance (-1 DADO).
@@ -1484,7 +1484,7 @@ O cavalo de batalha da Grande Guerra. Robusto, altamente confiável e razoavelme
 
 ### Lança-Chamas
 
-Um lança-chamas é uma Arma aterrorizante capaz de projetar grandes jatos de fogo e líquidos inflamáveis a distância. É ideal para limpar bunkers, trincheiras e outras fortificações, matando da forma mais horrífica. Consequentemente, e muito favorecido pelas forças Heréticas.
+Um lança-chamas é uma Arma aterrorizante capaz de projetar grandes jatos de fogo e líquidos inflamáveis a distância. É ideal para limpar bunkers, trincheiras e outras fortificações, matando da forma mais horrífica. Consequentemente, é muito favorecido pelas forças Heréticas.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
@@ -2012,9 +2012,9 @@ Ter um Santo Estudioso como seu Patrono permite que você adquira as seguintes H
 - **Favorecido por Deus:** Ao final de cada partida, seu Bando ganha 1 ☼ adicional para cada modelo com esta Habilidade no campo de batalha.
 - **Artes de Cura:** Você pode rerolar o resultado na Tabela de Trauma (ver Etapa de Trauma) para um modelo com esta Habilidade.
 - **Conhecimento de Ciências:** O limite de um item de Equipamento de Batalha (excluindo Itens de Glória) é aumentado em 1 se um modelo com esta Habilidade fizer parte do Bando. Escolha o Equipamento de Batalha ao qual o bônus se aplicará e anote sua escolha em sua ficha. Um Bando só pode ter um modelo com esta Habilidade.
-- **Habilidades Logísticas:** Um Bando que inclua um modelo com esta Habilidade pode aumentar quaisquer Limites no número de modelos que pode incluir em 1, desde que o modelo não tenha a Palavra-Chave ELITE, não esteja montado em uma base de 50mm ou maior, e não seja um Mercenário. Por exemplo, se a Entrada de Bando para um modelo no Bando tivesse um limite de 0-2, o limite seria aumentado para 0-3. Se o modelo com esta Habilidade for morto ou removido do Bando, modelos em excesso dos limites normais podem ser mantidos, mas novos modelos não podem ser adicionados o Bando em excesso dos limites normais. Um Bando só pode ter 1 modelo com esta Habilidade.
+- **Habilidades Logísticas:** Um Bando que inclua um modelo com esta Habilidade pode aumentar quaisquer Limites no número de modelos que pode incluir em 1, desde que o modelo não tenha a Palavra-Chave ELITE, não esteja montado em uma base de 50mm ou maior, e não seja um Mercenário. Por exemplo, se a Entrada de Bando para um modelo no Bando tivesse um limite de 0-2, o limite seria aumentado para 0-3. Se o modelo com esta Habilidade for morto ou removido do Bando, modelos em excesso dos limites normais podem ser mantidos, mas novos modelos não podem ser adicionados ao Bando em excesso dos limites normais. Um Bando só pode ter 1 modelo com esta Habilidade.
 - **Moedas do Céu:** Ao final de cada partida, seu Bando ganha D6x5 👑 adicionais para cada modelo com esta Habilidade que esteja no campo de batalha.
-- **Caminhar com Deus:** Escolha uma Habilidade de qualquer Tabela de Habilidades disponível para o modelo, incluindo qualquer Habilidade de Exploração, e dê-a a este modelo.
+- **Caminhar com Deus:** Escolha uma Habilidade de qualquer Tabela de Habilidades disponível para o modelo, incluindo qualquer Habilidade de Exploração, e atribua-a a este modelo.
 
 ---
 
@@ -2654,7 +2654,7 @@ A próxima coisa que você precisa fazer e montar o campo de batalha. A maioria 
 
 **Arquétipos de Campo de Batalha:** As instruções explicarão qual arquétipo de campo de batalha é usado para o cenário (ver Arquétipos de Campo de Batalha).
 
-**Marcadores:** Alguns cenários pedirao que você monte um ou mais Marcadores. Quando um Marcador é montado em um local específico, sua posição e marcada no mapa com uma cruz branca. Se um Marcador é montado no "Ponto Médio", ele deve ser montado com o centro do Marcador no centro do campo de batalha.
+**Marcadores:** Alguns cenários pedirão que você monte um ou mais Marcadores. Quando um Marcador é montado em um local específico, sua posição é marcada no mapa com uma cruz branca. Se um Marcador é montado no "Ponto Médio", ele deve ser montado com o centro do Marcador no centro do campo de batalha.
 
 **Terreno Bloqueador:** Você não tem permissão para montar terreno de forma que tornaria impossível para qualquer modelo usado na partida sair de sua Zona de Posicionamento ou alcançar um local onde um Marcador deve ser colocado.
 
@@ -2700,7 +2700,7 @@ Cada cenário tem um conjunto único de Feitos Gloriosos que, quando completados
 
 **Campo de Batalha:** Os jogadores fazem um desempate e o vencedor monta o terreno. Este cenário usa o arquétipo Terra de Ninguém. Campo de 24" entre as Zonas de Posicionamento de 6" cada.
 
-**Marcadores de Objetivo:** Os Marcadores no mapa representam objetivos importantes. Coloque as primeiras cinco peças de terreno nós locais dos Marcadores de Objetivo. Use peças de Edifícios em Ruínas, se disponíveis. Um jogador controla um Objetivo se tiver mais modelos amigos sobre, dentro ou a 1" da peça de terreno do que modelos inimigos.
+**Marcadores de Objetivo:** Os Marcadores no mapa representam objetivos importantes. Coloque as primeiras cinco peças de terreno nos locais dos Marcadores de Objetivo. Use peças de Edifícios em Ruínas, se disponíveis. Um jogador controla um Objetivo se tiver mais modelos amigos sobre, dentro ou a 1" da peça de terreno do que modelos inimigos.
 
 **Posicionamento:** Os jogadores fazem desempate; o vencedor escolhe sua Zona de Posicionamento. Alternam posicionando modelos um de cada vez, começando pelo jogador com mais modelos. Infiltradores devem ser posicionados normalmente.
 
