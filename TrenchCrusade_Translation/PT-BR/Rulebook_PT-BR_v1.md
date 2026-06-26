@@ -2650,7 +2650,7 @@ Cenários são disputados com uma seleção de modelos de seu Bando chamada For�
 
 ### O CAMPO DE BATALHA
 
-A próxima coisa que você precisa fazer e montar o campo de batalha. A maioria dos cenários pode ser jogada em uma mesa de jantar típica, mas alguns requerem um campo de batalha de 36" ou 48" quadrados.
+A próxima coisa que você precisa fazer é montar o campo de batalha. A maioria dos cenários pode ser jogada em uma mesa de jantar típica, mas alguns requerem um campo de batalha de 36" ou 48" quadrados.
 
 **Arquétipos de Campo de Batalha:** As instruções explicarão qual arquétipo de campo de batalha é usado para o cenário (ver Arquétipos de Campo de Batalha).
 
