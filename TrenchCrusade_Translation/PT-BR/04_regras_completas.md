@@ -514,7 +514,7 @@ Durante partidas de Trench Crusade, modelos podem ser feridos por ataques, queda
 
 ### Testes de Ferimento
 
-Umo Teste de Ferimento e feita de forma semelhante a um Teste de Sucesso, pegando 2D6, adicionando dados extras a rolagem e então escolhendo os dois dados mais altos ou mais baixos e somando-os. No entanto, quando você faz um Teste de Ferimento, DADOS DE FERIMENTO e MODIFICADORES DE FERIMENTO podem ser adicionados a rolagem em vez de +/-DADOS.
+Um Teste de Ferimento é feito de forma semelhante a um Teste de Sucesso, pegando 2D6, adicionando dados extras a rolagem e então escolhendo os dois dados mais altos ou mais baixos e somando-os. No entanto, quando você faz um Teste de Ferimento, DADOS DE FERIMENTO e MODIFICADORES DE FERIMENTO podem ser adicionados a rolagem em vez de +/-DADOS.
 
 **DADO DE FERIMENTO:** +/-DADOS DE FERIMENTO são adicionados a um Teste de Ferimento da mesma forma que +/-DADOS são adicionados a um Teste de Sucesso (ver Testes de Sucesso).
 

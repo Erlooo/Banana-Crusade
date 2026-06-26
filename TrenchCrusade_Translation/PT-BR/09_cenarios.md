@@ -271,7 +271,7 @@ Cada cenário tem um conjunto único de Feitos Gloriosos que, quando completados
 - **Matador de Dragões:** Modelo amigo em cima do Dragão o coloca Fora de Ação com Ataque Corpo a Corpo (ganha 2 ☼).
 - **Fogo com Fogo:** Ataque amigo com FOGO/GÁS/ESTILHAÇO causa 2 MARCADORES DE SANGUE no Dragão.
 - **Genocida:** Modelo coloca 3 Camponeses Fora de Ação.
-- **Oportunista:** Modelo está dentro de 3" de um Campones quando ele e atropelado pelo Dragão.
+- **Oportunista:** Modelo está dentro de 3" de um Camponês quando ele é atropelado pelo Dragão.
 - **Saia das Minhas Costas:** Modelo amigo Abate modelo em cima do Dragão, e o modelo Cai.
 
 ---
