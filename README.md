@@ -1,52 +1,80 @@
 <img width="1280" height="640" alt="banana_crusade_thumb" src="https://github.com/user-attachments/assets/69896e83-29aa-42c4-bd96-137a55098879" />
-# Trench Crusade - Tradução PT-BR (Banana-Crusade)
 
-Bem-vindo(a) ao projeto colaborativo de tradução não oficial do **Trench Crusade** para Português do Brasil!
+# Trench Crusade - Tradução PT-BR
 
-Este repositório foi criado para organizar, traduzir e revisar os arquivos de regras, compêndios e lore do jogo, com a ajuda da comunidade brasileira.
+> Tradução colaborativa e não oficial do **Trench Crusade** para Português do Brasil, feita pela comunidade para a comunidade.
 
-## 📖 Livro de Regras (Tradução Completa - Em Revisão)
+[![Status](https://img.shields.io/badge/status-em%20revis%C3%A3o-yellow)]()
+[![Idioma](https://img.shields.io/badge/idioma-PT--BR-green)]()
+[![Licença](https://img.shields.io/badge/licen%C3%A7a-fan%20project-blue)]()
 
-Acesse a versão compilada com todas as regras já traduzidas para começar a jogar ou nos ajudar com a revisão:
-- 📥 **[Baixar Rulebook em PDF (PT-BR)](./TrenchCrusade_Translation/PT-BR/Rulebook_PT-BR_v1.pdf)**
-- 📄 **[Ler Rulebook em Markdown (PT-BR)](./TrenchCrusade_Translation/PT-BR/Rulebook_PT-BR_v1.md)**
+## 📖 Livro de Regras Traduzido
+
+Acesse o Rulebook completo traduzido para jogar ou ajudar na revisão:
+
+| Formato | Link |
+|---------|------|
+| PDF (para impressão/leitura) | [Rulebook_PT-BR_v1.pdf](./TrenchCrusade_Translation/PT-BR/Rulebook_PT-BR_v1.pdf) |
+| Markdown (para edição) | [Rulebook_PT-BR_v1.md](./TrenchCrusade_Translation/PT-BR/Rulebook_PT-BR_v1.md) |
+
+---
+
+## 📂 Capítulos Individuais
+
+Para revisão e contribuição, cada seção do livro está em um arquivo separado:
+
+| # | Capítulo | Arquivo |
+|---|----------|---------|
+| 01 | Introdução | [01_introducao.md](./TrenchCrusade_Translation/PT-BR/01_introducao.md) |
+| 02 | O Mundo em Chamas | [02_mundo_em_chamas.md](./TrenchCrusade_Translation/PT-BR/02_mundo_em_chamas.md) |
+| 03 | Regras Centrais | [03_regras_centrais.md](./TrenchCrusade_Translation/PT-BR/03_regras_centrais.md) |
+| 04 | Regras Completas | [04_regras_completas.md](./TrenchCrusade_Translation/PT-BR/04_regras_completas.md) |
+| 05 | Palavras-Chave | [05_palavras_chave.md](./TrenchCrusade_Translation/PT-BR/05_palavras_chave.md) |
+| 06 | Terreno | [06_terreno.md](./TrenchCrusade_Translation/PT-BR/06_terreno.md) |
+| 07 | Equipamento de Batalha | [07_equipamento_batalha.md](./TrenchCrusade_Translation/PT-BR/07_equipamento_batalha.md) |
+| 08 | Regras de Campanha | [08_regras_campanha.md](./TrenchCrusade_Translation/PT-BR/08_regras_campanha.md) |
+| 09 | Cenários | [09_cenarios.md](./TrenchCrusade_Translation/PT-BR/09_cenarios.md) |
 
 ---
 
-## 🗂️ Outros Arquivos Principais
+## 🗂️ Referência
 
-- **[GLOSSARIO_PT-BR.md](./GLOSSARIO_PT-BR.md)**: Glossário canônico de termos. Consulte sempre antes de traduzir!
-- **[CORE_RULES.md](./CORE_RULES.md)**: Regras base do jogo.
-- **[ADVANCED_RULES.md](./ADVANCED_RULES.md)**: Regras avançadas.
-- **[WARBANDS_COMPENDIUM.md](./WARBANDS_COMPENDIUM.md)**: Compêndio das facções e unidades.
-- **[CAMPAIGN_AND_SCENARIOS.md](./CAMPAIGN_AND_SCENARIOS.md)**: Regras de campanha e cenários.
-
-## 📂 Capítulos da Tradução (para revisão)
-
-| Capítulo | Arquivo |
-|----------|---------|
-| Introdução | [01_introducao.md](./TrenchCrusade_Translation/PT-BR/01_introducao.md) |
-| O Mundo em Chamas | [02_mundo_em_chamas.md](./TrenchCrusade_Translation/PT-BR/02_mundo_em_chamas.md) |
-| Regras Centrais | [03_regras_centrais.md](./TrenchCrusade_Translation/PT-BR/03_regras_centrais.md) |
-| Regras Completas | [04_regras_completas.md](./TrenchCrusade_Translation/PT-BR/04_regras_completas.md) |
-| Palavras-Chave | [05_palavras_chave.md](./TrenchCrusade_Translation/PT-BR/05_palavras_chave.md) |
-| Terreno | [06_terreno.md](./TrenchCrusade_Translation/PT-BR/06_terreno.md) |
-| Equipamento de Batalha | [07_equipamento_batalha.md](./TrenchCrusade_Translation/PT-BR/07_equipamento_batalha.md) |
-| Regras de Campanha | [08_regras_campanha.md](./TrenchCrusade_Translation/PT-BR/08_regras_campanha.md) |
-| Cenários | [09_cenarios.md](./TrenchCrusade_Translation/PT-BR/09_cenarios.md) |
-
-## 🤝 Como contribuir
-
-Toda ajuda é bem-vinda! Se você notou algum termo estranho, um erro de digitação, ou quer traduzir uma parte que ainda está em inglês:
-
-1. **Acesse o arquivo** que você quer ajudar a revisar.
-2. Clique no ícone de lápis ✏️ (Editar arquivo) no canto superior direito do arquivo no GitHub.
-3. Faça suas alterações. Sempre consulte o **Glossário** para ver se o termo já foi traduzido antes!
-4. Desça até o final da página e clique em **Commit changes** (ou *Propose changes*).
-5. Escreva um breve título explicando o que você mudou (ex: *"Corrige erro de digitação nas regras de combate"* ou *"Adiciona tradução da facção X"*).
-6. Clique em **Propose changes** e depois crie um **Pull Request**.
-
-Iremos analisar e aprovar sua sugestão o mais rápido possível.
+| Arquivo | Descrição |
+|---------|-----------|
+| [GLOSSARIO_PT-BR.md](./GLOSSARIO_PT-BR.md) | Glossário canônico de termos. **Consulte sempre antes de traduzir.** |
+| [CORE_RULES.md](./CORE_RULES.md) | Regras base do jogo |
+| [ADVANCED_RULES.md](./ADVANCED_RULES.md) | Regras avançadas e keywords |
+| [WARBANDS_COMPENDIUM.md](./WARBANDS_COMPENDIUM.md) | Compêndio de facções e unidades |
+| [CAMPAIGN_AND_SCENARIOS.md](./CAMPAIGN_AND_SCENARIOS.md) | Regras de campanha e cenários |
 
 ---
-*Aviso Legal: Este é um projeto de fãs e não possui filiação oficial com os criadores do Trench Crusade. Todos os direitos reservados aos autores originais.*
+
+## 🤝 Como Contribuir
+
+1. **Encontre algo pra corrigir** - um erro de digitação, um termo inconsistente, uma frase estranha.
+2. **Consulte o [Glossário](./GLOSSARIO_PT-BR.md)** para garantir que está usando o termo canônico.
+3. **Edite o arquivo** clicando no ícone de lápis no GitHub.
+4. **Crie um Pull Request** com um breve título explicando a mudança.
+
+Exemplos de contribuições:
+- *"Corrige acento faltando nas regras de combate"*
+- *"Melhora fluência do parágrafo X no capítulo de terreno"*
+- *"Padroniza keyword DERRUBADO conforme glossário"*
+
+---
+
+## 📋 Convenções da Tradução
+
+| Regra | Exemplo |
+|-------|---------|
+| Keywords sempre em MAIÚSCULAS | MARCADOR DE SANGUE, DERRUBADO, EXPLOSÃO |
+| Medidas em polegadas com `"` | 6", 12", 24" |
+| Custos em emoji | 👑 (Ducados), ☼ (Pontos de Glória) |
+| Warband = Bando (masculino) | "seu Bando", "do Bando" |
+| Down = Derrubado | "o modelo fica Derrubado" |
+| Charge = Investir | "AÇÃO de Investir" |
+| Nomes de produtos em inglês | Warbands of Trench Crusade |
+
+---
+
+*Aviso Legal: Este é um projeto de fãs e não possui filiação oficial com a Factory Fortress Inc. ou os criadores do Trench Crusade. Todos os direitos reservados aos autores originais.*
