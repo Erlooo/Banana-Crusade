@@ -33,7 +33,7 @@ stylesheet: style.css
 
 Trench Crusade é um jogo de miniaturas em escala de escaramuça que mergulha os jogadores em uma terrível linha do tempo alternativa. Durante as Cruzadas, uma ordem herética de Templários ousou desafiar o Todopoderoso, quebrando seus juramentos sagrados e desencadeando as forças do Inferno sobre a Terra. Agora, mais de oitocentos anos depois, no Ano do Senhor de 1914, essa guerra brutal e implacável entre as forças do Céu e do Inferno continua. Não se trata apenas de uma luta pela sobrevivência. Este é um conflito cataclísmico que decidirá o destino da própria alma da humanidade.
 
-Enquanto ambos os lados da Grande Guerra se preparam para grandes ofensivas, uma batalha diferente se desenrola nas terras arrasadas da Terra de Ninguém. Aqui, pequenos bandos de combatentes percorrem um campo marcado por crateras, cicatrizado pela artilharia e devastado por séculos de guerra. Esses bandos coletam informações e artefatos antigos, buscam batedores inimigos e alvos de alto valor. Alguns são sabotadores e assassinos, atuando nas profundezas das linhas inimigas. Muitos estão em missões sagradas (ou profanas!) para obter relíquias ou realizar rituais ensanguentados em templos, igrejas e basílicas há muito perdidos. Outros vasculham a frente em busca de hospedeiros dignos de possessão ou sacrifício.
+Enquanto ambos os lados da Grande Guerra se preparam para grandes ofensivas, uma batalha diferente se desenrola nas terras arrasadas da Terra de Ninguém. Aqui, pequenos Bandos de combatentes percorrem um campo marcado por crateras, cicatrizado pela artilharia e devastado por séculos de guerra. Esses Bandos coletam informações e artefatos antigos, buscam batedores inimigos e alvos de alto valor. Alguns são sabotadores e assassinos, atuando nas profundezas das linhas inimigas. Muitos estão em missões sagradas (ou profanas!) para obter relíquias ou realizar rituais ensanguentados em templos, igrejas e basílicas há muito perdidos. Outros vasculham a frente em busca de hospedeiros dignos de possessão ou sacrifício.
 
 As regras que você está lendo são uma porta de entrada para jogos ambientados no mundo de Trench Crusade. Você encontrará tudo o que precisa para avançar para a batalha e se juntar às incontáveis almas presas neste conflito sem fim.
 
@@ -41,7 +41,7 @@ Na primeira seção, você encontrará uma linha do tempo de eventos significati
 
 Em seguida, você encontrará as regras. Elas estão divididas em duas seções: as **Regras Centrais**, que ensinarão os fundamentos, e as **Regras Completas**, que fornecem diretrizes mais detalhadas. Você descobrirá que as regras são fáceis de aprender e memorizar, mas exigirão habilidade e tempo para serem dominadas.
 
-Após as Regras Centrais, você encontrará a seção sobre como encadear batalhas individuais em uma **Campanha**. As **Regras de Campanha** são o coração pulsante do jogo Trench Crusade. Elas permitem que você crie suas próprias histórias, liderando seu bando de origens humildes até o status lendário na Grande Guerra, onde seus feitos são sussurrados nos bunkers e casamatas da Terra de Ninguém. Você perderá guerreiros e ganhará novos recrutas ao longo do caminho. Outros sofrerão ferimentos graves, mas alguns sobreviverão para aprender habilidades letais ou adquirir equipamentos poderosos.
+Após as Regras Centrais, você encontrará a seção sobre como encadear batalhas individuais em uma **Campanha**. As **Regras de Campanha** são o coração pulsante do jogo Trench Crusade. Elas permitem que você crie suas próprias histórias, liderando seu Bando de origens humildes até o status lendário na Grande Guerra, onde seus feitos são sussurrados nos bunkers e casamatas da Terra de Ninguém. Você perderá guerreiros e ganhará novos recrutas ao longo do caminho. Outros sofrerão ferimentos graves, mas alguns sobreviverão para aprender habilidades letais ou adquirir equipamentos poderosos.
 
 As regras são seguidas por uma série de emocionantes **Cenários** para você jogar, de ousadas incursões nas trincheiras a batalhas em trens blindados.
 
@@ -51,7 +51,7 @@ As regras são seguidas por uma série de emocionantes **Cenários** para você 
 
 ### Início Rápido
 
-- Um bando de 6 a 10 miniaturas para liderar na batalha.
+- Um Bando de 6 a 10 miniaturas para liderar na batalha.
 - Um campo de batalha de aproximadamente 3' x 3' (90x90cm) ou 4' x 4' (120x120cm), ou qualquer superfície com 24" (60cm) entre as forças.
 - Terreno (e muito dele).
 - Três conjuntos de dados de seis lados em cores diferentes.
@@ -65,7 +65,7 @@ Neste documento, você às vezes encontrará uma seta vermelha **▶** ou uma se
 
 ### Em Detalhes
 
-Trench Crusade é um jogo de miniaturas, então você vai precisar de soldados em miniatura para representar o bando sob seu comando. Um bando típico no início da campanha consiste em 6 a 10 modelos. Você pode adquiri-los em lojas de hobby, físicas ou online. Se tiver uma impressora 3D, uma vasta seleção de arquivos digitais imprimíveis também está disponível.
+Trench Crusade é um jogo de miniaturas, então você vai precisar de soldados em miniatura para representar o Bando sob seu comando. Um Bando típico no início da campanha consiste em 6 a 10 modelos. Você pode adquiri-los em lojas de hobby, físicas ou online. Se tiver uma impressora 3D, uma vasta seleção de arquivos digitais imprimíveis também está disponível.
 
 Oferecemos uma linha completa de modelos para Trench Crusade, mas também apoiamos com entusiasmo fabricantes independentes de miniaturas. Use as miniaturas que melhor deem vida à sua visão; o campo de batalha é seu para moldar.
 
@@ -73,7 +73,7 @@ Você vai precisar de uma mesa para jogar. Recomendamos uma superfície de aprox
 
 Você também precisará de uma fita métrica para determinar se seus fuzis de ferrolho estão dentro do alcance efetivo. Trench Crusade usa o arcaico sistema de medição imperial, portanto certifique-se de que sua fita métrica inclua essas unidades esotéricas.
 
-Em seguida, você precisa de algo para culpar pelas suas perdas e derrotas. Nós chamamos essas coisas de dados. Trench Crusade usa dados de seis lados, que a maioria dos wargamers já tem de sobra. Recomendamos pelo menos três conjuntos de seis dados em cores diferentes.
+Em seguida, você precisa de algo para culpar pelas suas perdas e derrotas. Chamamos essas coisas de dados. Trench Crusade usa dados de seis lados, que a maioria dos wargamers já tem de sobra. Recomendamos pelo menos três conjuntos de seis dados em cores diferentes.
 
 E o mais importante: você precisa de amigos! Um grupo de hobbyistas com interesses parecidos é o ingrediente mais essencial para uma boa experiência de wargame. Clubes de jogo locais e lojas de hobby são ótimos lugares para encontrar outros jogadores. Você também vai encontrar uma comunidade vibrante de Trench Crusade online em fóruns, canais e redes sociais.
 
@@ -97,17 +97,17 @@ Boas partidas!
 
 **1106:** Cobar torna-se o Primeiro Tirano dos Sessenta e Seis.
 
-**1109:** O Grande Sultanato da Invencível Muralha de Ferro dos Dois Chifres que Perfuram o Céu é formado. Nas próximas décadas, ele unifica as frações islâmicas. A Grande Muralha de Ferro de Iskandar ressurge e é fortificada contra os Heréticos.
+**1109:** O Grande Sultanato da Invencível Muralha de Ferro dos Dois Chifres que Perfuram o Céu é formado. Nas próximas décadas, ele unifica as facções islâmicas. A Grande Muralha de Ferro de Iskandar ressurge e é fortificada contra os Heréticos.
 
 **1117:** Os lendários Dezessete Mártires viajam aos Domínios do Inferno para converter os Heréticos. São capturados, torturados e preservados nas agonias da morte, aprisionados para a eternidade em altares incandescentes.
 
-**1165:** O Velho da Montanha é seus Hashashin defendem a fortaleza montanhosa de Alamute. Supostamente, o castelo resiste, apesar de estar sitiado há centenas de anos.
+**1165:** O Velho da Montanha e seus Hashashin defendem a fortaleza montanhosa de Alamute. Supostamente, o castelo resiste, apesar de estar sitiado há centenas de anos.
 
 **1215-1306:** As Guerras do Triclavianismo. A Igreja está dividida, engolfada em um violento conflito interno. Os domínios heréticos se expandem enquanto os Fiéis se voltam uns contra os outros. Milhões perecem pela espada e pelo fogo.
 
 **1312:** Os primeiros Comunicantes são criados. Sua entrada na guerra estabiliza a frente de batalha.
 
-**1346-1353:** Belzebu libera o Graal Negro. Dezenas de milhões são infectados, transformando-se em vasos metastaticos na pior praga que a humanidade já conheceu. As Guerras dos Cadáveres começam.
+**1346-1353:** Belzebu libera o Graal Negro. Dezenas de milhões são infectados, transformando-se em vasos metastáticos na pior praga que a humanidade já conheceu. As Guerras dos Cadáveres começam.
 
 **1429:** A Santa Viva Joana d'Arc expulsa o Graal Negro da Europa continental.
 
@@ -117,7 +117,7 @@ Boas partidas!
 
 **1545:** Antioquía é aniquilada por uma misteriosa arma Infernal.
 
-**1573:** A Sagrada Ordem do Dragão detêm o avanço Infernal após a destruição de Bizâncio. Espalha-se a notícia de um milhão de Heréticos empalados nas colinas da Waláchia.
+**1573:** A Sagrada Ordem do Dragão detém o avanço Infernal após a destruição de Bizâncio. Espalha-se a notícia de um milhão de Heréticos empalados nas colinas da Waláchia.
 
 **1588:** A Igreja Unificada compila a Nova Bíblia Sincrética Ortodoxa.
 
@@ -129,13 +129,13 @@ Boas partidas!
 
 **1703:** Contra todas as probabilidades, um pequeno grupo de Cavaleiros Hebreus, partindo de sua fortaleza secreta, destrói o bastião Templário em Acre.
 
-**1721:** O Terceiro Cerco de Nova Antioquia e levantado pelas forças combinadas do Sultão Ibrahim, reforçadas por um contingente de guerreiros Tughlaq do Oriente e uma frota de alívio dos Estados Papais do Ocidente.
+**1721:** O Terceiro Cerco de Nova Antioquia é levantado pelas forças combinadas do Sultão Ibrahim, reforçadas por um contingente de guerreiros Tughlaq do Oriente e uma frota de alívio dos Estados Papais do Ocidente.
 
-**1789:** A Grande Frota do Almirante Herético Amminadab lança uma invasão total das Highlands. Uma amarga guerra de guerrilha rage por décadas enquanto os escoceses lutam para expulsar os invasores. A população e devastada.
+**1789:** A Grande Frota do Almirante Herético Amminadab lança uma invasão total das Highlands. Uma amarga guerra de guerrilha rage por décadas enquanto os escoceses lutam para expulsar os invasores. A população é devastada.
 
 **1805:** A Frota Herética comandada pelo Alto Capitão Ranga triunfa sobre a marinha da Inglaterra na Batalha dos Penhascos Ensanguentados. O Almirante Nelson é morto em combate.
 
-**1807:** A Frota Basilisco Herética invade a Eire. O Alto Rei Muiredach lidera os clas contra os invasores, mas é morto na Batalha de Waterford. Os irlandeses travam uma campanha de guerrilha centenaria para reconquistar sua terra.
+**1807:** A Frota Basilisco Herética invade a Eire. O Alto Rei Muiredach lidera os clãs contra os invasores, mas é morto na Batalha de Waterford. Os irlandeses travam uma campanha de guerrilha centenária para reconquistar sua terra.
 
 **1866:** Em extremo segredo, cientistas Heréticos, auxiliados pelo demônio Marbas, constroem os primeiros submarinos modernos.
 
@@ -149,7 +149,7 @@ Boas partidas!
 
 **1899:** O Programa Espacial da Igreja é iniciado.
 
-**1905:** A Frota de Suprimentos de Nova Antioquia e emboscada e destruída pela frota Herética. Os destrocos vao parar na costa do Levante, criando a Frente das Carcaças. Achish, o Senhor dos Sessenta e Seis, lança o Oitavo Cerco de Nova Antioquia ao mesmo tempo que ataca o Sultanato de Ferro, visando dividir e destruir os exércitos dos Fiéis. O Duque de Nova Antioquia cai em batalha, mas uma força de alívio improvisada acaba por derrotar os exércitos Heréticos.
+**1905:** A Frota de Suprimentos de Nova Antioquia e emboscada e destruída pela frota Herética. Os destroços vão parar na costa do Levante, criando a Frente das Carcaças. Achish, o Senhor dos Sessenta e Seis, lança o Oitavo Cerco de Nova Antioquia ao mesmo tempo que ataca o Sultanato de Ferro, visando dividir e destruir os exércitos dos Fiéis. O Duque de Nova Antioquia cai em batalha, mas uma força de alívio improvisada acaba por derrotar os exércitos Heréticos.
 
 **1907:** A construção da Fortaleza Móvel da Britânia é concluída.
 
@@ -161,15 +161,15 @@ Boas partidas!
 
 ## Uma Guerra Sem Fim
 
-A Terra foi cindida em dois, como por uma espada ensanguentada, dividida entre os Fiéis e as forças caidas do Inferno. Nunca pode haver paz verdadeira entre eles. Embora décadas possam passar enquanto ambos os lados, exaustos e gastos, recolhem suas forças e restauram suas fileiras, o conflito sempre recomeça.
+A Terra foi cindida em dois, como por uma espada ensanguentada, dividida entre os Fiéis e as forças caídas do Inferno. Nunca pode haver paz verdadeira entre eles. Embora décadas possam passar enquanto ambos os lados, exaustos e gastos, recolhem suas forças e restauram suas fileiras, o conflito sempre recomeça.
 
 O Principado de Nova Antioquia permanece desafiador diante do poder do Diabo. Aqui, o Duque Constantino XI comanda os exércitos dos Fiéis. Sobre seus ombros repousa o destino do continente europeu. De toda a Cristandade, os piedosos e os loucos formam Procissões de Peregrinos das Trincheiras em números impressionantes. Esses homens e mulheres buscam se lançar contra as forças demoníacas e heréticas, desesperados para conquistar a salvação através da batalha.
 
 A Leste, sob a proteção da Grande Muralha de Ferro, o Sultão mobiliza suas forças enquanto lutam para conter a maré de Shaytão.
 
-Opondo-se aos Fiéis, das terras sob a sombra ardente do Inferno, vem os Senhores dos Sessenta e Seis, tramando rumo ao domínio e a ascensão de um novo soberano, refletindo a política mercurial do Inferno na Terra. No meio dos campos de morte, cadáveres se levantam enquanto o Príncipe da Decadência, Belzebu, trava sua própria guerra privada contra toda a vida com seu Graal Negro. Os adoradores mortais de demônios e os Heréticos são reforçados pelos exércitos da Corte da Serpente de Sete Cabeças, os soldados de pé do Inferno. Em sombria majestade, as terríveis partidas de caça do Inferno buscam sangrar a Terra até a morte.
+Opondo-se aos Fiéis, das terras sob a sombra ardente do Inferno, vem os Senhores dos Sessenta e Seis, tramando rumo ao domínio e à ascensão de um novo soberano, refletindo a política mercurial do Inferno na Terra. No meio dos campos de morte, cadáveres se levantam enquanto o Príncipe da Decadência, Belzebu, trava sua própria guerra privada contra toda a vida com seu Graal Negro. Os adoradores mortais de demônios e os Heréticos são reforçados pelos exércitos da Corte da Serpente de Sete Cabeças, os soldados de pé do Inferno. Em sombria majestade, as terríveis partidas de caça do Inferno buscam sangrar a Terra até a morte.
 
-Entre os lados em guerra se abre a Terra de Ninguém: interminaveis trincheiras, casamatas e bunkers, aldeias, cidades e municípios em ruínas, cravejados por artilharia devastadora, criam uma paisagem de horror, assombrada pelos fantasmas dos mortos. Templos, sinagogas, mesquitas, igrejas, basílicas e catedrais destruídos testemunham em silencio solene uma batalha tão espiritual quanto física.
+Entre os lados em guerra se abre a Terra de Ninguém: intermináveis trincheiras, casamatas e bunkers, aldeias, cidades e municípios em ruínas, cravejados por artilharia devastadora, criam uma paisagem de horror, assombrada pelos fantasmas dos mortos. Templos, sinagogas, mesquitas, igrejas, basílicas e catedrais destruídos testemunham em silêncio solene uma batalha tão espiritual quanto física.
 
 Os perigos no mar não são menos graves, onde as marinhas Heréticas dominam suas contrapartes Fiéis. Manter rotas comerciais vitais exige cada grama de força dos almirantes e capitães encarregados da tarefa quase impossível de disputar os poderosos colossos e submarinos dos Heréticos. Apenas no Mediterrâneo os Fiéis e os Heréticos se enfrentam como quase iguais, presos em um tênue equilíbrio de poder.
 
@@ -290,7 +290,7 @@ Quando um modelo Pula, Mergulha ou Cai 3" ou mais, há uma chance de ser ferido.
 
 ### Rolagens de Ferimento
 
-Para fazer uma Rolagem de Ferimento, role dois dados e adicione quaisquer +DADOS DE FERIMENTO ou -DADOS DE FERIMENTO à rolagem. +/-DADOS DE FERIMENTO funcionam da mesma forma que +/-DADOS, mas modificam Rolagens de Ferimento em vez de Testes de Sucesso. Escolha os dois dados mais altos (ou mais baixos se algum -DADO DE FERIMENTO foi usado). Quaisquer MODIFICADORES DE FERIMENTO que se apliquem são então adicionados à rolagem, e a rolagem modificada e consultada na tabela abaixo:
+Para fazer uma Rolagem de Ferimento, role dois dados e adicione quaisquer +DADOS DE FERIMENTO ou -DADOS DE FERIMENTO à rolagem. +/-DADOS DE FERIMENTO funcionam da mesma forma que +/-DADOS, mas modificam Rolagens de Ferimento em vez de Testes de Sucesso. Escolha os dois dados mais altos (ou mais baixos se algum -DADO DE FERIMENTO foi usado). Quaisquer MODIFICADORES DE FERIMENTO que se apliquem são então adicionados à rolagem, e a rolagem modificada é consultada na tabela abaixo:
 
 **Tabela de Ferimento**
 
@@ -392,7 +392,7 @@ Cada jogador comanda um Bando, que tipicamente consiste de 6 a 20 modelos (ver C
 
 **Modelos Amigos e Inimigos**
 
-Os modelos em seu Bando são referidos como "modelos amigos" nas regras, enquanto os do Bando de seu oponente são referidos como "modelos inimigos". Se uma regra que se aplica a um modelo (ou a uma peça de Equipamento de Batalha carregada por um modelo) diz que "você" pode fazer algo com ele, isso se refere ao jogador que comanda o Bando da qual o modelo faz parte. Da mesma forma, você "faz uma rolagem" para seus próprios modelos, e "realiza uma rolagem" contra os modelos de seu oponente.
+Os modelos em seu Bando são referidos como "modelos amigos" nas regras, enquanto os do Bando de seu oponente são referidos como "modelos inimigos". Se uma regra que se aplica a um modelo (ou a uma peça de Equipamento de Batalha carregada por um modelo) diz que "você" pode fazer algo com ele, isso se refere ao jogador que comanda o Bando do qual o modelo faz parte. Da mesma forma, você "faz uma rolagem" para seus próprios modelos, e "realiza uma rolagem" contra os modelos de seu oponente.
 
 **Perfis**
 
@@ -400,11 +400,11 @@ Cada modelo em seu Bando tem um Perfil que descreve sua eficácia em combate e a
 
 ### CAMPO DE BATALHA
 
-Você também precisará de uma superfície de jogo para jogar, que é referida como "o campo de batalha" nas regras a seguir. A maioria das partidas pode ser jogada em uma mesa de cozinha típica, desde que tenha pelo menos 30" de largura. Algumas partidas exigirão um campo de batalha maior: 36" x 36" ou 48" x 48" e o tamanho ideal para estas. Você pode encontrar mais informações sobre como preparar o campo de batalha e quando pode precisar de mais espaço na seção de Cenários (ver Cenários).
+Você também precisará de uma superfície de jogo para jogar, que é referida como "o campo de batalha" nas regras a seguir. A maioria das partidas pode ser jogada em uma mesa de cozinha típica, desde que tenha pelo menos 30" de largura. Algumas partidas exigirão um campo de batalha maior: 36" x 36" ou 48" x 48" é o tamanho ideal para estas. Você pode encontrar mais informações sobre como preparar o campo de batalha e quando pode precisar de mais espaço na seção de Cenários (ver Cenários).
 
 ### TERRENO
 
-Terreno também é necessário, e quanto mais você tiver, melhor! Trench Crusade é um jogo de posicionamento e táticas, então diferentes tipos de elevação, cobertura e peças de terreno variadas ajudarao a aprimorar suas partidas. Você pode encontrar regras para montar o terreno para uma partida na seção de Terreno (ver Terreno de Trench Crusade).
+Terreno também é necessário, e quanto mais você tiver, melhor! Trench Crusade é um jogo de posicionamento e táticas, então diferentes tipos de elevação, cobertura e peças de terreno variadas ajudarão a aprimorar suas partidas. Você pode encontrar regras para montar o terreno para uma partida na seção de Terreno (ver Terreno de Trench Crusade).
 
 ### FITA MÉTRICA OU RÉGUA
 
@@ -416,11 +416,11 @@ Cada jogador precisará de vários dados de 6 lados, referidos como "D6s" nas re
 
 **Rolagens de D3**
 
-Ocasionalmente, será solicitado que você role um "D3". Para fazer isso, role um D6 e dívida o resultado pela metade, arredondando para cima: um 1 ou 2 = 1, um 3 ou 4 = 2 e um 5 ou 6 = 3.
+Ocasionalmente, será solicitado que você role um "D3". Para fazer isso, role um D6 e divida o resultado pela metade, arredondando para cima: um 1 ou 2 = 1, um 3 ou 4 = 2 e um 5 ou 6 = 3.
 
 ### CENÁRIO
 
-Por fim, você precisará escolher um cenário para a partida que está prestes a jogar. O cenário diz como montar o terreno para o jogo, onde posicionar seus Bandos, quantos Turnos a partida durará e como o vencedor da partida é determinado. Se está é sua primeira partida, recomendamos usar o Cenário 1: Reclamar a Terra de Ninguém (ver Reclamar a Terra de Ninguém).
+Por fim, você precisará escolher um cenário para a partida que está prestes a jogar. O cenário diz como montar o terreno para o jogo, onde posicionar seus Bandos, quantos Turnos a partida durará e como o vencedor da partida é determinado. Se esta é sua primeira partida, recomendamos usar o Cenário 1: Reclamar a Terra de Ninguém (ver Reclamar a Terra de Ninguém).
 
 ---
 
@@ -456,7 +456,7 @@ Para fazer um Teste de Sucesso para um modelo, siga os seguintes passos:
 
 **Testes de Sucesso Arriscados**
 
-Às vezes você será chamado a fazer um Teste de Sucesso Arriscado para um modelo. Um Teste de Sucesso Arriscado é feita exatamente da mesma forma que um Teste de Sucesso normal. No entanto, se a rolagem falhar, a Ativação do modelo termina imediatamente (ver Fase de Ativação). Se uma regra se aplica a um Teste de Sucesso, então ela se aplica da mesma forma a um Teste de Sucesso Arriscado. Se um modelo fizer um Teste de Sucesso Arriscado como parte de uma AÇÃO fora da Ativação daquele modelo e a rolagem for uma Falha, aquela AÇÃO termina imediatamente.
+Às vezes você será chamado a fazer um Teste de Sucesso Arriscado para um modelo. Um Teste de Sucesso Arriscado é feito exatamente da mesma forma que um Teste de Sucesso normal. No entanto, se a rolagem falhar, a Ativação do modelo termina imediatamente (ver Fase de Ativação). Se uma regra se aplica a um Teste de Sucesso, então ela se aplica da mesma forma a um Teste de Sucesso Arriscado. Se um modelo fizer um Teste de Sucesso Arriscado como parte de uma AÇÃO fora da Ativação daquele modelo e a rolagem for uma Falha, aquela AÇÃO termina imediatamente.
 
 ---
 
@@ -484,7 +484,7 @@ Note que se um modelo ou peça de Equipamento de Batalha tiver a Palavra-Chave +
 
 ### Exemplo de jogo
 
-Um Teste de Sucesso é feita por um Peregrino das Trincheiras para ver se um Ataque a Distância que está fazendo com seu Rifle de Ferrolho acerta um modelo Herético. O Herético está em Cobertura, o que adiciona -1 DADO os Testes de Sucesso para o Ataque a Distância do Peregrino das Trincheiras. Nenhum outro modificador se aplica ao ataque. 3 dados são rolados para o ataque é resultam em 5, 5 e 1. Os dois resultados mais baixos são escolhidos (um 5 e o 1), dando um Teste de Sucesso de 6. A Teste de Sucesso falhou e portanto o tiro do Peregrino das Trincheiras erra!
+Um Teste de Sucesso é feita por um Peregrino das Trincheiras para ver se um Ataque a Distância que está fazendo com seu Rifle de Ferrolho acerta um modelo Herético. O Herético está em Cobertura, o que adiciona -1 DADO aos Testes de Sucesso para o Ataque a Distância do Peregrino das Trincheiras. Nenhum outro modificador se aplica ao ataque. 3 dados são rolados para o ataque e resultam em 5, 5 e 1. Os dois resultados mais baixos são escolhidos (um 5 e o 1), dando um Teste de Sucesso de 6. O Teste de Sucesso falhou e portanto o tiro do Peregrino das Trincheiras erra!
 
 Um modelo de Soldado Herético com bônus de +1 DADO para Ataque a Distância atira em um modelo de Peregrino em cobertura. A penalidade de -1 DADO é o bônus de +1 DADO se cancelam, então o jogador Herético simplesmente rola 2 dados. O resultado é 4 e 3, para um total de 7. O tiro acerta!
 
@@ -504,13 +504,13 @@ Cada vez que um de seus modelos sofrer um ferimento, coloque um MARCADOR DE SANG
 
 Toda vez que você fizer um Teste de Sucesso para um modelo amigo que tenha MARCADORES DE SANGUE, seu oponente pode declarar que está gastando um ou mais deles, removendo os MARCADORES DE SANGUE do modelo conforme são gastos. Para cada MARCADOR DE SANGUE gasto, adicione -1 DADO ao Teste de Sucesso. Por exemplo, se você estivesse fazendo um Teste de Sucesso para um modelo que tivesse 3 MARCADORES DE SANGUE, então o jogador adversário poderia escolher gastar 1, 2 ou todos os 3 MARCADORES DE SANGUE para adicionar -1, -2 ou -3 DADOS ao Teste de Sucesso.
 
-Alternativamente, quando seu oponente fizer uma Rolagem de Ferimento para um modelo da seu Bando que tenha MARCADORES DE SANGUE, ele pode declarar que está gastando um ou mais deles, removendo os MARCADORES DE SANGUE do modelo conforme são gastos. Para cada MARCADOR DE SANGUE gasto, adicione +1 DADO DE FERIMENTO à Rolagem de Ferimento, tornando um ferimento grave muito mais provável (ver Rolagens de Ferimento).
+Alternativamente, quando seu oponente fizer uma Rolagem de Ferimento para um modelo do seu Bando que tenha MARCADORES DE SANGUE, ele pode declarar que está gastando um ou mais deles, removendo os MARCADORES DE SANGUE do modelo conforme são gastos. Para cada MARCADOR DE SANGUE gasto, adicione +1 DADO DE FERIMENTO à Rolagem de Ferimento, tornando um ferimento grave muito mais provável (ver Rolagens de Ferimento).
 
 ---
 
 ### MARCADORES DE BÊNÇÃO
 
-MARCADORES DE BÊNÇÃO funcionam de forma semelhante aos MARCADORES DE SANGUE. Poderes sobrenaturais, relíquias sagradas e outras fontes podem concede-los a um modelo.
+MARCADORES DE BÊNÇÃO funcionam de forma semelhante aos MARCADORES DE SANGUE. Poderes sobrenaturais, relíquias sagradas e outras fontes podem concedê-los a um modelo.
 
 **Colocando Marcadores de Bênção**
 
@@ -520,7 +520,7 @@ Cada vez que um de seus modelos receber uma bênção, coloque um MARCADOR DE B�
 
 Toda vez que você fizer um Teste de Sucesso para um modelo amigo que tenha MARCADORES DE BÊNÇÃO, você pode declarar que está gastando um ou mais deles, removendo os MARCADORES DE BÊNÇÃO do modelo conforme são gastos. Para cada MARCADOR DE BÊNÇÃO gasto, adicione +1 DADO ao Teste de Sucesso.
 
-Alternativamente, quando seu oponente fizer uma Rolagem de Ferimento para um modelo da seu Bando que tenha MARCADORES DE BÊNÇÃO, você pode declarar que está gastando um ou mais deles, removendo os MARCADORES DE BÊNÇÃO do modelo conforme são gastos. Para cada MARCADOR DE BÊNÇÃO gasto, adicione -1 DADO DE FERIMENTO à Rolagem de Ferimento, tornando um ferimento grave muito menos provável.
+Alternativamente, quando seu oponente fizer uma Rolagem de Ferimento para um modelo do seu Bando que tenha MARCADORES DE BÊNÇÃO, você pode declarar que está gastando um ou mais deles, removendo os MARCADORES DE BÊNÇÃO do modelo conforme são gastos. Para cada MARCADOR DE BÊNÇÃO gasto, adicione -1 DADO DE FERIMENTO à Rolagem de Ferimento, tornando um ferimento grave muito menos provável.
 
 **Rastreando Marcadores de Sangue e Bênção**
 
@@ -530,11 +530,11 @@ Você pode rastrear o número de MARCADORES DE SANGUE ou MARCADORES DE BÊNÇÃO
 
 ## Perfis
 
-Todo modelo tem um Perfil que define sua eficácia no jogo. Além disso, Perfis de Equipamento de Batalha cobrem as Armas, Armadura e Equipamentos que um modelo pode carregar. Abaixo, você encontrará exemplos de um Perfil de modelo e um Perfil de Equipamento de Batalha. Uma explicação detalhada do Perfil de modelo é fornecida em Criando um Bando (ver Criando um Bando em Warbands of Trench Crusade), e o Perfil de Equipamento de Batalha e explicado na seção de Equipamento de Batalha (ver Equipamento de Batalha).
+Todo modelo tem um Perfil que define sua eficácia no jogo. Além disso, Perfis de Equipamento de Batalha cobrem as Armas, Armadura e Equipamentos que um modelo pode carregar. Abaixo, você encontrará exemplos de um Perfil de modelo e um Perfil de Equipamento de Batalha. Uma explicação detalhada do Perfil de modelo é fornecida em Criando um Bando (ver Criando um Bando em Warbands of Trench Crusade), e o Perfil de Equipamento de Batalha é explicado na seção de Equipamento de Batalha (ver Equipamento de Batalha).
 
 **Exemplo de Perfil: Azebs, Custo: 25 👑**
 
-Azebs são soldados recrutados da multidão de províncias do sultanato, onde uma casa em cada vinte e obrigado a equipar e fornecer um guerreiro para servir o príncipe Daqueles Que Creem. Eles são frequentemente usados por seus superiores como escaramuçadores leves para assediar e prender o inimigo enquanto tropas mais pesadas se aproximam para o golpe final.
+Azebs são soldados recrutados da multidão de províncias do sultanato, onde uma casa em cada vinte é obrigada a equipar e fornecer um guerreiro para servir o príncipe Daqueles Que Creem. Eles são frequentemente usados por seus superiores como escaramuçadores leves para assediar e prender o inimigo enquanto tropas mais pesadas se aproximam para o golpe final.
 
 | Movimento | Distância | Corpo a Corpo | Armadura | Base |
 |-----------|-----------|---------------|----------|------|
@@ -613,7 +613,7 @@ Uma partida de Trench Crusade é dividida em Turnos. O cenário sendo usado para
 Um Turno de Trench Crusade é dividido nas seguintes fases:
 
 1. **Fase de Iniciativa:** Determine qual jogador tem a Iniciativa e então realize quaisquer tarefas de "início de Turno".
-2. **Fase de Ativação:** Os jogadores alternam Ativando seus modelos, um de cada vez, até que todos os modelos em ambas os Bandos tenham sido Ativados uma vez cada.
+2. **Fase de Ativação:** Os jogadores alternam Ativando seus modelos, um de cada vez, até que todos os modelos em ambos os Bandos tenham sido Ativados uma vez cada.
 3. **Fase de Moral:** Um jogador deve fazer um Teste de Moral se pelo menos metade de seus modelos estiverem Derrubados ou Fora de Ação. Um jogador perde o jogo se falhar em um Teste de Moral dois Turnos seguidos. Em seguida, os jogadores realizam tarefas de fim de Turno e um novo Turno começa.
 
 ---
@@ -624,7 +624,7 @@ No início de cada Turno, você deve determinar qual jogador tem a Iniciativa pa
 
 **Determinando a Iniciativa**
 
-Para determinar qual jogador tem a Iniciativa, conte o número de modelos em cado Bando que estão atualmente no campo de batalha. Não conte modelos que estão Derrubados ou Fora de Ação ao determinar qual jogador tem menos modelos. O jogador com o menor número de modelos tem a Iniciativa pelo resto do Turno. Se ambos os jogadores tiverem o mesmo número de modelos, eles fazem um desempate é o vencedor tem a Iniciativa pelo resto do Turno.
+Para determinar qual jogador tem a Iniciativa, conte o número de modelos em cada Bando que estão atualmente no campo de batalha. Não conte modelos que estão Derrubados ou Fora de Ação ao determinar qual jogador tem menos modelos. O jogador com o menor número de modelos tem a Iniciativa pelo resto do Turno. Se ambos os jogadores tiverem o mesmo número de modelos, eles fazem um desempate e o vencedor tem a Iniciativa pelo resto do Turno.
 
 **Tarefas de Início de Turno**
 
@@ -662,11 +662,11 @@ AÇÕES comuns que todos os modelos podem realizar estão listadas abaixo. Além
 
 - **Recuar:** Um Recuo é um tipo especial de movimento que é usado quando um modelo está dentro de 1" de um modelo inimigo e deseja se afastar (ver Recuo).
 
-**Correr:** Você pode mover seu modelo um número de polegadas até sua Característica de Movimento em qualquer direção (ver Movimentos), mas deve fazer um Teste de Sucesso Arriscado para o modelo primeiro. Se tiver sucesso, você pode mover-se com o modelo (ele não pode carregar ou recuar); se falhar, a Ativação do modelo termina. Correr pode ser realizado em adição a, e antes ou depois de, uma AÇÃO de Mover, Investir ou Recuar. Por exemplo, um modelo poderia Correr, depois Atirar e então Mover.
+**Correr:** Você pode mover seu modelo um número de polegadas até sua Característica de Movimento em qualquer direção (ver Movimentos), mas deve fazer um Teste de Sucesso Arriscado para o modelo primeiro. Se tiver sucesso, você pode mover-se com o modelo (ele não pode investir ou recuar); se falhar, a Ativação do modelo termina. Correr pode ser realizado em adição a, e antes ou depois de, uma AÇÃO de Mover, Investir ou Recuar. Por exemplo, um modelo poderia Correr, depois Atirar e então Mover.
 
-**Atirar:** Está AÇÃO permite que você faça um Ataque a Distância com o modelo (ver Ataques a Distância).
+**Atirar:** Esta AÇÃO permite que você faça um Ataque a Distância com o modelo (ver Ataques a Distância).
 
-**Lutar:** Está AÇÃO permite que você faça um Ataque Corpo a Corpo com o modelo (ver Ataques Corpo a Corpo).
+**Lutar:** Esta AÇÃO permite que você faça um Ataque Corpo a Corpo com o modelo (ver Ataques Corpo a Corpo).
 
 ---
 
@@ -1004,13 +1004,13 @@ Palavras-Chave tem dois benefícios: elas atuam como Etiquetas e podem conferir 
 ## Glossário de Palavras-Chave
 
 ### +/-DADO (Efeito)
-Dados que são adicionados a Testes de Sucesso (ver Testes de Sucesso). Se a Palavra-Chavê se aplica a uma Arma, os dados são adicionados apenas a Testes de Sucesso para Ataques feitos com ela.
+Dados que são adicionados a Testes de Sucesso (ver Testes de Sucesso). Se a Palavra-Chave se aplica a uma Arma, os dados são adicionados apenas a Testes de Sucesso para Ataques feitos com ela.
 
 ### +/-DADO DE FERIMENTO (Efeito)
-Dados que são adicionados a Rolagens de Ferimento (ver Rolagens de Ferimento). Se a Palavra-Chavê se aplica a uma Arma, os dados são adicionados apenas a Rolagens de Ferimento para Ataques feitos com ela.
+Dados que são adicionados a Rolagens de Ferimento (ver Rolagens de Ferimento). Se a Palavra-Chave se aplica a uma Arma, os dados são adicionados apenas a Rolagens de Ferimento para Ataques feitos com ela.
 
 ### +/-MODIFICADOR DE FERIMENTO (Efeito)
-Modificadores que são aplicados ao resultado de uma Rolagem de Ferimento (ver Rolagens de Ferimento). Se a Palavra-Chavê se aplica a uma Arma, o modificador é adicionado apenas às Rolagens de Ferimento para Ataques feitos com ela.
+Modificadores que são aplicados ao resultado de uma Rolagem de Ferimento (ver Rolagens de Ferimento). Se a Palavra-Chave se aplica a uma Arma, o modificador é adicionado apenas às Rolagens de Ferimento para Ataques feitos com ela.
 
 ### AÇÃO (Etiqueta)
 Uma atividade que um modelo pode realizar quando é Ativado. AÇÕES comuns incluem Mover, Correr, Atirar e Lutar.
@@ -1195,7 +1195,7 @@ A área em que você joga sua partida é referida como o campo de batalha. Antes
 
 ## Peças de Terreno
 
-Além do campo de batalha, você precisará do maior número de peças de terreno que conseguir. Você pode comprar modelos de terreno plásticos adequados para uso como peças de terreno da mesma forma que pode comprar os modelos que compõem os guerreiros em seu Bando. Recomendamos que você use os modelos da crescente linha de terreno de Trench Crusade para seus jogos, mas não nós importamos se você decidir usar kits de outra empresa em vez dos nossos. Muitos jogadores gostam de construir artesanalmente as peças de terreno para seus jogos a partir de materiais de modelismo como plasticard, placa de espuma e cartão-espuma, cola PVA e areia de modelismo. Basta dizer que uma busca rápida na internet trará muitos exemplos de modelos de terreno que você pode usar, e artigos introdutórios sobre como construir terreno artesanalmente.
+Além do campo de batalha, você precisará do maior número de peças de terreno que conseguir. Você pode comprar modelos de terreno plásticos adequados para uso como peças de terreno da mesma forma que pode comprar os modelos que compõem os guerreiros em seu Bando. Recomendamos que você use os modelos da crescente linha de terreno de Trench Crusade para seus jogos, mas não nos importamos se você decidir usar kits de outra empresa em vez dos nossos. Muitos jogadores gostam de construir artesanalmente as peças de terreno para seus jogos a partir de materiais de modelismo como plasticard, placa de espuma e cartão-espuma, cola PVA e areia de modelismo. Basta dizer que uma busca rápida na internet trará muitos exemplos de modelos de terreno que você pode usar, e artigos introdutórios sobre como construir terreno artesanalmente.
 
 ### Um campo de batalha improvisado
 
@@ -1281,7 +1281,7 @@ Para fazer uma mesa de jogo, basta comprar uma peça de MDF, aglomerado ou compe
 
 ## Arquétipos de Campo de Batalha
 
-Partidas de Trench Crusade são travadas em todos os tipos de terreno, das passagens de montanha mais altas as profundezas subterraneas sombrias, mas para os propósitos dos cenários neste livro de regras, nós focamos em três arquétipos de campo de batalha: Terra de Ninguém, Ruínas Decimadas e (claro) Linhas de Trincheira. O cenário que você está usando para a partida explicará claramente que tipo de arquétipo de campo de batalha deve ser usado. O terreno para o cenário pode então ser montado usando as instruções abaixo.
+Partidas de Trench Crusade são travadas em todos os tipos de terreno, das passagens de montanha mais altas as profundezas subterraneas sombrias, mas para os propósitos dos cenários neste livro de regras, nos focamos em três arquétipos de campo de batalha: Terra de Ninguém, Ruínas Decimadas e (claro) Linhas de Trincheira. O cenário que você está usando para a partida explicará claramente que tipo de arquétipo de campo de batalha deve ser usado. O terreno para o cenário pode então ser montado usando as instruções abaixo.
 
 ---
 
@@ -1428,7 +1428,7 @@ A menos que declarado de outra forma, assume-se que um modelo tem:
 - Uma cabeça para usar um capacete.
 - Um corpo que pode ser coberto por armadura.
 
-Além disso, assume-se que um modelo tem cintos, mochilas e bolsas suficientes para carregar Granadas é qualquer outro Equipamento que possua. Todas as entradas de Arma especificam se requerem uma ou duas mãos para usar. Um modelo pode alternar livremente entre Armas a Distância e Corpo a Corpo entre AÇÕES, pendurando armas não usadas no ombro ou guardando-as em um coldre ou bainha conforme necessário.
+Além disso, assume-se que um modelo tem cintos, mochilas e bolsas suficientes para carregar Granadas e qualquer outro Equipamento que possua. Todas as entradas de Arma especificam se requerem uma ou duas mãos para usar. Um modelo pode alternar livremente entre Armas a Distância e Corpo a Corpo entre AÇÕES, pendurando armas não usadas no ombro ou guardando-as em um coldre ou bainha conforme necessário.
 
 ---
 
@@ -1572,7 +1572,7 @@ Uma arma lateral sofisticada feita de orichalcum ou outros metais sagrados, ou d
 
 ### Rifle de Precisão
 
-Um rifle de precisão é um rifle de alta precisão e longo alcance, amplamente usado nas trincheiras para eliminar alvos de alto valor como oficiais, sapadores e equipes de artilharia. Caros e raros, são comumente dados aos melhores atiradores e franco-atiradores do bando.
+Um rifle de precisão é um rifle de alta precisão e longo alcance, amplamente usado nas trincheiras para eliminar alvos de alto valor como oficiais, sapadores e equipes de artilharia. Caros e raros, são comumente dados aos melhores atiradores e franco-atiradores do Bando.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
@@ -1676,7 +1676,7 @@ Clavas de trincheira são uma das armas mais comuns da Grande Guerra, pois o com
 
 ### Faça de Trincheira
 
-Virtualmente todos os soldados carregam uma faça de trincheira, adaga ou outro tipo de lâmina para confrontos de curta distância. Pode faltar-lhe o poder devastador de um grande malho ou outras armas corpo a corpo mais pesadas, mas esta arma humilde ceifou incontáveis vidas durante a Grande Guerra.
+Virtualmente todos os soldados carregam uma faca de trincheira, adaga ou outro tipo de lâmina para confrontos de curta distância. Pode faltar-lhe o poder devastador de um grande malho ou outras armas corpo a corpo mais pesadas, mas esta arma humilde ceifou incontáveis vidas durante a Grande Guerra.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
@@ -1954,7 +1954,7 @@ Um artefato investido de poder profano. Exemplos incluem cabeças de nephilim, e
 
 ### Amuleto Profano
 
-Muitos Soldados Heréticos carregam um talismã ou amuleto que são vendidos por videntes e diabretes nós domínios Heréticos. Tal amuleto pode ser um crânio, feto preservado, chifre de bode, e é frequentemente coberto de runas Goeticas.
+Muitos Soldados Heréticos carregam um talismã ou amuleto que são vendidos por videntes e diabretes nos domínios Heréticos. Tal amuleto pode ser um crânio, feto preservado, chifre de bode, e é frequentemente coberto de runas Goeticas.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
@@ -1979,7 +1979,7 @@ Selecione um Patrono para seu Bando desta lista. Sua escolha determina qual habi
 
 ### SENHOR TEMPORAL
 
-*Somente Nova Antioquia.* Seu Patrono é um nobre poderoso, talvez um príncipe mercador, um oficial militar de alto escalão, um ministro, ou até mesmo o próprio Duque de Nova Antioquia. Tais Patronos podem ajudar no treinamento especializado de seu bando e na obtenção de armas caras.
+*Somente Nova Antioquia.* Seu Patrono é um nobre poderoso, talvez um príncipe mercador, um oficial militar de alto escalão, um ministro, ou até mesmo o próprio Duque de Nova Antioquia. Tais Patronos podem ajudar no treinamento especializado de seu Bando e na obtenção de armas caras.
 
 Ter um Senhor Temporal como seu Patrono permite que você adquira as seguintes Habilidades:
 
@@ -2975,7 +2975,7 @@ Se a Besta despertar, todos os modelos ficam Fora de Ação é a partida termina
 - **Sem Escapatória:** Modelo amigo investe com sucesso contra inimigo que não estava em sua Linha de Visão no início da Ativação.
 - **Vingança Pessoal:** Modelo amigo usa Banho de Sangue para colocar Fora de Ação inimigo que havia colocado um modelo amigo Fora de Ação anteriormente.
 - **Ceifador:** Modelo amigo coloca três inimigos Fora de Ação.
-- **Arriscar Tudo:** Modelo amigo faz duos Testes de Sucesso Arriscados na mesma Ativação, ambas Sucesso ou Sucesso Crítico.
+- **Arriscar Tudo:** Modelo amigo faz dois Testes de Sucesso Arriscados na mesma Ativação, ambos Sucesso ou Sucesso Crítico.
 - **O Verdadeiro Matador:** Modelo amigo coloca inimigo em Terreno Perigoso ou Difícil Fora de Ação.
 - **Invasor de Trincheiras:** Bando captura seção de trincheira de pelo menos 6" dentro de 8" da Zona inimiga.
 
