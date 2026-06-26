@@ -309,7 +309,7 @@ Os seguintes modificadores são cumulativos. O máximo de -MODIFICADOR DE FERIME
 - **Marcadores de Sangue:** Adicione +1 DADO DE FERIMENTO para cada MARCADOR DE SANGUE gasto.
 - **Sucesso Crítico:** Adicione +1 DADO DE FERIMENTO.
 - **Derrubado:** Adicione +1 DADO DE FERIMENTO para um Ataque Corpo a Corpo se o alvo estiver Derrubado.
-- **Habilidades ou Palavras-Chave:** Adicione quaisquer +/-DADOS DE FERIMENTO e/ou +/-MODIFICADORES DE FERIMENTO para habilidades ou Palavras-Chave que se apliquem o Teste de Ferimento. Quando uma habilidade diz que um modificador se aplica "para um modelo", ele se aplica a Testes de Ferimento feitas **para** aquele modelo, não a Rolagens feitas **por** ele.
+- **Habilidades ou Palavras-Chave:** Adicione quaisquer +/-DADOS DE FERIMENTO e/ou +/-MODIFICADORES DE FERIMENTO para habilidades ou Palavras-Chave que se apliquem o Teste de Ferimento. Quando uma habilidade diz que um modificador se aplica "para um modelo", ele se aplica a Testes de Ferimento feitos **para** aquele modelo, não a Testes feitos **por** ele.
 - **Característica de Armadura:** Adicione o -MODIFICADOR DE FERIMENTO da Característica de Armadura do modelo (se houver).
 - **Equipamento:** Adicione o -MODIFICADOR DE FERIMENTO do Equipamento do modelo (ex: Armadura, Escudo, etc.).
 
@@ -888,7 +888,7 @@ Durante partidas de Trench Crusade, modelos podem ser feridos por ataques, queda
 
 ### Testes de Ferimento
 
-Umo Teste de Ferimento é feita de forma semelhante a um Teste de Sucesso, pegando 2D6, adicionando dados extras à rolagem e então escolhendo os dois dados mais altos ou mais baixos e somando-os. No entanto, quando você faz um Teste de Ferimento, DADOS DE FERIMENTO e MODIFICADORES DE FERIMENTO podem ser adicionados à rolagem em vez de +/-DADOS.
+Um Teste de Ferimento é feito de forma semelhante a um Teste de Sucesso, pegando 2D6, adicionando dados extras à rolagem e então escolhendo os dois dados mais altos ou mais baixos e somando-os. No entanto, quando você faz um Teste de Ferimento, DADOS DE FERIMENTO e MODIFICADORES DE FERIMENTO podem ser adicionados à rolagem em vez de +/-DADOS.
 
 **DADO DE FERIMENTO:** +/-DADOS DE FERIMENTO são adicionados a um Teste de Ferimento da mesma forma que +/-DADOS são adicionados a um Teste de Sucesso (ver Testes de Sucesso).
 
