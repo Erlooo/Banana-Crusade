@@ -2345,12 +2345,12 @@ Os seguintes modelos não podem ser Promovidos ao status ELITE:
 | 3 | **Caçador:** Ataques a Distância feitos por um modelo com esta Habilidade têm a Palavra-Chave IGNORAR COBERTURA. |
 | 4 | **Pistoleiro:** Se o modelo estiver armado com Armas a Distância com a Palavra-Chave PISTOLA: se equipado com 2 Armas com PISTOLA, pode Atirar com uma e imediatamente Atirar com a outra. Adicione as Palavras-Chave ASSALTO e IGNORAR ARMA SECUNDÁRIA a quaisquer armas com PISTOLA. |
 | 5 | **Tiro Longo:** Adicione 6" ao Alcance de Armas com PISTOLA, quaisquer Armas com "Rifle" no nome, e quaisquer Armas com "Jezzail" ou "Arcabuz" no nome. |
-| 6 | **Olhos Aguçados:** Ataques a Distância feitos por um modelo com esta Habilidade tem a Palavra-Chave IGNORAR LONGO ALCANCE. |
+| 6 | **Olhos Aguçados:** Ataques a Distância feitos por um modelo com esta Habilidade têm a Palavra-Chave IGNORAR LONGO ALCANCE. |
 | 7 | **Proficiência a Distância:** Adicione +1 DADO a Característica de Distância de um modelo com esta Habilidade. |
 | 8 | **Ninho de Franco-Atirador:** Adicione +2 DADOS em vez de +1 DADO a rolagens para Ataques a Distância feitos com o modificador de Posição Elevada por um modelo com esta Habilidade. |
-| 9 | **Queima-Roupa:** Quando um modelo com esta Habilidade fizer um Ataque Corpo a Corpo, pode usar uma Arma a Distância é sua Característica de Ataque a Distância em vez de uma Arma Corpo a Corpo. Deve ainda estar dentro de 1" do alvo. |
+| 9 | **Queima-Roupa:** Quando um modelo com esta Habilidade fizer um Ataque Corpo a Corpo, pode usar uma Arma a Distância e sua Característica de Ataque a Distância em vez de uma Arma Corpo a Corpo. Deve ainda estar dentro de 1" do alvo. |
 | 10 | **Tiro do Quadril:** Armas a Distância usadas por um modelo com esta Habilidade contam como tendo a Palavra-Chave ASSALTO. |
-| 11 | **Tiro na Cabeça:** Ataques a Distância feitos por um modelo com esta Habilidade tem a Palavra-Chave IGNORAR ARMADURA se o ataque for um Sucesso Crítico. |
+| 11 | **Tiro na Cabeça:** Ataques a Distância feitos por um modelo com esta Habilidade têm a Palavra-Chave IGNORAR ARMADURA se o ataque for um Sucesso Crítico. |
 | 12 | **Habilidade de Patrono.** |
 
 ### TABELA DE HABILIDADES DE FURTIVIDADE E VELOCIDADE
@@ -2375,8 +2375,8 @@ Os seguintes modelos não podem ser Promovidos ao status ELITE:
 |-----|------------|
 | 2 | **Habilidade de Patrono.** |
 | 3 | **Sorte de Guerra:** Um modelo com esta Habilidade pode sofrer 1 Cicatriz de Batalha extra antes de ficar Inapto para o Serviço. |
-| 4 | **E Apenas um Arranhão:** Você pode rerolar o resultado na Tabela de Trauma para um modelo com esta Habilidade. |
-| 5 | **Ma Companhia:** Um modelo com esta Habilidade não conta para o número de modelos ELITE na seu Bando no início da etapa de Promoção. |
+| 4 | **É Apenas um Arranhão:** Você pode rerolar o resultado na Tabela de Trauma para um modelo com esta Habilidade. |
+| 5 | **Má Companhia:** Um modelo com esta Habilidade não conta para o número de modelos ELITE no seu Bando no início da etapa de Promoção. |
 | 6 | **Sucateiro:** Um modelo com esta Habilidade tem a Habilidade de Exploração Dado Extra. |
 | 7 | **Perícia e Habilidade:** Quando você der esta Habilidade a um modelo, escolha 1 AÇÃO na Entrada de Bando daquele modelo, ou 1 AÇÃO Comum além de Lutar ou Atirar, e anote-a. Adicione +1 DADO a rolagens feitas como parte da AÇÃO escolhida quando realizadas por este modelo. |
 | 8 | **Exibicionista:** Adicione 1 dado ao Pool de Promoção na etapa de Promoção para cada modelo em seu Bando com esta Habilidade. |
@@ -2387,7 +2387,7 @@ Os seguintes modelos não podem ser Promovidos ao status ELITE:
 
 ### Potencial Limitado
 
-Alguns modelos tem capacidade limitada de ganhar Experiência e aprender novas Habilidades. Os seguintes modelos não podem ter mais de 7 Pontos de Experiência:
+Alguns modelos têm capacidade limitada de ganhar Experiência e aprender novas Habilidades. Os seguintes modelos não podem ter mais de 7 Pontos de Experiência:
 
 - **Nova Antioquia:** -
 - **Peregrinos das Trincheiras:** Comunicante
@@ -2409,7 +2409,7 @@ Na Etapa de Reforços, você tem a opção de Pedir Reforços se sentir que as p
 3. Calcule o Custo total de todos os modelos em seu Bando.
 4. Subtraia o Custo Total de seu Bando do Valor de Limiar da próxima partida. A diferença é o número de 👑 que você pode gastar para recrutar novos modelos.
 5. Quaisquer 👑 não gastos são perdidos.
-6. Se você Pedir Reforços, deve renunciar a Etapa de Exploração e Etapa do Intendente completamente.
+6. Se você Pedir Reforços, deve renunciar à Etapa de Exploração e Etapa do Intendente completamente.
 
 ---
 
@@ -2434,7 +2434,7 @@ Nesta etapa, você tem a chance de explorar o território sobre o qual a campanh
 | 6-9 | 5 Dados de Exploração |
 | 10+ | 6 Dados de Exploração |
 
-**Rolar Dados de Exploração:** Role todos os Dados de Exploração e some-os. Você pode rerolar um dos Dados de Exploração, e se ganhou a partida, pode rerolar outro Dado de Exploração (não pode rerolar o mesmo dado duàs vezes).
+**Rolar Dados de Exploração:** Role todos os Dados de Exploração e some-os. Você pode rerolar um dos Dados de Exploração, e se ganhou a partida, pode rerolar outro Dado de Exploração (não pode rerolar o mesmo dado duas vezes).
 
 ### HABILIDADES DE EXPLORAÇÃO
 
@@ -2455,11 +2455,11 @@ Nesta etapa, você tem a chance de explorar o território sobre o qual a campanh
 | 6 | **Santuário de Trincheira:** Escolha: Padrão (adicione uma Bandeira de Tropa ao Arsenal); Santuário (adicione um Santuário de Campo ao Arsenal); Retorno (seu Bando ganha +2 ☼). |
 | 8 | **Casa em Ruínas:** Escolha: Vasculhar (escolha peças de Equipamento que valham até 30 👑 no total e adicione ao Arsenal); Relíquia (escolha 1 Item de Glória que valha até 7 ☼ e adicione ao Arsenal). |
 | 9 | **Sobrevivente:** Você encontra um soldado cambaleando na Terra de Ninguém. Adicione o modelo listado para sua Facção a seu Bando sem Equipamento de Batalha. |
-| 10 | **Soldado Caído:** Escolha 1 Arma a Distância das Tabelas de Armaria que valha até 15 👑, e adicione ao Arsenal junto com um Capacete de Combate é Armadura Padrão. Role um D6: em 4+, adicione um Kit Médico, Kit de Montanhismo ou uma Pá. |
+| 10 | **Soldado Caído:** Escolha 1 Arma a Distância das Tabelas de Armaria que valha até 15 👑, e adicione ao Arsenal junto com um Capacete de Combate e Armadura Padrão. Role um D6: em 4+, adicione um Kit Médico, Kit de Montanhismo ou uma Pá. |
 | 11 | **Comerciante de Trincheira:** Escolha: Relatorio (seu Bando ganha 2 ☼); Comerciar (de agora em diante, pode comprar Itens de Glória que custem 5 ☼ ou menos). |
 | 14 | **Bolsa de Mapas e Documentos:** Seu Bando ganha a Habilidade de Exploração Rerolar. |
 | 16 | **Toca do Franco-Atirador:** Adicione o Equipamento de Batalha listado para sua Facção ao Arsenal. |
-| 18 | **Cavaleiro Caído:** Escolha: Saquear (adicione Armadura Reforçada, Escudo de Trincheira, Capacete de Combate é Espada ou Arma de Haste ao Arsenal); Memorial (seu Bando ganha 2 ☼). |
+| 18 | **Cavaleiro Caído:** Escolha: Saquear (adicione Armadura Reforçada, Escudo de Trincheira, Capacete de Combate e Espada ou Arma de Haste ao Arsenal); Memorial (seu Bando ganha 2 ☼). |
 | 20 | **Cofre de Bando:** Escolha: Tesouro (escolha Equipamento de Batalha que valha até 120 👑 no total); Panoplia (escolha Itens de Glória que valham até 9 ☼ no total, com desconto de 1 ☼ em Armas). |
 
 ### TABELA DE EXPLORAÇÃO DE LOCAIS RAROS
@@ -2471,12 +2471,12 @@ Nesta etapa, você tem a chance de explorar o território sobre o qual a campanh
 | 11 | **Pote de Mana:** Adicione 10 👑 a quantidade de saque que você recebe a cada Etapa de Exploração. |
 | 12 | **Oficina de Alquimista Saqueada:** Adicione Fluidos Curativos ao Arsenal. Uma vez, remova 1 Cicatriz de Batalha de um modelo. |
 | 15 | **Mercado Negro:** De agora em diante, pode comprar Itens de Glória que custem 8 ☼ ou menos. |
-| 17 | **Livro de Golens:** Adicione um Homunculus Takwin a seu Bando com Fórmula de Mãos Humanas e Formulas Alquimicas até 50 👑 de graça. |
+| 17 | **Livro de Golens:** Adicione um Homunculus Takwin a seu Bando com Fórmula de Mãos Humanas e Fórmulas Alquímicas até 50 👑 de graça. |
 | 19 | **Igreja/Mesquita/Sinagoga em Ruínas:** Escolha: Relatorio (seu Bando ganha +4 ☼); Guardar (escolha 1 Item de Glória que valha até 10 ☼). |
-| 21 | **Depósito de Drogas e Material Erotico:** Escolha: Entregar-se (+1 DADO em Testes de Moral pelo resto da campanha); Vender (ganhe 120 👑); Confiscar (ganhe +4 ☼). Peregrinos das Trincheiras devem selecionar Confiscar. |
+| 21 | **Depósito de Drogas e Material Erótico:** Escolha: Entregar-se (+1 DADO em Testes de Moral pelo resto da campanha); Vender (ganhe 120 👑); Confiscar (ganhe +4 ☼). Peregrinos das Trincheiras devem selecionar Confiscar. |
 | 23 | **Relicário do Santo:** Adicione uma Relíquia Sagrada ao Arsenal. Equipamento ELITE only. O modelo ganha RESISTENTE mas perde INFILTRADOR. |
 | 25 | **Cativo de Alto Escalão:** Escolha: Resgate (ganhe 100 👑); Executar (ganhe +4 ☼); Aprisionar (escolha 1 Item de Glória até 8 ☼); Indenturar (ganhe Habilidade de Exploração Definir Dado). |
-| 32 | **Máquinas de Ressurreição Abandonadas:** Adicione uma Máquina de Ressurreição Resgatada ao Arsenal. Uma vez, remova 1 Cicatriz de Batalha é seu Trauma correspondente. |
+| 32 | **Máquinas de Ressurreição Abandonadas:** Adicione uma Máquina de Ressurreição Resgatada ao Arsenal. Uma vez, remova 1 Cicatriz de Batalha e seu Trauma correspondente. |
 
 ### TABELA DE EXPLORAÇÃO DE LOCAIS LENDÁRIOS
 
@@ -2769,7 +2769,7 @@ Cada cenário tem um conjunto único de Feitos Gloriosos que, quando completados
 
 **Campo de Batalha:** Arquétipo Terra de Ninguém. 6 Marcadores de Relicário no mapa. No final do Turno 1, remova Relicários 1 e 2; no final do Turno 2, remova Relicários 3 e 4.
 
-**AÇÃO de Reclamar Relicário:** Um modelo dentro de 1" de um Relicário pode realizar uma AÇÃO de Reclamar Relicário. Faça um Teste de Sucesso. Em Sucesso ou Sucesso Crítico, o Relicário e reclamado pelo modelo.
+**AÇÃO de Reclamar Relicário:** Um modelo dentro de 1" de um Relicário pode realizar uma AÇÃO de Reclamar Relicário. Faça um Teste de Sucesso. Em Sucesso ou Sucesso Crítico, o Relicário é reclamado pelo modelo.
 
 **Posicionamento:** Máximo de 6 modelos posicionados (modelos em bases de 40mm+ contam como 2). Restantes são reforços. Infiltradores devem ser posicionados normalmente.
 
@@ -2798,7 +2798,7 @@ Cada cenário tem um conjunto único de Feitos Gloriosos que, quando completados
 
 *Assalte as trincheiras para ganhar glória ou monte uma defesa contra o ataque inimigo.*
 
-**Forças:** Antes de montar, decidam quem e atacante e defensor. O jogador com mais modelos é o atacante. O defensor deve gastar apenas metade dos 👑 em seu Bando.
+**Forças:** Antes de montar, decidam quem é atacante e defensor. O jogador com mais modelos é o atacante. O defensor deve gastar apenas metade dos 👑 em seu Bando.
 
 **Campo de Batalha:** Arquétipo Terra de Ninguém. Não monte terreno em nenhuma Zona de Posicionamento.
 
@@ -2827,7 +2827,7 @@ Cada cenário tem um conjunto único de Feitos Gloriosos que, quando completados
 
 *Um trem blindado descarrilado, carregado de saque e munição, está sendo disputado pelos dois bandos.*
 
-**Forças:** Em campanha, ambos os jogadores tem Força de Campo de 15 modelos.
+**Forças:** Em campanha, ambos os jogadores têm Força de Campo de 15 modelos.
 
 **Campo de Batalha:** Arquétipo Terra de Ninguém, campo de 48" x 48". Monte os vagões do trem blindado em um aterro elevado com ponte no meio. Inclui Marcador de Bateria de Canhão no vagão central.
 
@@ -2848,7 +2848,7 @@ Cada cenário tem um conjunto único de Feitos Gloriosos que, quando completados
 **Feitos Gloriosos:**
 - **Rei da Colina:** Modelo amigo termina 3 Turnos consecutivos em cima do aterro/ponte e dentro de 3" de um vagão.
 - **Moedor de Carne:** Modelo amigo coloca 3 inimigos Fora de Ação com Ataques a Distância da Bateria de Canhão.
-- **Nada Deixar de Pe:** Modelo amigo destrava dois vagões diferentes.
+- **Nada Deixar de Pé:** Modelo amigo destrava dois vagões diferentes.
 - **Além da Linha Inimiga:** Modelo amigo escapa com caixa na Zona de Posicionamento inimiga.
 - **Corrida de Suprimentos:** Dois modelos amigos escapam com caixas.
 
@@ -2862,16 +2862,16 @@ Cada cenário tem um conjunto único de Feitos Gloriosos que, quando completados
 
 **Campo de Batalha:** Arquétipo Terra de Ninguém ou Linhas de Trincheira. O Dragão é montado no ponto médio; os 6 Camponeses são posicionados a mais de 8" do Dragão e 6" um do outro.
 
-**Modelos Neutros:** O Dragão e os Camponeses são modelos neutros (tratados como inimigos por ambos os lados). Após cada Ativação de um modelo do jogador, role D6: em 1-4 Ative um Campones; em 5-6 Ative o Dragão ou um Campones.
+**Modelos Neutros:** O Dragão e os Camponeses são modelos neutros (tratados como inimigos por ambos os lados). Após cada Ativação de um modelo do jogador, role D6: em 1-4 Ative um Camponês; em 5-6 Ative o Dragão ou um Camponês.
 
 **O Dragão:** Movimento 10", +3 DADOS em Distância e Corpo a Corpo, -3 Armadura, base 120-300mm. Palavra-Chave MEDO. Habilidades: Sopro de Fogo (Alcance 10", EXPLOSÃO 3", FOGO, IGNORAR ARMADURA, DISPERSÃO), Dentes e Garras Mortais (+1 DADO, +1 DADO DE FERIMENTO, IGNORAR ARMADURA), Chicotada de Cauda (+1 MODIFICADOR DE FERIMENTO), Campo de Batalha Vivo (modelos podem subir nele), Arma de Cerco (move sobre terreno), Esmagar (move sobre modelos), Resistente, Imorredouro (3 primeiros resultados Fora de Ação tratados como Derrubado), e Desafiador.
 
-**Os Camponeses:** Movimento 5", só podem Mover ou Recuar em direção a borda mais próxima. Habilidade Debil: +2 DADOS e +2 DADOS DE FERIMENTO contra eles.
+**Os Camponeses:** Movimento 5", só podem Mover ou Recuar em direção a borda mais próxima. Habilidade Débil: +2 DADOS e +2 DADOS DE FERIMENTO contra eles.
 
 **Duração:** Ao final do 4o Turno, role D6: em 1-2 termina; em 3+, termina no 5o Turno. Empate se o Dragão sair do campo.
 
 **Pontos de Vitória:**
-- 2 PVs por matar um Campones.
+- 2 PVs por matar um Camponês.
 - 3 PVs por Abater o Dragão.
 - 6 PVs por colocar o Dragão Fora de Ação.
 - 1 PV por Feito Glorioso.
@@ -2880,7 +2880,7 @@ Cada cenário tem um conjunto único de Feitos Gloriosos que, quando completados
 - **Matador de Dragões:** Modelo amigo em cima do Dragão o coloca Fora de Ação com Ataque Corpo a Corpo (ganha 2 ☼).
 - **Fogo com Fogo:** Ataque amigo com FOGO/GÁS/ESTILHAÇO causa 2 MARCADORES DE SANGUE no Dragão.
 - **Genocida:** Modelo coloca 3 Camponeses Fora de Ação.
-- **Oportunista:** Modelo está dentro de 3" de um Campones quando ele é atropelado pelo Dragão.
+- **Oportunista:** Modelo está dentro de 3" de um Camponês quando ele é atropelado pelo Dragão.
 - **Saia das Minhas Costas:** Modelo amigo Abate modelo em cima do Dragão, e o modelo Cai.
 
 ---
@@ -2920,7 +2920,7 @@ Cada cenário tem um conjunto único de Feitos Gloriosos que, quando completados
 
 **Forças:** Nenhuma restrição especial.
 
-**Campo de Batalha:** Qualquer arquétipo. Coloque 3 Marcadores de Poço de Icor no ponto médio e 4 Marcadores de Projéteis de Artilharia. Terreno dentro de 2" dos Poços de Icor e Difícil e Perigoso. Cada Poço contém Icor para 6 Frascos.
+**Campo de Batalha:** Qualquer arquétipo. Coloque 3 Marcadores de Poço de Icor no ponto médio e 4 Marcadores de Projéteis de Artilharia. Terreno dentro de 2" dos Poços de Icor é Difícil e Perigoso. Cada Poço contém Icor para 6 Frascos.
 
 **Posicionamento:** Posicione apenas metade de sua Força (arredondando para cima). Infiltradores podem usar regras especiais mas não dentro de 6" de um Marcador.
 
@@ -2932,14 +2932,14 @@ Cada cenário tem um conjunto único de Feitos Gloriosos que, quando completados
 - 3a explosão: D6, em 3-6 a Besta desperta.
 - 4a explosão: a Besta desperta automaticamente.
 
-Se a Besta despertar, todos os modelos ficam Fora de Ação é a partida termina em empate.
+Se a Besta despertar, todos os modelos ficam Fora de Ação e a partida termina em empate.
 
-**Chamado da Besta:** Após cada explosão (se a Besta não despertar), posicione D3 Carrapatos Infernais. Movimento 10", +1 DADO Corpo a Corpo, +1 DADO DE FERIMENTO. Habilidades: Mandibulas (ao causar MARCADORES DE SANGUE, remova 1 do Carrapato), Envenenado (alvo recebe 1 MARCADOR DE SANGUE ao ser Ativado).
+**Chamado da Besta:** Após cada explosão (se a Besta não despertar), posicione D3 Carrapatos Infernais. Movimento 10", +1 DADO Corpo a Corpo, +1 DADO DE FERIMENTO. Habilidades: Mandíbulas (ao causar MARCADORES DE SANGUE, remova 1 do Carrapato), Envenenado (alvo recebe 1 MARCADOR DE SANGUE ao ser Ativado).
 
 **Duração:** Ao final do 4o Turno, role D6: em 1-2 termina; em 3+, termina no 5o Turno (se a Besta não despertar).
 
 **Pontos de Vitória:**
-- 1 PV por Frasco de Icor extraido.
+- 1 PV por Frasco de Icor extraído.
 - 1 PV por Feito Glorioso.
 
 **Feitos Gloriosos:**
@@ -2948,7 +2948,7 @@ Se a Besta despertar, todos os modelos ficam Fora de Ação é a partida termina
 - **Frenesi de Icor:** Modelo amigo extrai Frasco dentro da Zona inimiga.
 - **Arriscado:** Modelo amigo causa explosão que coloca 2+ inimigos Fora de Ação.
 - **Miserável Sádico:** Modelo amigo faz inimigo ser colocado Fora de Ação ao movê-lo para um Poço de Icor.
-- **Ladrao de Frascos:** Modelo amigo rouba Frasco de inimigo e consegue extrai-lo.
+- **Ladrão de Frascos:** Modelo amigo rouba Frasco de inimigo e consegue extraí-lo.
 
 ---
 
@@ -2993,7 +2993,7 @@ Se a Besta despertar, todos os modelos ficam Fora de Ação é a partida termina
 
 **Posicionamento:** Defensor posiciona máximo 6, atacante posiciona 6+D3. Reforços cada Turno (D3).
 
-**Destruindo Bunkers:** Modelos ELITE atacantes tem Cargas de Demolição. AÇÕES: Colocar Carga (em contato com Bunker) e Detonar Carga (Teste de Ferimento IGNORAR ARMADURA para modelos dentro de 3").
+**Destruindo Bunkers:** Modelos ELITE atacantes têm Cargas de Demolição. AÇÕES: Colocar Carga (em contato com Bunker) e Detonar Carga (Teste de Ferimento IGNORAR ARMADURA para modelos dentro de 3").
 
 **Duração:** Ao final do 5o Turno, role D6: em 1-2 termina; em 3+, termina no 6o Turno.
 
@@ -3004,10 +3004,10 @@ Se a Besta despertar, todos os modelos ficam Fora de Ação é a partida termina
 
 **Feitos Gloriosos:**
 - **Visão Ardente:** Modelo amigo faz Nuvem de Gás a mais de 14" explodir e coloca inimigos Fora de Ação.
-- **Combustivel:** Explosão de Nuvem de Gás coloca 2+ inimigos Fora de Ação.
+- **Combustível:** Explosão de Nuvem de Gás coloca 2+ inimigos Fora de Ação.
 - **Respiração Profunda:** Modelo amigo faz inimigo ser colocado Fora de Ação ao movê-lo para dentro de 6" de Nuvem de Gás.
 - **Pulmões de Ferro:** Bando controla Bunker dentro de 6" de Nuvem de Gás ao final de 2 Turnos consecutivos.
-- **Furia Venenosa:** Modelo amigo dentro de 6" de Nuvem de Gás coloca inimigo Fora de Ação com Ataque Corpo a Corpo.
+- **Fúria Venenosa:** Modelo amigo dentro de 6" de Nuvem de Gás coloca inimigo Fora de Ação com Ataque Corpo a Corpo.
 
 ---
 
@@ -3021,7 +3021,7 @@ Se a Besta despertar, todos os modelos ficam Fora de Ação é a partida termina
 
 **Posicionamento:** Alternam posicionando. Infiltradores podem usar regras especiais mas não dentro de 3" de um Objetivo.
 
-**Objetivo Prioritario:** Após posicionamento, cada jogador anota secretamente qual dos 5 Objetivos é sua prioridade máxima.
+**Objetivo Prioritário:** Após posicionamento, cada jogador anota secretamente qual dos 5 Objetivos é sua prioridade máxima.
 
 **Duração:** 5 Turnos.
 
@@ -3029,13 +3029,13 @@ Se a Besta despertar, todos os modelos ficam Fora de Ação é a partida termina
 - 1 PV cada vez que modelo amigo coloca inimigo Fora de Ação com Investida Mergulhante.
 - 2 PVs por Objetivo controlado ao final de cada Turno.
 - 1 PV por Feito Glorioso.
-- 3 PVs por controlar o Objetivo Prioritario do oponente.
-- 3 PVs por controlar seu próprio Objetivo Prioritario.
+- 3 PVs por controlar o Objetivo Prioritário do oponente.
+- 3 PVs por controlar seu próprio Objetivo Prioritário.
 
 **Feitos Gloriosos:**
-- **De Volta a Lama:** Modelo amigo faz inimigo em Objetivo Cair, resultando em Fora de Ação.
+- **De Volta à Lama:** Modelo amigo faz inimigo em Objetivo Cair, resultando em Fora de Ação.
 - **Morte Vinda de Cima:** Modelo amigo coloca inimigo Fora de Ação com Investida Mergulhante.
-- **Abaixo com Você:** Modelo amigo em Objetivo usa Ataque a Distância para colocar inimigo em Objetivo diferente é mais alto Fora de Ação.
+- **Abaixo com Você:** Modelo amigo em Objetivo usa Ataque a Distância para colocar inimigo em Objetivo diferente e mais alto Fora de Ação.
 - **Vitória ou Morte:** Bando vence a partida (somente campanha).
 - **Rei da Colina:** Modelo esteve em todos os cinco Objetivos.
 
