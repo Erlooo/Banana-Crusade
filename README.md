@@ -17,6 +17,15 @@ Baseado no *Trench Crusade Digital Rulebook 1.0.2* oficial:
 | PDF (para impressão/leitura) | [Rulebook_PT-BR_v1.pdf](./TrenchCrusade_Translation/PT-BR/Rulebook_PT-BR_v1.pdf) |
 | Markdown (para edição) | [Rulebook_PT-BR_v1.md](./TrenchCrusade_Translation/PT-BR/Rulebook_PT-BR_v1.md) |
 
+## 🛡️ Compêndio de Bandos 1.0.2 - Traduzido
+
+Baseado no *Warbands of Trench Crusade 1.0.2* oficial:
+
+| Formato | Link |
+|---------|------|
+| PDF (para impressão/leitura) | [Warbands_Compendium_PT-BR.pdf](./TrenchCrusade_Translation/PT-BR/Warbands_Compendium_PT-BR.pdf) |
+| Markdown (para edição) | [Warbands_Compendium_PT-BR.md](./TrenchCrusade_Translation/PT-BR/Warbands_Compendium_PT-BR.md) |
+
 ---
 
 ## 📂 Capítulos Individuais
