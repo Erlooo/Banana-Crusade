@@ -4,9 +4,9 @@
 
 > Tradução colaborativa e não oficial do **Trench Crusade** para Português do Brasil, feita pela comunidade para a comunidade.
 
-[![Status](https://img.shields.io/badge/status-em%20revis%C3%A3o-yellow)]()
-[![Idioma](https://img.shields.io/badge/idioma-PT--BR-green)]()
-[![Oficial](https://img.shields.io/badge/oficial-n%C3%A3o-red)]()
+![](https://img.shields.io/badge/em%20revis%C3%A3o-yellow)
+![](https://img.shields.io/badge/PT--BR-green)
+![](https://img.shields.io/badge/n%C3%A3o--oficial-red)
 
 ## 📖 Livro de Regras Traduzido
 
