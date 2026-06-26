@@ -16,11 +16,11 @@ stylesheet: style.css
 
 ## Livro de Regras Digital
 
-### Traducao PT-BR
+### Tradução PT-BR
 
 *Factory Fortress Inc. (2026)*
 
-*Traducao nao-oficial para fins de comunidade*
+*Tradução não-oficial para fins de comunidade*
 
 </div>
 

@@ -51,7 +51,7 @@ Referência canônica de tradução para criação de conteúdo homebrew. Todos 
 | SHRAPNEL | ESTILHAÇO | Em EXPLOSÃO, modelos na área recebem Marcadores de Sangue extras em falhas. |
 | FLAMETHROWER | LANÇA-CHAMAS | Área em linha. Ignora Cobertura. Aplica FOGO mesmo em "Sem Efeito". |
 | FIRE | FOGO | Alvo fica Em Chamas: Rolagem de Ferimento automática no início de cada ativação. |
-| GAS | GÁS | Aplica Gaseado: Penalidade em todos os testes; Marcador de Sangue extra por turno. |
+| GÁS | GÁS | Aplica Gaseado: Penalidade em todos os testes; Marcador de Sangue extra por turno. |
 | IGNORE ARMOUR | IGNORA ARMADURA | A Armadura do alvo não é aplicada à Rolagem de Ferimento. |
 | CRITICAL | CRÍTICO | Em Sucesso Crítico, role +2 dados na Rolagem de Ferimento em vez de +1. |
 | RISKY | ARRISCADO | Em falha, o atirador também sofre uma Rolagem de Ferimento. |
@@ -229,7 +229,7 @@ Referência canônica de tradução para criação de conteúdo homebrew. Todos 
 | Goetia | Goetia | Magia demoníaca baseada em grimórios infernais. |
 | Golem | Golem | Construto artificial animado; tecnologia judaico-islâmica repropositada. |
 | Mubarizon | Mubarizon | Combate singular ritualístico do Sultanato de Ferro. |
-| Mustard Gas | Gás Mostarda | Arma química da Grande Guerra; versão infernal causa efeitos abissais. |
+| Mustard Gás | Gás Mostarda | Arma química da Grande Guerra; versão infernal causa efeitos abissais. |
 
 ---
 
@@ -322,7 +322,7 @@ Referência canônica de tradução para criação de conteúdo homebrew. Todos 
 | Inglês | PT-BR |
 | :--- | :--- |
 | Field Dressing | Curativo de Campo |
-| Gas Mask | Máscara de Gás |
+| Gás Mask | Máscara de Gás |
 | Holy Relic | Relíquia Sagrada |
 | Iron Idol | Ídolo de Ferro |
 | Satchel Charge | Carga Explosiva |

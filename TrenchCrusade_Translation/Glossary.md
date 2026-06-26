@@ -1,7 +1,7 @@
-# Glossario de Termos: Traducao Trench Crusade PT-BR
+# Glossário de Termos: Tradução Trench Crusade PT-BR
 
-> Glossario completo e canonico em: `c:\Users\herll\Downloads\Trabalho\TrenchCrusade_Project\GLOSSARIO_PT-BR.md`
-> Este arquivo e apenas uma referencia rapida para o projeto de traducao.
+> Glossário completo e canonico em: `c:\Users\herll\Downloads\Trabalho\TrenchCrusade_Project\GLOSSARIO_PT-BR.md`
+> Este arquivo e apenas uma referencia rápida para o projeto de traducao.
 
 ---
 
@@ -11,7 +11,7 @@
 |--------|-------|--------|
 | Movement | Movimento | M |
 | Melee | Corpo a Corpo | CaC |
-| Ranged | Distancia | Dist |
+| Ranged | Distância | Dist |
 | Armour | Armadura | Arm |
 | Speed | Velocidade | V |
 
@@ -19,7 +19,7 @@
 
 | Ingles | PT-BR |
 |--------|-------|
-| LEADER | LIDER |
+| LEADER | LÍDER |
 | ELITE | ELITE |
 | FOLLOWER | SEGUIDOR |
 | TOUGH | RESISTENTE |
@@ -28,7 +28,7 @@
 | FLYING | VOADOR |
 | GOLEM | GOLEM |
 | INFILTRATOR | INFILTRADOR |
-| SKIRMISHER | ESCARAMUCADOR |
+| SKIRMISHER | ESCARAMUÇADOR |
 | ASSAULT | ASSALTO |
 | DEADLY | LETAL |
 | REGENERATE | REGENERAR |
@@ -38,35 +38,35 @@
 
 | Ingles | PT-BR |
 |--------|-------|
-| AUTOMATIC(X) | AUTOMATICO(X) |
-| BLAST(X") | EXPLOSAO(X") |
+| AUTOMATIC(X) | AUTOMÁTICO(X) |
+| BLAST(X") | EXPLOSÃO(X") |
 | RELOAD | RECARREGAR |
 | PISTOL | PISTOLA |
 | BAYONET LUG | SUPORTE DE BAIONETA |
 | FOCUSED FIRE | FOGO CONCENTRADO |
-| SHRAPNEL | ESTILHACO |
-| FLAMETHROWER | LANCA-CHAMAS |
+| SHRAPNEL | ESTILHAÇO |
+| FLAMETHROWER | LANÇA-CHAMAS |
 | FIRE | FOGO |
-| GAS | GAS |
+| GÁS | GÁS |
 | IGNORE ARMOUR | IGNORA ARMADURA |
-| CRITICAL | CRITICO |
+| CRITICAL | CRÍTICO |
 | RISKY | ARRISCADO |
-| DESPATCH | EXECUCAO |
-| INFECTION MARKER | MARCADOR DE INFECCAO |
+| DESPATCH | EXECUÇÃO |
+| INFECTION MARKER | MARCADOR DE INFECÇÃO |
 | CLEAVE(X) | GOLPE VARRENTE(X) |
 
-## Condicoes
+## Condições
 
 | Ingles | PT-BR |
 |--------|-------|
 | Down | Abatido |
-| Out of Action | Fora de Acao |
+| Out of Action | Fora de Ação |
 | On Fire | Em Chamas |
 | Gassed | Gaseado |
 | Infected | Infectado |
 | Shaken | Abalado |
 
-## Mecanicas
+## Mecânicas
 
 | Ingles | PT-BR |
 |--------|-------|
@@ -78,12 +78,12 @@
 | +DICE | +DADO |
 | -DICE | -DADO |
 | Blood Marker | Marcador de Sangue |
-| Blessing Marker | Marcador de Bencao |
-| Glory Points | Pontos de Gloria (☼) |
+| Blessing Marker | Marcador de Bênção |
+| Glory Points | Pontos de Glória (☼) |
 | Ducats | Ducados (👑) |
-| Critical Success | Sucesso Critico |
+| Critical Success | Sucesso Crítico |
 
-## Acoes
+## Ações
 
 | Ingles | PT-BR |
 |--------|-------|
@@ -93,32 +93,32 @@
 | Dash | Correr |
 | Shoot | Atirar |
 | Fight | Lutar |
-| Activation | Ativacao |
+| Activation | Ativação |
 
 ## Fases do Jogo
 
 | Ingles | PT-BR |
 |--------|-------|
 | Initiative Phase | Fase de Iniciativa |
-| Activation Phase | Fase de Ativacao |
+| Activation Phase | Fase de Ativação |
 | Morale Phase | Fase de Moral |
 | Campaign Phase | Fase de Campanha |
 | Turn | Turno |
 
-## Cenarios
+## Cenários
 
 | Ingles | PT-BR |
 |--------|-------|
 | Claim No Man's Land | Reclamar a Terra de Ninguem |
-| Hunt for Heroes | Caca aos Herois |
-| Relic Hunt | Caca a Reliquia |
+| Hunt for Heroes | Caça aos Herois |
+| Relic Hunt | Caça a Relíquia |
 | Trench Warfare | Guerra de Trincheiras |
 | Armoured Train | Trem Blindado |
-| Dragon Hunt | Caca ao Dragao |
+| Dragon Hunt | Caça ao Dragão |
 | Supply Raid | Saque de Suprimentos |
 | From Below | Vindo de Baixo |
-| Fields of Glory | Campos de Gloria |
-| Don't Breathe | Nao Respire |
+| Fields of Glory | Campos de Glória |
+| Don't Breathe | Não Respire |
 | The High Ground | Terreno Elevado |
 | Great War | A Grande Guerra |
 
@@ -129,9 +129,9 @@
 | Principality of New Antioch | Principado de Nova Antioquia |
 | Iron Sultanate | Sultanato de Ferro |
 | Trench Pilgrims | Peregrinos das Trincheiras |
-| Heretic Legion | Legiao Heretica |
+| Heretic Legion | Legiao Herética |
 | Cult of the Black Grail | Culto do Graal Negro |
-| Court of the Seven-Headed Serpent | Corte da Serpente de Sete Cabecas |
+| Court of the Seven-Headed Serpent | Corte da Serpente de Sete Cabeças |
 
 ## Patronos
 
